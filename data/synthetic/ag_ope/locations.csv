@@ -1,0 +1,4 @@
+location_id,name,location_type,parent_warehouse
+KAN,Main warehouse,warehouse,
+DSM,Des Moines branch,branch,
+FAR,Fargo branch,branch,

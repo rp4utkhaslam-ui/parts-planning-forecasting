@@ -1,0 +1,1201 @@
+category,true_pattern,seasonal,season_peak_week,item_id
+Brakes,intermittent,False,0,HD-10000
+Suspension,lumpy,False,0,HD-10001
+Air system,lumpy,False,0,HD-10002
+Suspension,erratic,False,0,HD-10003
+Brakes,intermittent,False,0,HD-10004
+Cooling,intermittent,False,0,HD-10005
+Brakes,intermittent,False,0,HD-10006
+Air system,intermittent,False,0,HD-10007
+Brakes,intermittent,False,0,HD-10008
+Lighting,intermittent,False,0,HD-10009
+Suspension,smooth,False,0,HD-10010
+Suspension,intermittent,True,26,HD-10011
+Electrical,lumpy,True,50,HD-10012
+Brakes,intermittent,False,0,HD-10013
+Lighting,intermittent,False,0,HD-10014
+Brakes,intermittent,False,0,HD-10015
+Electrical,intermittent,False,0,HD-10016
+Suspension,intermittent,False,0,HD-10017
+Suspension,erratic,False,0,HD-10018
+Lighting,intermittent,False,0,HD-10019
+Electrical,intermittent,False,0,HD-10020
+Brakes,smooth,False,0,HD-10021
+Lighting,erratic,False,0,HD-10022
+Air system,intermittent,False,0,HD-10023
+Suspension,intermittent,True,46,HD-10024
+Cooling,smooth,False,0,HD-10025
+Electrical,intermittent,False,0,HD-10026
+Brakes,intermittent,False,0,HD-10027
+Electrical,smooth,False,0,HD-10028
+Cooling,intermittent,False,0,HD-10029
+Lighting,intermittent,False,0,HD-10030
+Cooling,lumpy,False,0,HD-10031
+Air system,intermittent,False,0,HD-10032
+Brakes,intermittent,False,0,HD-10033
+Lighting,intermittent,True,34,HD-10034
+Suspension,intermittent,True,25,HD-10035
+Suspension,intermittent,False,0,HD-10036
+Lighting,intermittent,False,0,HD-10037
+Electrical,erratic,False,0,HD-10038
+Cooling,intermittent,True,28,HD-10039
+Lighting,lumpy,False,0,HD-10040
+Suspension,intermittent,True,46,HD-10041
+Cooling,intermittent,False,0,HD-10042
+Air system,lumpy,False,0,HD-10043
+Brakes,erratic,False,0,HD-10044
+Lighting,intermittent,False,0,HD-10045
+Brakes,intermittent,False,0,HD-10046
+Suspension,intermittent,True,30,HD-10047
+Electrical,lumpy,False,0,HD-10048
+Cooling,erratic,False,0,HD-10049
+Air system,intermittent,False,0,HD-10050
+Brakes,intermittent,False,0,HD-10051
+Suspension,intermittent,False,0,HD-10052
+Electrical,intermittent,False,0,HD-10053
+Air system,lumpy,True,38,HD-10054
+Lighting,lumpy,False,0,HD-10055
+Brakes,intermittent,False,0,HD-10056
+Air system,intermittent,False,0,HD-10057
+Air system,smooth,True,41,HD-10058
+Brakes,lumpy,True,14,HD-10059
+Air system,lumpy,False,0,HD-10060
+Air system,smooth,False,0,HD-10061
+Lighting,lumpy,False,0,HD-10062
+Electrical,lumpy,False,0,HD-10063
+Air system,intermittent,True,11,HD-10064
+Electrical,lumpy,False,0,HD-10065
+Air system,intermittent,False,0,HD-10066
+Brakes,lumpy,False,0,HD-10067
+Lighting,intermittent,False,0,HD-10068
+Cooling,intermittent,False,0,HD-10069
+Lighting,lumpy,False,0,HD-10070
+Brakes,intermittent,False,0,HD-10071
+Cooling,smooth,False,0,HD-10072
+Electrical,erratic,False,0,HD-10073
+Cooling,intermittent,False,0,HD-10074
+Suspension,erratic,True,10,HD-10075
+Electrical,intermittent,False,0,HD-10076
+Suspension,erratic,False,0,HD-10077
+Electrical,erratic,True,50,HD-10078
+Lighting,intermittent,False,0,HD-10079
+Suspension,intermittent,False,0,HD-10080
+Suspension,smooth,False,0,HD-10081
+Cooling,lumpy,False,0,HD-10082
+Cooling,intermittent,False,0,HD-10083
+Cooling,erratic,False,0,HD-10084
+Air system,erratic,False,0,HD-10085
+Brakes,intermittent,True,18,HD-10086
+Electrical,intermittent,False,0,HD-10087
+Air system,erratic,False,0,HD-10088
+Brakes,lumpy,False,0,HD-10089
+Electrical,intermittent,False,0,HD-10090
+Brakes,intermittent,False,0,HD-10091
+Air system,lumpy,False,0,HD-10092
+Cooling,intermittent,False,0,HD-10093
+Electrical,intermittent,False,0,HD-10094
+Air system,intermittent,False,0,HD-10095
+Electrical,intermittent,False,0,HD-10096
+Electrical,intermittent,False,0,HD-10097
+Cooling,intermittent,False,0,HD-10098
+Air system,intermittent,False,0,HD-10099
+Brakes,erratic,False,0,HD-10100
+Brakes,intermittent,False,0,HD-10101
+Cooling,intermittent,True,28,HD-10102
+Electrical,intermittent,False,0,HD-10103
+Cooling,intermittent,False,0,HD-10104
+Brakes,intermittent,True,9,HD-10105
+Electrical,intermittent,False,0,HD-10106
+Suspension,intermittent,False,0,HD-10107
+Cooling,intermittent,False,0,HD-10108
+Cooling,intermittent,False,0,HD-10109
+Cooling,intermittent,False,0,HD-10110
+Air system,intermittent,False,0,HD-10111
+Cooling,erratic,False,0,HD-10112
+Lighting,erratic,False,0,HD-10113
+Cooling,erratic,False,0,HD-10114
+Lighting,intermittent,False,0,HD-10115
+Air system,lumpy,False,0,HD-10116
+Electrical,erratic,False,0,HD-10117
+Lighting,erratic,False,0,HD-10118
+Lighting,intermittent,True,11,HD-10119
+Brakes,intermittent,True,3,HD-10120
+Cooling,smooth,False,0,HD-10121
+Lighting,erratic,False,0,HD-10122
+Suspension,intermittent,False,0,HD-10123
+Electrical,intermittent,False,0,HD-10124
+Air system,intermittent,True,25,HD-10125
+Electrical,intermittent,False,0,HD-10126
+Air system,intermittent,False,0,HD-10127
+Electrical,intermittent,False,0,HD-10128
+Air system,intermittent,False,0,HD-10129
+Cooling,intermittent,False,0,HD-10130
+Suspension,intermittent,False,0,HD-10131
+Electrical,intermittent,False,0,HD-10132
+Air system,intermittent,False,0,HD-10133
+Brakes,erratic,False,0,HD-10134
+Lighting,erratic,False,0,HD-10135
+Lighting,erratic,False,0,HD-10136
+Suspension,lumpy,False,0,HD-10137
+Air system,intermittent,True,6,HD-10138
+Lighting,erratic,False,0,HD-10139
+Electrical,intermittent,False,0,HD-10140
+Electrical,lumpy,False,0,HD-10141
+Lighting,intermittent,False,0,HD-10142
+Suspension,intermittent,False,0,HD-10143
+Brakes,intermittent,False,0,HD-10144
+Brakes,lumpy,False,0,HD-10145
+Lighting,intermittent,False,0,HD-10146
+Brakes,smooth,True,21,HD-10147
+Brakes,lumpy,True,29,HD-10148
+Electrical,smooth,False,0,HD-10149
+Air system,intermittent,False,0,HD-10150
+Electrical,erratic,False,0,HD-10151
+Air system,lumpy,False,0,HD-10152
+Electrical,intermittent,False,0,HD-10153
+Brakes,erratic,False,0,HD-10154
+Electrical,erratic,False,0,HD-10155
+Lighting,intermittent,False,0,HD-10156
+Electrical,intermittent,False,0,HD-10157
+Lighting,intermittent,False,0,HD-10158
+Brakes,intermittent,False,0,HD-10159
+Brakes,intermittent,False,0,HD-10160
+Electrical,intermittent,False,0,HD-10161
+Suspension,erratic,False,0,HD-10162
+Lighting,intermittent,False,0,HD-10163
+Lighting,smooth,False,0,HD-10164
+Suspension,intermittent,True,7,HD-10165
+Cooling,lumpy,False,0,HD-10166
+Brakes,lumpy,False,0,HD-10167
+Electrical,intermittent,False,0,HD-10168
+Suspension,intermittent,False,0,HD-10169
+Electrical,smooth,False,0,HD-10170
+Lighting,intermittent,True,18,HD-10171
+Suspension,smooth,False,0,HD-10172
+Air system,intermittent,False,0,HD-10173
+Lighting,intermittent,False,0,HD-10174
+Lighting,smooth,False,0,HD-10175
+Air system,erratic,True,6,HD-10176
+Air system,intermittent,False,0,HD-10177
+Brakes,intermittent,False,0,HD-10178
+Electrical,intermittent,True,50,HD-10179
+Electrical,intermittent,False,0,HD-10180
+Cooling,intermittent,False,0,HD-10181
+Brakes,intermittent,False,0,HD-10182
+Brakes,intermittent,False,0,HD-10183
+Cooling,intermittent,False,0,HD-10184
+Electrical,erratic,True,50,HD-10185
+Electrical,intermittent,False,0,HD-10186
+Suspension,intermittent,False,0,HD-10187
+Lighting,erratic,False,0,HD-10188
+Air system,lumpy,False,0,HD-10189
+Cooling,intermittent,False,0,HD-10190
+Air system,intermittent,False,0,HD-10191
+Cooling,erratic,True,28,HD-10192
+Brakes,erratic,True,20,HD-10193
+Cooling,erratic,False,0,HD-10194
+Air system,intermittent,False,0,HD-10195
+Brakes,smooth,False,0,HD-10196
+Lighting,smooth,False,0,HD-10197
+Air system,intermittent,False,0,HD-10198
+Suspension,intermittent,True,47,HD-10199
+Electrical,intermittent,False,0,HD-10200
+Cooling,intermittent,False,0,HD-10201
+Brakes,intermittent,False,0,HD-10202
+Air system,lumpy,False,0,HD-10203
+Air system,lumpy,False,0,HD-10204
+Cooling,smooth,False,0,HD-10205
+Brakes,intermittent,False,0,HD-10206
+Suspension,intermittent,False,0,HD-10207
+Brakes,intermittent,True,10,HD-10208
+Suspension,lumpy,False,0,HD-10209
+Suspension,intermittent,False,0,HD-10210
+Brakes,lumpy,False,0,HD-10211
+Brakes,intermittent,False,0,HD-10212
+Lighting,intermittent,False,0,HD-10213
+Suspension,intermittent,False,0,HD-10214
+Cooling,lumpy,False,0,HD-10215
+Cooling,intermittent,False,0,HD-10216
+Electrical,smooth,False,0,HD-10217
+Brakes,intermittent,False,0,HD-10218
+Air system,intermittent,False,0,HD-10219
+Electrical,intermittent,False,0,HD-10220
+Lighting,smooth,False,0,HD-10221
+Electrical,intermittent,False,0,HD-10222
+Air system,intermittent,False,0,HD-10223
+Cooling,intermittent,False,0,HD-10224
+Air system,smooth,False,0,HD-10225
+Cooling,intermittent,False,0,HD-10226
+Brakes,intermittent,False,0,HD-10227
+Suspension,intermittent,False,0,HD-10228
+Air system,intermittent,False,0,HD-10229
+Lighting,lumpy,True,4,HD-10230
+Suspension,intermittent,False,0,HD-10231
+Electrical,erratic,False,0,HD-10232
+Air system,intermittent,False,0,HD-10233
+Suspension,intermittent,False,0,HD-10234
+Brakes,erratic,False,0,HD-10235
+Electrical,intermittent,False,0,HD-10236
+Brakes,smooth,False,0,HD-10237
+Cooling,erratic,False,0,HD-10238
+Suspension,intermittent,False,0,HD-10239
+Air system,intermittent,True,39,HD-10240
+Brakes,erratic,False,0,HD-10241
+Suspension,intermittent,True,49,HD-10242
+Lighting,erratic,False,0,HD-10243
+Brakes,intermittent,False,0,HD-10244
+Brakes,smooth,False,0,HD-10245
+Lighting,erratic,True,50,HD-10246
+Suspension,intermittent,False,0,HD-10247
+Brakes,intermittent,False,0,HD-10248
+Brakes,smooth,False,0,HD-10249
+Lighting,intermittent,False,0,HD-10250
+Suspension,intermittent,False,0,HD-10251
+Brakes,intermittent,False,0,HD-10252
+Suspension,intermittent,False,0,HD-10253
+Suspension,intermittent,False,0,HD-10254
+Lighting,lumpy,False,0,HD-10255
+Air system,intermittent,False,0,HD-10256
+Suspension,intermittent,False,0,HD-10257
+Lighting,lumpy,False,0,HD-10258
+Lighting,intermittent,False,0,HD-10259
+Suspension,intermittent,False,0,HD-10260
+Suspension,smooth,False,0,HD-10261
+Lighting,smooth,False,0,HD-10262
+Cooling,intermittent,True,28,HD-10263
+Cooling,lumpy,False,0,HD-10264
+Electrical,intermittent,False,0,HD-10265
+Air system,intermittent,True,38,HD-10266
+Brakes,intermittent,False,0,HD-10267
+Air system,intermittent,False,0,HD-10268
+Electrical,lumpy,True,50,HD-10269
+Air system,intermittent,False,0,HD-10270
+Suspension,smooth,False,0,HD-10271
+Lighting,intermittent,True,35,HD-10272
+Suspension,intermittent,False,0,HD-10273
+Lighting,intermittent,False,0,HD-10274
+Brakes,erratic,False,0,HD-10275
+Brakes,intermittent,False,0,HD-10276
+Electrical,smooth,False,0,HD-10277
+Lighting,lumpy,False,0,HD-10278
+Electrical,intermittent,False,0,HD-10279
+Brakes,erratic,False,0,HD-10280
+Electrical,intermittent,True,50,HD-10281
+Air system,lumpy,False,0,HD-10282
+Electrical,smooth,False,0,HD-10283
+Air system,intermittent,False,0,HD-10284
+Air system,intermittent,True,52,HD-10285
+Brakes,erratic,False,0,HD-10286
+Cooling,intermittent,False,0,HD-10287
+Suspension,smooth,False,0,HD-10288
+Suspension,intermittent,False,0,HD-10289
+Lighting,intermittent,False,0,HD-10290
+Cooling,intermittent,False,0,HD-10291
+Brakes,intermittent,False,0,HD-10292
+Suspension,erratic,False,0,HD-10293
+Brakes,intermittent,False,0,HD-10294
+Brakes,intermittent,False,0,HD-10295
+Brakes,intermittent,False,0,HD-10296
+Lighting,erratic,False,0,HD-10297
+Brakes,lumpy,False,0,HD-10298
+Air system,intermittent,False,0,HD-10299
+Cooling,intermittent,True,28,HD-10300
+Brakes,intermittent,False,0,HD-10301
+Electrical,intermittent,False,0,HD-10302
+Air system,lumpy,False,0,HD-10303
+Air system,intermittent,False,0,HD-10304
+Air system,erratic,False,0,HD-10305
+Cooling,intermittent,False,0,HD-10306
+Air system,smooth,False,0,HD-10307
+Air system,intermittent,False,0,HD-10308
+Air system,intermittent,False,0,HD-10309
+Air system,lumpy,False,0,HD-10310
+Suspension,lumpy,False,0,HD-10311
+Suspension,smooth,False,0,HD-10312
+Cooling,intermittent,True,28,HD-10313
+Cooling,smooth,False,0,HD-10314
+Electrical,intermittent,False,0,HD-10315
+Brakes,intermittent,False,0,HD-10316
+Air system,intermittent,False,0,HD-10317
+Electrical,intermittent,True,50,HD-10318
+Suspension,intermittent,False,0,HD-10319
+Lighting,lumpy,False,0,HD-10320
+Cooling,intermittent,False,0,HD-10321
+Air system,lumpy,False,0,HD-10322
+Electrical,intermittent,True,50,HD-10323
+Suspension,lumpy,False,0,HD-10324
+Air system,erratic,False,0,HD-10325
+Lighting,lumpy,False,0,HD-10326
+Lighting,intermittent,False,0,HD-10327
+Electrical,intermittent,False,0,HD-10328
+Lighting,intermittent,False,0,HD-10329
+Lighting,lumpy,False,0,HD-10330
+Brakes,intermittent,True,9,HD-10331
+Air system,lumpy,False,0,HD-10332
+Brakes,erratic,False,0,HD-10333
+Cooling,intermittent,False,0,HD-10334
+Electrical,smooth,False,0,HD-10335
+Air system,intermittent,False,0,HD-10336
+Suspension,erratic,False,0,HD-10337
+Lighting,intermittent,False,0,HD-10338
+Cooling,erratic,True,28,HD-10339
+Air system,intermittent,False,0,HD-10340
+Lighting,intermittent,False,0,HD-10341
+Suspension,intermittent,False,0,HD-10342
+Lighting,smooth,False,0,HD-10343
+Electrical,smooth,False,0,HD-10344
+Lighting,lumpy,False,0,HD-10345
+Brakes,intermittent,True,21,HD-10346
+Cooling,lumpy,True,28,HD-10347
+Suspension,intermittent,False,0,HD-10348
+Electrical,intermittent,False,0,HD-10349
+Suspension,lumpy,True,23,HD-10350
+Cooling,lumpy,False,0,HD-10351
+Lighting,intermittent,False,0,HD-10352
+Brakes,intermittent,True,32,HD-10353
+Air system,intermittent,True,34,HD-10354
+Suspension,lumpy,False,0,HD-10355
+Air system,erratic,False,0,HD-10356
+Cooling,erratic,True,28,HD-10357
+Electrical,intermittent,False,0,HD-10358
+Air system,intermittent,False,0,HD-10359
+Electrical,intermittent,True,50,HD-10360
+Electrical,intermittent,False,0,HD-10361
+Electrical,intermittent,False,0,HD-10362
+Electrical,intermittent,False,0,HD-10363
+Cooling,intermittent,False,0,HD-10364
+Cooling,lumpy,False,0,HD-10365
+Cooling,intermittent,False,0,HD-10366
+Lighting,erratic,False,0,HD-10367
+Air system,intermittent,False,0,HD-10368
+Cooling,intermittent,False,0,HD-10369
+Air system,intermittent,True,37,HD-10370
+Suspension,intermittent,False,0,HD-10371
+Suspension,lumpy,True,48,HD-10372
+Electrical,intermittent,False,0,HD-10373
+Suspension,intermittent,False,0,HD-10374
+Brakes,erratic,False,0,HD-10375
+Cooling,intermittent,False,0,HD-10376
+Suspension,lumpy,False,0,HD-10377
+Suspension,lumpy,False,0,HD-10378
+Electrical,intermittent,False,0,HD-10379
+Brakes,erratic,False,0,HD-10380
+Suspension,intermittent,False,0,HD-10381
+Suspension,erratic,False,0,HD-10382
+Air system,intermittent,True,49,HD-10383
+Electrical,intermittent,False,0,HD-10384
+Brakes,erratic,True,11,HD-10385
+Air system,intermittent,False,0,HD-10386
+Suspension,intermittent,False,0,HD-10387
+Suspension,intermittent,False,0,HD-10388
+Air system,intermittent,False,0,HD-10389
+Brakes,intermittent,True,49,HD-10390
+Cooling,intermittent,False,0,HD-10391
+Cooling,smooth,False,0,HD-10392
+Lighting,erratic,False,0,HD-10393
+Suspension,intermittent,False,0,HD-10394
+Air system,intermittent,False,0,HD-10395
+Suspension,lumpy,False,0,HD-10396
+Suspension,intermittent,False,0,HD-10397
+Lighting,erratic,False,0,HD-10398
+Air system,intermittent,False,0,HD-10399
+Brakes,lumpy,False,0,HD-10400
+Lighting,lumpy,True,40,HD-10401
+Lighting,intermittent,False,0,HD-10402
+Electrical,intermittent,False,0,HD-10403
+Lighting,intermittent,False,0,HD-10404
+Suspension,intermittent,False,0,HD-10405
+Brakes,erratic,False,0,HD-10406
+Lighting,intermittent,False,0,HD-10407
+Electrical,intermittent,True,50,HD-10408
+Suspension,lumpy,False,0,HD-10409
+Lighting,intermittent,False,0,HD-10410
+Air system,lumpy,True,4,HD-10411
+Brakes,intermittent,False,0,HD-10412
+Cooling,intermittent,True,28,HD-10413
+Lighting,intermittent,False,0,HD-10414
+Electrical,intermittent,False,0,HD-10415
+Electrical,intermittent,False,0,HD-10416
+Air system,intermittent,False,0,HD-10417
+Suspension,intermittent,False,0,HD-10418
+Brakes,intermittent,False,0,HD-10419
+Air system,lumpy,False,0,HD-10420
+Brakes,erratic,True,48,HD-10421
+Cooling,intermittent,False,0,HD-10422
+Air system,intermittent,False,0,HD-10423
+Lighting,lumpy,False,0,HD-10424
+Brakes,lumpy,True,50,HD-10425
+Suspension,smooth,False,0,HD-10426
+Electrical,erratic,False,0,HD-10427
+Suspension,intermittent,False,0,HD-10428
+Lighting,intermittent,True,28,HD-10429
+Brakes,intermittent,False,0,HD-10430
+Air system,intermittent,False,0,HD-10431
+Electrical,erratic,True,50,HD-10432
+Suspension,smooth,True,19,HD-10433
+Air system,lumpy,False,0,HD-10434
+Cooling,intermittent,False,0,HD-10435
+Electrical,lumpy,False,0,HD-10436
+Suspension,lumpy,False,0,HD-10437
+Air system,erratic,True,25,HD-10438
+Brakes,intermittent,True,16,HD-10439
+Air system,erratic,True,43,HD-10440
+Cooling,lumpy,False,0,HD-10441
+Brakes,smooth,False,0,HD-10442
+Suspension,intermittent,False,0,HD-10443
+Cooling,lumpy,False,0,HD-10444
+Lighting,erratic,False,0,HD-10445
+Lighting,erratic,False,0,HD-10446
+Lighting,erratic,True,13,HD-10447
+Cooling,intermittent,False,0,HD-10448
+Electrical,intermittent,False,0,HD-10449
+Air system,lumpy,False,0,HD-10450
+Air system,erratic,False,0,HD-10451
+Air system,smooth,False,0,HD-10452
+Suspension,intermittent,False,0,HD-10453
+Cooling,intermittent,False,0,HD-10454
+Cooling,intermittent,False,0,HD-10455
+Suspension,intermittent,False,0,HD-10456
+Electrical,intermittent,False,0,HD-10457
+Electrical,erratic,False,0,HD-10458
+Electrical,lumpy,False,0,HD-10459
+Electrical,intermittent,False,0,HD-10460
+Brakes,erratic,False,0,HD-10461
+Lighting,smooth,False,0,HD-10462
+Electrical,intermittent,False,0,HD-10463
+Suspension,intermittent,False,0,HD-10464
+Electrical,lumpy,False,0,HD-10465
+Suspension,erratic,False,0,HD-10466
+Suspension,intermittent,False,0,HD-10467
+Air system,lumpy,False,0,HD-10468
+Brakes,erratic,False,0,HD-10469
+Lighting,intermittent,False,0,HD-10470
+Cooling,smooth,False,0,HD-10471
+Electrical,intermittent,True,50,HD-10472
+Brakes,erratic,False,0,HD-10473
+Suspension,intermittent,False,0,HD-10474
+Suspension,intermittent,False,0,HD-10475
+Electrical,intermittent,False,0,HD-10476
+Cooling,lumpy,False,0,HD-10477
+Suspension,smooth,False,0,HD-10478
+Lighting,intermittent,False,0,HD-10479
+Suspension,lumpy,False,0,HD-10480
+Cooling,intermittent,True,28,HD-10481
+Suspension,intermittent,False,0,HD-10482
+Electrical,intermittent,False,0,HD-10483
+Lighting,lumpy,False,0,HD-10484
+Lighting,erratic,False,0,HD-10485
+Brakes,lumpy,False,0,HD-10486
+Suspension,intermittent,False,0,HD-10487
+Brakes,intermittent,False,0,HD-10488
+Air system,lumpy,False,0,HD-10489
+Cooling,erratic,False,0,HD-10490
+Brakes,intermittent,False,0,HD-10491
+Suspension,intermittent,True,22,HD-10492
+Electrical,intermittent,False,0,HD-10493
+Suspension,intermittent,False,0,HD-10494
+Lighting,intermittent,False,0,HD-10495
+Electrical,intermittent,False,0,HD-10496
+Suspension,intermittent,True,31,HD-10497
+Electrical,intermittent,True,50,HD-10498
+Air system,intermittent,False,0,HD-10499
+Lighting,intermittent,False,0,HD-10500
+Suspension,intermittent,False,0,HD-10501
+Suspension,intermittent,False,0,HD-10502
+Air system,lumpy,False,0,HD-10503
+Electrical,intermittent,False,0,HD-10504
+Electrical,intermittent,True,50,HD-10505
+Suspension,erratic,True,19,HD-10506
+Air system,smooth,False,0,HD-10507
+Brakes,erratic,True,29,HD-10508
+Brakes,intermittent,False,0,HD-10509
+Electrical,intermittent,False,0,HD-10510
+Electrical,erratic,False,0,HD-10511
+Air system,intermittent,False,0,HD-10512
+Electrical,lumpy,False,0,HD-10513
+Suspension,lumpy,False,0,HD-10514
+Cooling,intermittent,False,0,HD-10515
+Air system,erratic,False,0,HD-10516
+Electrical,intermittent,False,0,HD-10517
+Air system,intermittent,False,0,HD-10518
+Lighting,intermittent,True,36,HD-10519
+Brakes,intermittent,False,0,HD-10520
+Suspension,intermittent,False,0,HD-10521
+Air system,intermittent,False,0,HD-10522
+Electrical,intermittent,False,0,HD-10523
+Lighting,intermittent,False,0,HD-10524
+Electrical,intermittent,False,0,HD-10525
+Electrical,intermittent,False,0,HD-10526
+Cooling,intermittent,False,0,HD-10527
+Lighting,intermittent,False,0,HD-10528
+Suspension,intermittent,False,0,HD-10529
+Air system,intermittent,True,37,HD-10530
+Cooling,erratic,False,0,HD-10531
+Electrical,lumpy,False,0,HD-10532
+Air system,intermittent,False,0,HD-10533
+Air system,erratic,False,0,HD-10534
+Electrical,intermittent,False,0,HD-10535
+Lighting,erratic,False,0,HD-10536
+Lighting,lumpy,False,0,HD-10537
+Cooling,intermittent,False,0,HD-10538
+Electrical,intermittent,True,50,HD-10539
+Suspension,erratic,False,0,HD-10540
+Lighting,intermittent,False,0,HD-10541
+Lighting,lumpy,True,49,HD-10542
+Brakes,intermittent,False,0,HD-10543
+Air system,intermittent,False,0,HD-10544
+Electrical,intermittent,True,50,HD-10545
+Air system,lumpy,True,38,HD-10546
+Lighting,erratic,False,0,HD-10547
+Cooling,intermittent,True,28,HD-10548
+Lighting,lumpy,False,0,HD-10549
+Electrical,lumpy,False,0,HD-10550
+Brakes,smooth,False,0,HD-10551
+Cooling,intermittent,False,0,HD-10552
+Electrical,intermittent,False,0,HD-10553
+Suspension,intermittent,False,0,HD-10554
+Suspension,intermittent,False,0,HD-10555
+Electrical,lumpy,False,0,HD-10556
+Brakes,lumpy,True,46,HD-10557
+Air system,lumpy,False,0,HD-10558
+Air system,lumpy,False,0,HD-10559
+Air system,intermittent,False,0,HD-10560
+Air system,intermittent,False,0,HD-10561
+Cooling,erratic,False,0,HD-10562
+Lighting,intermittent,False,0,HD-10563
+Brakes,intermittent,False,0,HD-10564
+Electrical,lumpy,False,0,HD-10565
+Electrical,intermittent,False,0,HD-10566
+Lighting,erratic,False,0,HD-10567
+Lighting,erratic,False,0,HD-10568
+Suspension,erratic,True,27,HD-10569
+Brakes,intermittent,False,0,HD-10570
+Brakes,intermittent,False,0,HD-10571
+Air system,intermittent,True,33,HD-10572
+Lighting,lumpy,True,32,HD-10573
+Suspension,intermittent,False,0,HD-10574
+Suspension,intermittent,True,39,HD-10575
+Brakes,intermittent,True,43,HD-10576
+Suspension,intermittent,True,49,HD-10577
+Brakes,intermittent,False,0,HD-10578
+Cooling,erratic,False,0,HD-10579
+Brakes,lumpy,True,32,HD-10580
+Suspension,erratic,True,41,HD-10581
+Lighting,intermittent,False,0,HD-10582
+Brakes,intermittent,False,0,HD-10583
+Cooling,intermittent,False,0,HD-10584
+Brakes,lumpy,False,0,HD-10585
+Brakes,intermittent,False,0,HD-10586
+Electrical,smooth,False,0,HD-10587
+Cooling,intermittent,False,0,HD-10588
+Electrical,intermittent,False,0,HD-10589
+Electrical,smooth,False,0,HD-10590
+Lighting,intermittent,False,0,HD-10591
+Air system,intermittent,False,0,HD-10592
+Suspension,intermittent,False,0,HD-10593
+Lighting,erratic,False,0,HD-10594
+Brakes,erratic,False,0,HD-10595
+Electrical,intermittent,False,0,HD-10596
+Lighting,intermittent,False,0,HD-10597
+Cooling,intermittent,False,0,HD-10598
+Electrical,intermittent,False,0,HD-10599
+Brakes,erratic,False,0,HD-10600
+Air system,intermittent,False,0,HD-10601
+Cooling,intermittent,False,0,HD-10602
+Brakes,smooth,False,0,HD-10603
+Brakes,lumpy,False,0,HD-10604
+Electrical,intermittent,False,0,HD-10605
+Suspension,intermittent,False,0,HD-10606
+Suspension,intermittent,False,0,HD-10607
+Suspension,intermittent,False,0,HD-10608
+Cooling,intermittent,False,0,HD-10609
+Brakes,lumpy,False,0,HD-10610
+Brakes,intermittent,False,0,HD-10611
+Suspension,intermittent,True,14,HD-10612
+Air system,intermittent,False,0,HD-10613
+Cooling,intermittent,False,0,HD-10614
+Cooling,intermittent,False,0,HD-10615
+Electrical,lumpy,False,0,HD-10616
+Electrical,erratic,False,0,HD-10617
+Cooling,smooth,False,0,HD-10618
+Air system,intermittent,False,0,HD-10619
+Cooling,intermittent,False,0,HD-10620
+Electrical,erratic,False,0,HD-10621
+Lighting,erratic,False,0,HD-10622
+Suspension,intermittent,False,0,HD-10623
+Lighting,intermittent,False,0,HD-10624
+Cooling,intermittent,False,0,HD-10625
+Electrical,intermittent,False,0,HD-10626
+Suspension,intermittent,False,0,HD-10627
+Brakes,erratic,True,24,HD-10628
+Electrical,smooth,False,0,HD-10629
+Suspension,intermittent,False,0,HD-10630
+Cooling,intermittent,False,0,HD-10631
+Electrical,lumpy,False,0,HD-10632
+Brakes,erratic,False,0,HD-10633
+Lighting,intermittent,True,24,HD-10634
+Lighting,smooth,False,0,HD-10635
+Suspension,intermittent,False,0,HD-10636
+Electrical,smooth,False,0,HD-10637
+Brakes,lumpy,False,0,HD-10638
+Brakes,intermittent,False,0,HD-10639
+Brakes,intermittent,False,0,HD-10640
+Electrical,lumpy,False,0,HD-10641
+Air system,intermittent,False,0,HD-10642
+Cooling,lumpy,False,0,HD-10643
+Air system,smooth,False,0,HD-10644
+Lighting,intermittent,True,47,HD-10645
+Air system,intermittent,True,5,HD-10646
+Brakes,intermittent,False,0,HD-10647
+Brakes,intermittent,False,0,HD-10648
+Cooling,intermittent,False,0,HD-10649
+Electrical,intermittent,False,0,HD-10650
+Lighting,intermittent,False,0,HD-10651
+Brakes,intermittent,False,0,HD-10652
+Lighting,lumpy,False,0,HD-10653
+Lighting,smooth,False,0,HD-10654
+Suspension,smooth,False,0,HD-10655
+Lighting,intermittent,False,0,HD-10656
+Cooling,erratic,False,0,HD-10657
+Electrical,intermittent,False,0,HD-10658
+Lighting,intermittent,False,0,HD-10659
+Brakes,intermittent,False,0,HD-10660
+Lighting,erratic,False,0,HD-10661
+Air system,intermittent,False,0,HD-10662
+Cooling,intermittent,False,0,HD-10663
+Cooling,lumpy,False,0,HD-10664
+Cooling,smooth,False,0,HD-10665
+Electrical,intermittent,False,0,HD-10666
+Suspension,smooth,True,35,HD-10667
+Suspension,smooth,False,0,HD-10668
+Electrical,intermittent,False,0,HD-10669
+Air system,intermittent,False,0,HD-10670
+Brakes,intermittent,True,16,HD-10671
+Air system,erratic,False,0,HD-10672
+Air system,intermittent,True,41,HD-10673
+Electrical,intermittent,False,0,HD-10674
+Lighting,smooth,False,0,HD-10675
+Electrical,intermittent,False,0,HD-10676
+Brakes,erratic,True,10,HD-10677
+Suspension,lumpy,False,0,HD-10678
+Air system,smooth,False,0,HD-10679
+Brakes,smooth,False,0,HD-10680
+Electrical,smooth,False,0,HD-10681
+Electrical,intermittent,False,0,HD-10682
+Lighting,intermittent,False,0,HD-10683
+Electrical,intermittent,False,0,HD-10684
+Brakes,intermittent,False,0,HD-10685
+Electrical,intermittent,True,50,HD-10686
+Cooling,smooth,True,28,HD-10687
+Lighting,intermittent,False,0,HD-10688
+Electrical,erratic,True,50,HD-10689
+Electrical,erratic,False,0,HD-10690
+Lighting,intermittent,False,0,HD-10691
+Brakes,intermittent,True,7,HD-10692
+Cooling,lumpy,False,0,HD-10693
+Brakes,intermittent,True,42,HD-10694
+Brakes,intermittent,False,0,HD-10695
+Air system,erratic,False,0,HD-10696
+Electrical,intermittent,False,0,HD-10697
+Lighting,intermittent,False,0,HD-10698
+Air system,smooth,False,0,HD-10699
+Brakes,smooth,False,0,HD-10700
+Electrical,smooth,False,0,HD-10701
+Electrical,intermittent,False,0,HD-10702
+Brakes,intermittent,False,0,HD-10703
+Lighting,intermittent,False,0,HD-10704
+Cooling,erratic,False,0,HD-10705
+Suspension,intermittent,False,0,HD-10706
+Brakes,lumpy,False,0,HD-10707
+Suspension,smooth,False,0,HD-10708
+Suspension,intermittent,False,0,HD-10709
+Electrical,intermittent,False,0,HD-10710
+Cooling,intermittent,False,0,HD-10711
+Suspension,intermittent,False,0,HD-10712
+Air system,intermittent,True,8,HD-10713
+Air system,intermittent,False,0,HD-10714
+Electrical,intermittent,False,0,HD-10715
+Electrical,smooth,False,0,HD-10716
+Air system,intermittent,True,6,HD-10717
+Suspension,intermittent,False,0,HD-10718
+Suspension,lumpy,False,0,HD-10719
+Suspension,erratic,False,0,HD-10720
+Electrical,intermittent,False,0,HD-10721
+Air system,intermittent,False,0,HD-10722
+Suspension,lumpy,False,0,HD-10723
+Electrical,intermittent,False,0,HD-10724
+Brakes,lumpy,False,0,HD-10725
+Electrical,intermittent,False,0,HD-10726
+Electrical,intermittent,False,0,HD-10727
+Cooling,erratic,True,28,HD-10728
+Lighting,smooth,False,0,HD-10729
+Suspension,intermittent,True,20,HD-10730
+Air system,erratic,False,0,HD-10731
+Air system,lumpy,False,0,HD-10732
+Air system,erratic,False,0,HD-10733
+Brakes,intermittent,False,0,HD-10734
+Air system,intermittent,False,0,HD-10735
+Cooling,intermittent,False,0,HD-10736
+Cooling,intermittent,False,0,HD-10737
+Cooling,lumpy,False,0,HD-10738
+Lighting,intermittent,False,0,HD-10739
+Lighting,intermittent,False,0,HD-10740
+Cooling,smooth,False,0,HD-10741
+Air system,intermittent,False,0,HD-10742
+Electrical,intermittent,False,0,HD-10743
+Suspension,intermittent,False,0,HD-10744
+Electrical,lumpy,False,0,HD-10745
+Suspension,erratic,False,0,HD-10746
+Suspension,intermittent,False,0,HD-10747
+Air system,erratic,True,25,HD-10748
+Suspension,intermittent,False,0,HD-10749
+Suspension,intermittent,False,0,HD-10750
+Cooling,intermittent,False,0,HD-10751
+Air system,intermittent,False,0,HD-10752
+Electrical,intermittent,False,0,HD-10753
+Lighting,intermittent,False,0,HD-10754
+Cooling,erratic,False,0,HD-10755
+Suspension,intermittent,False,0,HD-10756
+Brakes,intermittent,False,0,HD-10757
+Suspension,intermittent,False,0,HD-10758
+Lighting,intermittent,False,0,HD-10759
+Lighting,erratic,False,0,HD-10760
+Lighting,intermittent,False,0,HD-10761
+Air system,intermittent,True,31,HD-10762
+Air system,smooth,False,0,HD-10763
+Suspension,lumpy,False,0,HD-10764
+Lighting,intermittent,False,0,HD-10765
+Suspension,smooth,False,0,HD-10766
+Suspension,intermittent,False,0,HD-10767
+Brakes,intermittent,False,0,HD-10768
+Brakes,intermittent,False,0,HD-10769
+Suspension,smooth,False,0,HD-10770
+Air system,intermittent,False,0,HD-10771
+Lighting,intermittent,False,0,HD-10772
+Air system,intermittent,False,0,HD-10773
+Lighting,erratic,False,0,HD-10774
+Brakes,intermittent,False,0,HD-10775
+Electrical,erratic,False,0,HD-10776
+Electrical,erratic,False,0,HD-10777
+Air system,intermittent,False,0,HD-10778
+Brakes,lumpy,False,0,HD-10779
+Air system,erratic,False,0,HD-10780
+Cooling,intermittent,False,0,HD-10781
+Electrical,intermittent,False,0,HD-10782
+Electrical,intermittent,False,0,HD-10783
+Air system,intermittent,False,0,HD-10784
+Suspension,lumpy,False,0,HD-10785
+Lighting,intermittent,False,0,HD-10786
+Lighting,erratic,False,0,HD-10787
+Brakes,erratic,True,29,HD-10788
+Brakes,smooth,False,0,HD-10789
+Electrical,erratic,False,0,HD-10790
+Cooling,erratic,False,0,HD-10791
+Lighting,smooth,False,0,HD-10792
+Electrical,lumpy,False,0,HD-10793
+Brakes,intermittent,False,0,HD-10794
+Brakes,erratic,True,47,HD-10795
+Suspension,erratic,False,0,HD-10796
+Lighting,lumpy,False,0,HD-10797
+Air system,lumpy,False,0,HD-10798
+Cooling,intermittent,False,0,HD-10799
+Brakes,intermittent,False,0,HD-10800
+Lighting,lumpy,False,0,HD-10801
+Cooling,intermittent,False,0,HD-10802
+Electrical,lumpy,False,0,HD-10803
+Electrical,intermittent,False,0,HD-10804
+Suspension,intermittent,True,42,HD-10805
+Air system,smooth,False,0,HD-10806
+Electrical,intermittent,False,0,HD-10807
+Brakes,intermittent,False,0,HD-10808
+Air system,intermittent,False,0,HD-10809
+Suspension,intermittent,False,0,HD-10810
+Lighting,intermittent,False,0,HD-10811
+Air system,smooth,False,0,HD-10812
+Electrical,intermittent,False,0,HD-10813
+Electrical,erratic,False,0,HD-10814
+Cooling,intermittent,False,0,HD-10815
+Air system,intermittent,True,48,HD-10816
+Electrical,intermittent,False,0,HD-10817
+Brakes,lumpy,False,0,HD-10818
+Lighting,intermittent,False,0,HD-10819
+Cooling,intermittent,True,28,HD-10820
+Electrical,intermittent,False,0,HD-10821
+Brakes,intermittent,False,0,HD-10822
+Electrical,intermittent,False,0,HD-10823
+Suspension,erratic,False,0,HD-10824
+Brakes,intermittent,False,0,HD-10825
+Electrical,intermittent,True,50,HD-10826
+Electrical,lumpy,True,50,HD-10827
+Lighting,intermittent,False,0,HD-10828
+Air system,intermittent,False,0,HD-10829
+Electrical,smooth,False,0,HD-10830
+Lighting,intermittent,False,0,HD-10831
+Air system,lumpy,False,0,HD-10832
+Brakes,erratic,False,0,HD-10833
+Brakes,smooth,False,0,HD-10834
+Air system,smooth,False,0,HD-10835
+Air system,erratic,False,0,HD-10836
+Suspension,intermittent,False,0,HD-10837
+Electrical,intermittent,False,0,HD-10838
+Electrical,erratic,False,0,HD-10839
+Brakes,intermittent,False,0,HD-10840
+Air system,intermittent,False,0,HD-10841
+Air system,intermittent,True,4,HD-10842
+Air system,erratic,False,0,HD-10843
+Electrical,intermittent,False,0,HD-10844
+Electrical,smooth,False,0,HD-10845
+Cooling,smooth,False,0,HD-10846
+Air system,intermittent,False,0,HD-10847
+Brakes,intermittent,False,0,HD-10848
+Lighting,intermittent,False,0,HD-10849
+Lighting,intermittent,False,0,HD-10850
+Suspension,intermittent,False,0,HD-10851
+Cooling,lumpy,False,0,HD-10852
+Brakes,erratic,True,26,HD-10853
+Lighting,intermittent,False,0,HD-10854
+Suspension,erratic,False,0,HD-10855
+Cooling,intermittent,False,0,HD-10856
+Suspension,intermittent,False,0,HD-10857
+Lighting,smooth,False,0,HD-10858
+Brakes,intermittent,False,0,HD-10859
+Electrical,erratic,False,0,HD-10860
+Suspension,intermittent,True,17,HD-10861
+Air system,erratic,False,0,HD-10862
+Lighting,intermittent,False,0,HD-10863
+Air system,erratic,False,0,HD-10864
+Electrical,intermittent,False,0,HD-10865
+Brakes,intermittent,True,22,HD-10866
+Cooling,smooth,False,0,HD-10867
+Suspension,lumpy,False,0,HD-10868
+Lighting,intermittent,False,0,HD-10869
+Air system,intermittent,False,0,HD-10870
+Suspension,intermittent,False,0,HD-10871
+Cooling,intermittent,False,0,HD-10872
+Suspension,intermittent,False,0,HD-10873
+Electrical,intermittent,True,50,HD-10874
+Air system,erratic,False,0,HD-10875
+Lighting,intermittent,False,0,HD-10876
+Cooling,intermittent,False,0,HD-10877
+Air system,smooth,False,0,HD-10878
+Brakes,intermittent,False,0,HD-10879
+Air system,intermittent,False,0,HD-10880
+Cooling,lumpy,False,0,HD-10881
+Lighting,intermittent,False,0,HD-10882
+Lighting,intermittent,True,33,HD-10883
+Electrical,intermittent,False,0,HD-10884
+Suspension,intermittent,False,0,HD-10885
+Air system,intermittent,False,0,HD-10886
+Electrical,smooth,False,0,HD-10887
+Brakes,intermittent,False,0,HD-10888
+Brakes,lumpy,False,0,HD-10889
+Electrical,erratic,False,0,HD-10890
+Lighting,erratic,False,0,HD-10891
+Air system,intermittent,False,0,HD-10892
+Suspension,intermittent,False,0,HD-10893
+Cooling,intermittent,False,0,HD-10894
+Lighting,intermittent,False,0,HD-10895
+Lighting,erratic,False,0,HD-10896
+Brakes,smooth,False,0,HD-10897
+Suspension,intermittent,False,0,HD-10898
+Brakes,lumpy,True,25,HD-10899
+Suspension,smooth,False,0,HD-10900
+Electrical,intermittent,False,0,HD-10901
+Suspension,intermittent,False,0,HD-10902
+Suspension,intermittent,False,0,HD-10903
+Lighting,erratic,False,0,HD-10904
+Air system,smooth,False,0,HD-10905
+Electrical,intermittent,False,0,HD-10906
+Cooling,smooth,False,0,HD-10907
+Suspension,lumpy,False,0,HD-10908
+Air system,intermittent,False,0,HD-10909
+Brakes,lumpy,False,0,HD-10910
+Brakes,intermittent,False,0,HD-10911
+Lighting,lumpy,False,0,HD-10912
+Brakes,intermittent,False,0,HD-10913
+Cooling,intermittent,False,0,HD-10914
+Lighting,intermittent,False,0,HD-10915
+Air system,smooth,True,25,HD-10916
+Electrical,intermittent,False,0,HD-10917
+Electrical,erratic,True,50,HD-10918
+Brakes,intermittent,False,0,HD-10919
+Suspension,intermittent,False,0,HD-10920
+Electrical,intermittent,False,0,HD-10921
+Cooling,smooth,False,0,HD-10922
+Electrical,smooth,False,0,HD-10923
+Cooling,lumpy,False,0,HD-10924
+Cooling,intermittent,False,0,HD-10925
+Air system,lumpy,True,9,HD-10926
+Air system,erratic,False,0,HD-10927
+Cooling,lumpy,False,0,HD-10928
+Cooling,erratic,False,0,HD-10929
+Brakes,lumpy,False,0,HD-10930
+Suspension,intermittent,False,0,HD-10931
+Air system,intermittent,False,0,HD-10932
+Electrical,intermittent,False,0,HD-10933
+Brakes,erratic,False,0,HD-10934
+Brakes,intermittent,False,0,HD-10935
+Suspension,intermittent,False,0,HD-10936
+Electrical,intermittent,False,0,HD-10937
+Air system,smooth,False,0,HD-10938
+Air system,intermittent,False,0,HD-10939
+Electrical,smooth,False,0,HD-10940
+Lighting,intermittent,False,0,HD-10941
+Lighting,intermittent,False,0,HD-10942
+Suspension,intermittent,True,50,HD-10943
+Lighting,intermittent,False,0,HD-10944
+Lighting,erratic,False,0,HD-10945
+Brakes,smooth,False,0,HD-10946
+Air system,intermittent,True,7,HD-10947
+Cooling,intermittent,False,0,HD-10948
+Lighting,intermittent,True,11,HD-10949
+Air system,lumpy,False,0,HD-10950
+Air system,lumpy,False,0,HD-10951
+Electrical,lumpy,False,0,HD-10952
+Lighting,lumpy,False,0,HD-10953
+Electrical,smooth,False,0,HD-10954
+Electrical,intermittent,False,0,HD-10955
+Lighting,lumpy,False,0,HD-10956
+Brakes,intermittent,False,0,HD-10957
+Suspension,intermittent,False,0,HD-10958
+Cooling,lumpy,False,0,HD-10959
+Suspension,lumpy,False,0,HD-10960
+Brakes,erratic,False,0,HD-10961
+Suspension,erratic,False,0,HD-10962
+Brakes,smooth,False,0,HD-10963
+Brakes,erratic,False,0,HD-10964
+Cooling,intermittent,True,28,HD-10965
+Lighting,intermittent,True,36,HD-10966
+Lighting,erratic,True,48,HD-10967
+Lighting,erratic,False,0,HD-10968
+Cooling,erratic,False,0,HD-10969
+Lighting,intermittent,False,0,HD-10970
+Electrical,intermittent,False,0,HD-10971
+Cooling,lumpy,False,0,HD-10972
+Air system,intermittent,False,0,HD-10973
+Electrical,intermittent,False,0,HD-10974
+Lighting,erratic,True,6,HD-10975
+Lighting,smooth,False,0,HD-10976
+Lighting,intermittent,False,0,HD-10977
+Suspension,intermittent,False,0,HD-10978
+Brakes,erratic,False,0,HD-10979
+Cooling,erratic,False,0,HD-10980
+Lighting,intermittent,False,0,HD-10981
+Brakes,intermittent,False,0,HD-10982
+Suspension,smooth,False,0,HD-10983
+Electrical,intermittent,False,0,HD-10984
+Air system,lumpy,False,0,HD-10985
+Air system,intermittent,False,0,HD-10986
+Cooling,lumpy,False,0,HD-10987
+Electrical,lumpy,False,0,HD-10988
+Brakes,lumpy,False,0,HD-10989
+Suspension,intermittent,False,0,HD-10990
+Lighting,intermittent,False,0,HD-10991
+Air system,intermittent,True,4,HD-10992
+Brakes,erratic,False,0,HD-10993
+Lighting,intermittent,False,0,HD-10994
+Electrical,intermittent,False,0,HD-10995
+Air system,intermittent,False,0,HD-10996
+Air system,intermittent,True,45,HD-10997
+Lighting,intermittent,False,0,HD-10998
+Brakes,intermittent,False,0,HD-10999
+Cooling,smooth,False,0,HD-11000
+Brakes,intermittent,False,0,HD-11001
+Brakes,intermittent,False,0,HD-11002
+Lighting,lumpy,False,0,HD-11003
+Air system,intermittent,False,0,HD-11004
+Cooling,erratic,False,0,HD-11005
+Cooling,smooth,False,0,HD-11006
+Air system,intermittent,False,0,HD-11007
+Suspension,lumpy,False,0,HD-11008
+Suspension,intermittent,False,0,HD-11009
+Brakes,smooth,False,0,HD-11010
+Brakes,intermittent,False,0,HD-11011
+Electrical,intermittent,False,0,HD-11012
+Brakes,intermittent,False,0,HD-11013
+Cooling,intermittent,True,28,HD-11014
+Electrical,intermittent,True,50,HD-11015
+Lighting,lumpy,False,0,HD-11016
+Electrical,erratic,False,0,HD-11017
+Suspension,intermittent,False,0,HD-11018
+Suspension,intermittent,False,0,HD-11019
+Lighting,erratic,False,0,HD-11020
+Brakes,smooth,False,0,HD-11021
+Air system,intermittent,False,0,HD-11022
+Brakes,intermittent,False,0,HD-11023
+Suspension,smooth,False,0,HD-11024
+Air system,intermittent,False,0,HD-11025
+Brakes,intermittent,False,0,HD-11026
+Lighting,lumpy,True,49,HD-11027
+Air system,intermittent,False,0,HD-11028
+Brakes,intermittent,False,0,HD-11029
+Electrical,intermittent,False,0,HD-11030
+Cooling,smooth,False,0,HD-11031
+Brakes,intermittent,False,0,HD-11032
+Brakes,intermittent,False,0,HD-11033
+Brakes,erratic,False,0,HD-11034
+Air system,intermittent,False,0,HD-11035
+Lighting,erratic,False,0,HD-11036
+Cooling,intermittent,False,0,HD-11037
+Air system,erratic,False,0,HD-11038
+Electrical,intermittent,False,0,HD-11039
+Brakes,lumpy,False,0,HD-11040
+Electrical,intermittent,False,0,HD-11041
+Air system,smooth,False,0,HD-11042
+Brakes,intermittent,False,0,HD-11043
+Brakes,lumpy,True,29,HD-11044
+Cooling,lumpy,False,0,HD-11045
+Brakes,intermittent,False,0,HD-11046
+Lighting,intermittent,False,0,HD-11047
+Electrical,lumpy,False,0,HD-11048
+Suspension,intermittent,False,0,HD-11049
+Electrical,intermittent,False,0,HD-11050
+Electrical,erratic,False,0,HD-11051
+Cooling,erratic,False,0,HD-11052
+Air system,intermittent,False,0,HD-11053
+Brakes,intermittent,False,0,HD-11054
+Brakes,intermittent,False,0,HD-11055
+Suspension,intermittent,True,13,HD-11056
+Lighting,intermittent,False,0,HD-11057
+Suspension,intermittent,False,0,HD-11058
+Brakes,intermittent,False,0,HD-11059
+Suspension,smooth,False,0,HD-11060
+Lighting,erratic,True,10,HD-11061
+Lighting,intermittent,False,0,HD-11062
+Electrical,intermittent,False,0,HD-11063
+Suspension,smooth,False,0,HD-11064
+Electrical,intermittent,True,50,HD-11065
+Suspension,smooth,False,0,HD-11066
+Electrical,intermittent,False,0,HD-11067
+Air system,intermittent,False,0,HD-11068
+Suspension,erratic,False,0,HD-11069
+Electrical,erratic,False,0,HD-11070
+Air system,intermittent,False,0,HD-11071
+Suspension,erratic,False,0,HD-11072
+Electrical,erratic,True,50,HD-11073
+Suspension,erratic,False,0,HD-11074
+Brakes,intermittent,True,4,HD-11075
+Electrical,intermittent,False,0,HD-11076
+Air system,intermittent,False,0,HD-11077
+Cooling,erratic,False,0,HD-11078
+Electrical,intermittent,True,50,HD-11079
+Cooling,intermittent,False,0,HD-11080
+Air system,intermittent,False,0,HD-11081
+Lighting,intermittent,True,2,HD-11082
+Electrical,intermittent,True,50,HD-11083
+Lighting,erratic,False,0,HD-11084
+Suspension,lumpy,False,0,HD-11085
+Lighting,lumpy,False,0,HD-11086
+Cooling,smooth,False,0,HD-11087
+Air system,intermittent,False,0,HD-11088
+Lighting,erratic,False,0,HD-11089
+Electrical,intermittent,False,0,HD-11090
+Air system,intermittent,False,0,HD-11091
+Brakes,intermittent,False,0,HD-11092
+Lighting,lumpy,False,0,HD-11093
+Air system,intermittent,False,0,HD-11094
+Brakes,intermittent,False,0,HD-11095
+Electrical,intermittent,False,0,HD-11096
+Brakes,intermittent,False,0,HD-11097
+Air system,intermittent,False,0,HD-11098
+Air system,intermittent,False,0,HD-11099
+Brakes,erratic,False,0,HD-11100
+Suspension,lumpy,False,0,HD-11101
+Suspension,erratic,False,0,HD-11102
+Cooling,erratic,False,0,HD-11103
+Electrical,intermittent,True,50,HD-11104
+Electrical,intermittent,False,0,HD-11105
+Cooling,intermittent,False,0,HD-11106
+Brakes,intermittent,False,0,HD-11107
+Air system,intermittent,False,0,HD-11108
+Suspension,intermittent,False,0,HD-11109
+Lighting,intermittent,False,0,HD-11110
+Lighting,erratic,False,0,HD-11111
+Suspension,lumpy,False,0,HD-11112
+Brakes,lumpy,False,0,HD-11113
+Cooling,intermittent,False,0,HD-11114
+Brakes,intermittent,False,0,HD-11115
+Brakes,lumpy,False,0,HD-11116
+Cooling,lumpy,False,0,HD-11117
+Suspension,smooth,False,0,HD-11118
+Lighting,intermittent,False,0,HD-11119
+Cooling,intermittent,False,0,HD-11120
+Cooling,intermittent,False,0,HD-11121
+Brakes,intermittent,False,0,HD-11122
+Cooling,intermittent,False,0,HD-11123
+Air system,intermittent,False,0,HD-11124
+Brakes,erratic,False,0,HD-11125
+Lighting,intermittent,False,0,HD-11126
+Cooling,erratic,False,0,HD-11127
+Lighting,intermittent,False,0,HD-11128
+Lighting,intermittent,False,0,HD-11129
+Brakes,intermittent,False,0,HD-11130
+Suspension,intermittent,False,0,HD-11131
+Suspension,erratic,False,0,HD-11132
+Air system,intermittent,False,0,HD-11133
+Brakes,intermittent,False,0,HD-11134
+Electrical,lumpy,False,0,HD-11135
+Brakes,intermittent,True,7,HD-11136
+Air system,smooth,False,0,HD-11137
+Lighting,intermittent,False,0,HD-11138
+Air system,intermittent,True,3,HD-11139
+Lighting,intermittent,False,0,HD-11140
+Suspension,intermittent,False,0,HD-11141
+Air system,intermittent,False,0,HD-11142
+Air system,intermittent,False,0,HD-11143
+Brakes,intermittent,False,0,HD-11144
+Suspension,intermittent,False,0,HD-11145
+Air system,erratic,False,0,HD-11146
+Electrical,intermittent,False,0,HD-11147
+Suspension,lumpy,True,25,HD-11148
+Air system,smooth,False,0,HD-11149
+Suspension,erratic,False,0,HD-11150
+Cooling,smooth,False,0,HD-11151
+Electrical,smooth,True,50,HD-11152
+Suspension,intermittent,False,0,HD-11153
+Cooling,intermittent,False,0,HD-11154
+Cooling,erratic,False,0,HD-11155
+Cooling,intermittent,True,28,HD-11156
+Electrical,erratic,False,0,HD-11157
+Cooling,intermittent,False,0,HD-11158
+Suspension,intermittent,False,0,HD-11159
+Air system,intermittent,False,0,HD-11160
+Brakes,intermittent,False,0,HD-11161
+Cooling,erratic,False,0,HD-11162
+Suspension,smooth,False,0,HD-11163
+Brakes,intermittent,True,22,HD-11164
+Lighting,intermittent,False,0,HD-11165
+Lighting,intermittent,False,0,HD-11166
+Cooling,lumpy,False,0,HD-11167
+Suspension,intermittent,True,38,HD-11168
+Lighting,smooth,False,0,HD-11169
+Air system,intermittent,False,0,HD-11170
+Lighting,intermittent,False,0,HD-11171
+Suspension,intermittent,False,0,HD-11172
+Suspension,erratic,True,35,HD-11173
+Air system,lumpy,False,0,HD-11174
+Cooling,intermittent,False,0,HD-11175
+Cooling,intermittent,False,0,HD-11176
+Lighting,lumpy,False,0,HD-11177
+Electrical,intermittent,True,50,HD-11178
+Air system,erratic,False,0,HD-11179
+Suspension,smooth,False,0,HD-11180
+Suspension,smooth,False,0,HD-11181
+Electrical,erratic,False,0,HD-11182
+Lighting,intermittent,False,0,HD-11183
+Lighting,smooth,False,0,HD-11184
+Suspension,smooth,False,0,HD-11185
+Lighting,intermittent,False,0,HD-11186
+Lighting,smooth,False,0,HD-11187
+Electrical,erratic,True,50,HD-11188
+Brakes,intermittent,False,0,HD-11189
+Air system,intermittent,False,0,HD-11190
+Brakes,intermittent,False,0,HD-11191
+Lighting,intermittent,False,0,HD-11192
+Electrical,smooth,False,0,HD-11193
+Suspension,smooth,False,0,HD-11194
+Suspension,smooth,True,1,HD-11195
+Lighting,smooth,False,0,HD-11196
+Air system,intermittent,True,12,HD-11197
+Suspension,intermittent,False,0,HD-11198
+Electrical,smooth,False,0,HD-11199

@@ -1,0 +1,1031 @@
+item_id,description,category,unit_cost,price,status,condition,supplier_id,pack_size
+IN-10000,Gearbox timing belt,Belts and sheaves,19.07,28.24,Active,New,SIN01,10
+IN-10001,Gearbox coupling insert,Belts and sheaves,48.35,76.5,Active,New,SIN10,25
+IN-10002,Conveyor breather,Gearboxes,4.66,8.36,Active,New,SIN00,25
+IN-10003,Gearbox rod seal,Seals,639.1,1098.62,Active,New,SIN09,1
+IN-10004,Gearbox check valve,Hydraulic valves,202.7,291.27,Active,New,SIN05,1
+IN-10005,Press tapered roller bearing,Bearings,347.01,585.14,Active,New,SIN00,1
+IN-10006,Press relief valve,Hydraulic valves,742.53,1272.28,Active,New,SIN04,1
+IN-10007,Press motor adapter,Gearboxes,54.17,95.41,Active,New,SIN00,5
+IN-10008,Compressor sheave,Belts and sheaves,483.84,715.5,Active,New,SIN08,1
+IN-10009,Pump ball bearing,Bearings,77.8,118.98,Active,New,SIN09,25
+IN-10010,Press sheave,Belts and sheaves,8.3,12.99,Active,New,SIN06,1
+IN-10011,Press tapered roller bearing,Bearings,12.13,21.06,Active,New,SIN05,2
+IN-10012,Press breather,Gearboxes,242.46,348.66,Active,New,SIN01,1
+IN-10013,Compressor V-belt,Belts and sheaves,181.06,319.62,Active,New,SIN02,1
+IN-10014,Compressor V-belt,Belts and sheaves,2.12,3.34,Active,New,SIN05,2
+IN-10015,Press tapered roller bearing,Bearings,213.8,340.31,Active,New,SIN03,1
+IN-10016,Pump coupling insert,Belts and sheaves,278.31,385.4,Active,New,SIN06,1
+IN-10017,Gearbox V-ring,Seals,29.75,42.59,Active,New,SIN09,1
+IN-10018,Conveyor output shaft,Gearboxes,38.01,67.95,Active,New,SIN03,5
+IN-10019,Conveyor timing belt,Belts and sheaves,55.42,86.7,Active,New,SIN05,1
+IN-10020,Pump breather,Gearboxes,1373.61,1972.73,Active,New,SIN07,1
+IN-10021,Conveyor tapered roller bearing,Bearings,2.12,3.56,Active,New,SIN04,10
+IN-10022,Gearbox check valve,Hydraulic valves,2.0,3.35,Active,New,SIN08,1
+IN-10023,Conveyor O-ring kit,Seals,5.76,7.86,Active,New,SIN08,5
+IN-10024,Compressor speed reducer,Gearboxes,3.52,5.83,Active,New,SIN03,10
+IN-10025,Conveyor spherical roller bearing,Bearings,38.4,56.76,Active,New,SIN04,2
+IN-10026,Pump solenoid coil,Hydraulic valves,245.17,371.37,Active,New,SIN08,1
+IN-10027,Press sheave,Belts and sheaves,2.13,3.01,Active,New,SIN02,1
+IN-10028,Press mechanical seal,Seals,657.12,993.79,Active,New,SIN11,1
+IN-10029,Press timing belt,Belts and sheaves,18.16,31.24,Active,New,SIN08,1
+IN-10030,Press oil seal,Seals,80.15,135.61,Active,New,SIN10,1
+IN-10031,Press bushing,Belts and sheaves,12.76,17.59,Active,New,SIN10,1
+IN-10032,Conveyor flow control,Hydraulic valves,15.97,24.56,Active,New,SIN07,25
+IN-10033,Conveyor ball bearing,Bearings,6.02,10.4,Active,New,SIN03,25
+IN-10034,Compressor speed reducer,Gearboxes,474.66,825.35,Active,New,SIN01,1
+IN-10035,Gearbox relief valve,Hydraulic valves,377.25,578.2,Active,New,SIN07,1
+IN-10036,Press O-ring kit,Seals,2.53,4.39,Active,New,SIN04,10
+IN-10037,Press output shaft,Gearboxes,77.76,133.47,Active,New,SIN05,5
+IN-10038,Conveyor flange unit,Bearings,36.31,53.48,Active,New,SIN05,1
+IN-10039,Conveyor speed reducer,Gearboxes,2.0,3.53,Active,New,SIN08,5
+IN-10040,Press solenoid coil,Hydraulic valves,4.27,6.22,Active,New,SIN00,10
+IN-10041,Press relief valve,Hydraulic valves,4.12,6.05,Active,New,SIN03,2
+IN-10042,Gearbox oil seal,Seals,1214.9,1790.44,Active,New,SIN01,1
+IN-10043,Gearbox flow control,Hydraulic valves,2.69,4.8,Active,New,SIN05,25
+IN-10044,Conveyor solenoid coil,Hydraulic valves,2.0,3.06,Active,New,SIN05,1
+IN-10045,Press ball bearing,Bearings,12.17,18.44,Active,New,SIN03,1
+IN-10046,Conveyor rod seal,Seals,5.6,10.01,Active,New,SIN11,1
+IN-10047,Pump spherical roller bearing,Bearings,2.26,3.37,Active,New,SIN11,5
+IN-10048,Compressor flange unit,Bearings,17.49,24.02,Active,New,SIN04,1
+IN-10049,Gearbox timing belt,Belts and sheaves,989.56,1503.76,Active,New,SIN02,1
+IN-10050,Conveyor coupling insert,Belts and sheaves,2.0,3.06,Active,New,SIN00,10
+IN-10051,Pump gear set,Gearboxes,37.31,55.93,Active,New,SIN05,10
+IN-10052,Compressor relief valve,Hydraulic valves,4.49,6.91,Active,New,SIN03,1
+IN-10053,Compressor oil seal,Seals,9.71,16.95,Active,New,SIN11,10
+IN-10054,Press relief valve,Hydraulic valves,8.12,11.67,Active,New,SIN09,1
+IN-10055,Conveyor spherical roller bearing,Bearings,362.15,575.5,Active,New,SIN09,1
+IN-10056,Press gear set,Gearboxes,89.31,151.06,Active,New,SIN06,1
+IN-10057,Compressor ball bearing,Bearings,19.9,31.16,Active,New,SIN00,1
+IN-10058,Conveyor flange unit,Bearings,195.86,319.87,Active,New,SIN11,1
+IN-10059,Conveyor V-belt,Belts and sheaves,2.89,5.05,Active,New,SIN01,25
+IN-10060,Pump flange unit,Bearings,50.17,76.37,Active,New,SIN01,25
+IN-10061,Compressor tapered roller bearing,Bearings,2.0,3.29,Active,New,SIN05,10
+IN-10062,Conveyor flow control,Hydraulic valves,9.67,14.79,Active,New,SIN03,5
+IN-10063,Compressor pillow block,Bearings,17.0,23.84,Active,New,SIN10,1
+IN-10064,Compressor tapered roller bearing,Bearings,201.57,280.75,Active,New,SIN05,1
+IN-10065,Compressor V-belt,Belts and sheaves,8.29,11.66,Active,New,SIN11,1
+IN-10066,Gearbox check valve,Hydraulic valves,13.76,21.61,Active,New,SIN09,2
+IN-10067,Press spherical roller bearing,Bearings,20.11,30.65,Active,New,SIN07,2
+IN-10068,Conveyor relief valve,Hydraulic valves,2.8,4.08,Active,New,SIN02,1
+IN-10069,Compressor oil seal,Seals,935.88,1456.27,Active,New,SIN04,1
+IN-10070,Pump ball bearing,Bearings,162.22,253.93,Active,New,SIN05,1
+IN-10071,Press relief valve,Hydraulic valves,326.47,495.51,Active,New,SIN00,1
+IN-10072,Gearbox speed reducer,Gearboxes,7.19,10.56,Active,New,SIN10,25
+IN-10073,Compressor bushing,Belts and sheaves,289.78,497.1,Active,New,SIN09,1
+IN-10074,Press bushing,Belts and sheaves,21.76,31.96,Active,New,SIN02,5
+IN-10075,Conveyor gear set,Gearboxes,395.66,558.49,Active,New,SIN02,1
+IN-10076,Conveyor sheave,Belts and sheaves,558.11,799.75,Active,New,SIN02,1
+IN-10077,Press O-ring kit,Seals,17.67,31.74,Active,New,SIN05,10
+IN-10078,Press bushing,Belts and sheaves,2.63,4.36,Active,New,SIN00,5
+IN-10079,Press tapered roller bearing,Bearings,236.58,376.36,Active,New,SIN00,1
+IN-10080,Conveyor relief valve,Hydraulic valves,171.09,262.95,Active,New,SIN06,1
+IN-10081,Gearbox relief valve,Hydraulic valves,21.79,38.66,Active,New,SIN05,10
+IN-10082,Press flow control,Hydraulic valves,26.36,36.52,Active,New,SIN10,1
+IN-10083,Gearbox mechanical seal,Seals,2.0,2.79,Active,New,SIN11,2
+IN-10084,Conveyor directional valve,Hydraulic valves,9.7,15.59,Active,New,SIN03,2
+IN-10085,Pump check valve,Hydraulic valves,1225.45,2052.36,Active,New,SIN02,1
+IN-10086,Pump timing belt,Belts and sheaves,27.7,49.45,Active,New,SIN02,5
+IN-10087,Gearbox gear set,Gearboxes,2.03,2.82,Active,New,SIN09,10
+IN-10088,Gearbox V-ring,Seals,427.92,606.79,Active,New,SIN06,1
+IN-10089,Gearbox mechanical seal,Seals,4.27,6.58,Active,New,SIN01,5
+IN-10090,Gearbox check valve,Hydraulic valves,2.87,4.3,Active,New,SIN05,5
+IN-10091,Pump oil seal,Seals,78.21,131.44,Active,New,SIN01,1
+IN-10092,Gearbox coupling insert,Belts and sheaves,42.62,70.16,Active,New,SIN10,1
+IN-10093,Compressor coupling insert,Belts and sheaves,55.06,89.2,Active,New,SIN02,2
+IN-10094,Gearbox flange unit,Bearings,5.1,8.6,Active,New,SIN07,1
+IN-10095,Compressor timing belt,Belts and sheaves,226.19,375.87,Active,New,SIN04,1
+IN-10096,Conveyor timing belt,Belts and sheaves,6.5,10.85,Active,New,SIN10,1
+IN-10097,Compressor rod seal,Seals,4.59,7.59,Active,New,SIN00,25
+IN-10098,Pump check valve,Hydraulic valves,402.44,659.53,Active,New,SIN00,1
+IN-10099,Pump flange unit,Bearings,7.74,13.62,Active,New,SIN07,10
+IN-10100,Press O-ring kit,Seals,8.75,14.53,Active,New,SIN06,5
+IN-10101,Conveyor timing belt,Belts and sheaves,676.76,1040.96,Active,New,SIN11,1
+IN-10102,Gearbox speed reducer,Gearboxes,2.0,3.17,Active,New,SIN03,5
+IN-10103,Compressor check valve,Hydraulic valves,5.16,8.17,Active,New,SIN01,5
+IN-10104,Conveyor spherical roller bearing,Bearings,2.0,3.39,Active,New,SIN01,1
+IN-10105,Conveyor sheave,Belts and sheaves,690.15,1060.48,Active,New,SIN05,1
+IN-10106,Compressor sheave,Belts and sheaves,713.0,1183.95,Active,New,SIN05,1
+IN-10107,Gearbox flow control,Hydraulic valves,32.92,48.78,Active,New,SIN00,1
+IN-10108,Pump relief valve,Hydraulic valves,2.54,4.56,Active,New,SIN11,1
+IN-10109,Compressor directional valve,Hydraulic valves,834.89,1306.59,Active,New,SIN01,1
+IN-10110,Gearbox timing belt,Belts and sheaves,166.99,253.84,Active,New,SIN08,1
+IN-10111,Compressor bushing,Belts and sheaves,918.13,1638.87,Active,New,SIN06,1
+IN-10112,Gearbox sheave,Belts and sheaves,7.41,10.72,Active,New,SIN09,1
+IN-10113,Compressor coupling insert,Belts and sheaves,2.0,3.16,Active,New,SIN04,1
+IN-10114,Press flange unit,Bearings,301.49,523.12,Active,New,SIN05,1
+IN-10115,Compressor flange unit,Bearings,2.0,3.33,Active,New,SIN11,1
+IN-10116,Pump flange unit,Bearings,13.45,20.77,Active,New,SIN09,1
+IN-10117,Pump motor adapter,Gearboxes,2.77,4.36,Active,New,SIN02,1
+IN-10118,Compressor directional valve,Hydraulic valves,52.62,78.86,Active,New,SIN04,1
+IN-10119,Pump tapered roller bearing,Bearings,103.02,176.15,Active,New,SIN10,1
+IN-10120,Press O-ring kit,Seals,29.31,52.26,Active,New,SIN06,1
+IN-10121,Press O-ring kit,Seals,4.64,6.94,Active,New,SIN01,10
+IN-10122,Conveyor speed reducer,Gearboxes,19.56,35.04,Active,New,SIN05,1
+IN-10123,Gearbox V-belt,Belts and sheaves,19.12,31.59,Active,New,SIN04,10
+IN-10124,Conveyor V-ring,Seals,1306.49,1851.43,Active,New,SIN02,1
+IN-10125,Pump coupling insert,Belts and sheaves,36.46,59.59,Active,New,SIN02,5
+IN-10126,Gearbox ball bearing,Bearings,7.94,12.0,Active,New,SIN11,1
+IN-10127,Press check valve,Hydraulic valves,21.62,32.06,Active,New,SIN03,25
+IN-10128,Compressor O-ring kit,Seals,20.87,33.35,Active,New,SIN09,10
+IN-10129,Pump speed reducer,Gearboxes,140.53,194.52,Active,New,SIN09,1
+IN-10130,Compressor solenoid coil,Hydraulic valves,21.19,30.73,Active,New,SIN08,1
+IN-10131,Pump pillow block,Bearings,59.45,82.87,Active,New,SIN11,2
+IN-10132,Conveyor oil seal,Seals,34.84,56.09,Active,New,SIN10,2
+IN-10133,Conveyor sheave,Belts and sheaves,291.15,434.57,Active,New,SIN09,1
+IN-10134,Pump oil seal,Seals,229.87,386.57,Active,New,SIN10,1
+IN-10135,Press pillow block,Bearings,30.43,47.42,Active,New,SIN01,1
+IN-10136,Gearbox tapered roller bearing,Bearings,1153.68,1831.28,Active,New,SIN04,1
+IN-10137,Gearbox V-belt,Belts and sheaves,874.64,1395.69,Active,New,SIN02,1
+IN-10138,Compressor check valve,Hydraulic valves,16.71,25.7,Active,New,SIN01,2
+IN-10139,Gearbox pillow block,Bearings,36.58,56.46,Active,New,SIN08,1
+IN-10140,Press check valve,Hydraulic valves,589.49,1035.41,Active,New,SIN07,1
+IN-10141,Gearbox oil seal,Seals,2.0,2.9,Active,New,SIN07,10
+IN-10142,Gearbox flange unit,Bearings,17.2,23.25,Active,New,SIN08,25
+IN-10143,Pump flange unit,Bearings,2.0,3.42,Active,New,SIN01,1
+IN-10144,Press directional valve,Hydraulic valves,2.0,3.27,Active,New,SIN04,10
+IN-10145,Gearbox spherical roller bearing,Bearings,55.04,89.9,Active,New,SIN06,1
+IN-10146,Conveyor spherical roller bearing,Bearings,66.02,91.66,Active,New,SIN02,1
+IN-10147,Press rod seal,Seals,56.25,90.7,Active,New,SIN11,1
+IN-10148,Conveyor V-belt,Belts and sheaves,148.98,266.09,Active,New,SIN10,2
+IN-10149,Compressor tapered roller bearing,Bearings,2.0,3.18,Active,New,SIN04,5
+IN-10150,Gearbox oil seal,Seals,369.68,587.78,Active,New,SIN00,1
+IN-10151,Compressor flange unit,Bearings,636.16,892.26,Active,New,SIN04,1
+IN-10152,Compressor coupling insert,Belts and sheaves,6.38,9.6,Active,New,SIN02,1
+IN-10153,Press pillow block,Bearings,2.37,3.83,Active,New,SIN00,1
+IN-10154,Pump mechanical seal,Seals,2.0,3.39,Active,New,SIN03,2
+IN-10155,Conveyor tapered roller bearing,Bearings,2.0,2.76,Active,New,SIN02,2
+IN-10156,Press breather,Gearboxes,21.74,36.99,Active,New,SIN03,10
+IN-10157,Conveyor sheave,Belts and sheaves,6.47,10.79,Active,New,SIN03,5
+IN-10158,Conveyor sheave,Belts and sheaves,2.0,3.05,Active,New,SIN07,1
+IN-10159,Conveyor sheave,Belts and sheaves,31.79,56.74,Active,New,SIN10,25
+IN-10160,Pump bushing,Belts and sheaves,45.43,73.38,Active,New,SIN05,25
+IN-10161,Gearbox check valve,Hydraulic valves,1345.51,2032.22,Active,New,SIN10,1
+IN-10162,Press oil seal,Seals,21.96,36.48,Active,New,SIN10,5
+IN-10163,Press coupling insert,Belts and sheaves,422.37,644.55,Active,New,SIN04,1
+IN-10164,Pump speed reducer,Gearboxes,358.49,577.38,Active,New,SIN00,1
+IN-10165,Conveyor rod seal,Seals,1014.85,1695.79,Active,New,SIN06,1
+IN-10166,Conveyor rod seal,Seals,152.44,266.84,Active,New,SIN03,1
+IN-10167,Conveyor spherical roller bearing,Bearings,29.42,49.82,Active,New,SIN11,10
+IN-10168,Press pillow block,Bearings,5.2,7.89,Active,New,SIN05,5
+IN-10169,Compressor speed reducer,Gearboxes,723.78,1211.48,Active,New,SIN10,1
+IN-10170,Conveyor sheave,Belts and sheaves,2.0,3.2,Active,New,SIN07,5
+IN-10171,Press solenoid coil,Hydraulic valves,907.09,1547.42,Active,New,SIN07,1
+IN-10172,Pump rod seal,Seals,94.37,151.84,Active,New,SIN01,1
+IN-10173,Pump check valve,Hydraulic valves,16.74,27.79,Active,New,SIN06,1
+IN-10174,Gearbox O-ring kit,Seals,434.62,693.36,Active,New,SIN00,1
+IN-10175,Compressor gear set,Gearboxes,75.86,107.05,Active,New,SIN07,25
+IN-10176,Pump sheave,Belts and sheaves,714.98,1014.46,Active,New,SIN04,1
+IN-10177,Compressor breather,Gearboxes,52.51,87.41,Active,New,SIN00,10
+IN-10178,Gearbox bushing,Belts and sheaves,643.33,1134.28,Active,New,SIN05,1
+IN-10179,Pump V-ring,Seals,25.49,44.43,Active,New,SIN09,1
+IN-10180,Press mechanical seal,Seals,44.01,74.91,Active,New,SIN11,1
+IN-10181,Press spherical roller bearing,Bearings,15.39,25.58,Active,New,SIN09,2
+IN-10182,Gearbox bushing,Belts and sheaves,21.93,34.78,Active,New,SIN01,25
+IN-10183,Pump motor adapter,Gearboxes,6.72,9.84,Active,New,SIN03,1
+IN-10184,Compressor oil seal,Seals,32.52,47.18,Active,New,SIN02,2
+IN-10185,Conveyor flange unit,Bearings,6.27,11.2,Active,New,SIN05,25
+IN-10186,Press flow control,Hydraulic valves,32.33,54.03,Active,New,SIN02,10
+IN-10187,Pump ball bearing,Bearings,4.23,5.98,Active,New,SIN06,10
+IN-10188,Compressor V-ring,Seals,4.92,8.69,Active,New,SIN00,2
+IN-10189,Pump sheave,Belts and sheaves,2.0,3.31,Active,New,SIN00,1
+IN-10190,Conveyor breather,Gearboxes,2.0,3.2,Active,New,SIN09,1
+IN-10191,Pump flange unit,Bearings,1140.62,2024.31,Active,New,SIN00,1
+IN-10192,Conveyor tapered roller bearing,Bearings,890.95,1488.62,Active,New,SIN05,1
+IN-10193,Conveyor directional valve,Hydraulic valves,2.0,3.43,Active,New,SIN11,5
+IN-10194,Conveyor sheave,Belts and sheaves,9.8,14.04,Active,New,SIN07,10
+IN-10195,Pump speed reducer,Gearboxes,456.97,700.18,Active,New,SIN03,1
+IN-10196,Conveyor timing belt,Belts and sheaves,350.36,619.71,Active,New,SIN05,1
+IN-10197,Press check valve,Hydraulic valves,2.24,4.02,Active,New,SIN06,1
+IN-10198,Pump sheave,Belts and sheaves,14.71,22.44,Active,New,SIN05,5
+IN-10199,Gearbox motor adapter,Gearboxes,444.87,681.8,Active,New,SIN02,1
+IN-10200,Pump timing belt,Belts and sheaves,66.03,94.91,Active,New,SIN09,1
+IN-10201,Press V-belt,Belts and sheaves,17.65,28.7,Active,New,SIN06,1
+IN-10202,Pump check valve,Hydraulic valves,163.05,268.01,Active,New,SIN02,1
+IN-10203,Press directional valve,Hydraulic valves,200.41,287.37,Active,New,SIN01,1
+IN-10204,Gearbox breather,Gearboxes,5.06,8.91,Active,New,SIN03,1
+IN-10205,Conveyor relief valve,Hydraulic valves,57.66,80.82,Active,New,SIN05,25
+IN-10206,Pump directional valve,Hydraulic valves,10.05,13.58,Active,New,SIN11,1
+IN-10207,Conveyor mechanical seal,Seals,117.86,188.68,Active,New,SIN03,1
+IN-10208,Conveyor check valve,Hydraulic valves,9.13,13.62,Active,New,SIN04,10
+IN-10209,Gearbox sheave,Belts and sheaves,916.0,1352.5,Active,New,SIN04,1
+IN-10210,Gearbox mechanical seal,Seals,349.53,589.65,Active,New,SIN03,1
+IN-10211,Pump ball bearing,Bearings,10.58,15.56,Active,New,SIN03,1
+IN-10212,Compressor speed reducer,Gearboxes,4.51,7.21,Active,New,SIN03,1
+IN-10213,Pump flow control,Hydraulic valves,18.97,28.56,Active,New,SIN00,25
+IN-10214,Compressor motor adapter,Gearboxes,76.7,117.71,Active,New,SIN02,10
+IN-10215,Compressor breather,Gearboxes,556.91,798.53,Active,New,SIN04,1
+IN-10216,Pump tapered roller bearing,Bearings,240.56,349.21,Active,New,SIN06,1
+IN-10217,Pump mechanical seal,Seals,12.59,20.27,Active,New,SIN00,25
+IN-10218,Press motor adapter,Gearboxes,322.14,485.33,Active,New,SIN01,1
+IN-10219,Press mechanical seal,Seals,27.22,47.12,Active,New,SIN09,1
+IN-10220,Press oil seal,Seals,2.0,3.21,Active,New,SIN07,1
+IN-10221,Conveyor bushing,Belts and sheaves,987.8,1593.94,Active,New,SIN04,1
+IN-10222,Gearbox check valve,Hydraulic valves,842.6,1320.88,Active,New,SIN00,1
+IN-10223,Gearbox flow control,Hydraulic valves,2.86,4.3,Active,New,SIN02,2
+IN-10224,Compressor bushing,Belts and sheaves,121.94,183.05,Active,New,SIN05,10
+IN-10225,Conveyor flow control,Hydraulic valves,6.89,10.43,Active,New,SIN05,5
+IN-10226,Conveyor check valve,Hydraulic valves,221.55,313.43,Active,New,SIN08,1
+IN-10227,Conveyor output shaft,Gearboxes,587.58,983.87,Active,New,SIN05,1
+IN-10228,Conveyor speed reducer,Gearboxes,48.15,68.71,Active,New,SIN06,1
+IN-10229,Compressor flow control,Hydraulic valves,3.2,5.5,Active,New,SIN11,10
+IN-10230,Conveyor oil seal,Seals,407.17,568.17,Active,New,SIN09,1
+IN-10231,Conveyor tapered roller bearing,Bearings,2.0,3.33,Active,New,SIN02,1
+IN-10232,Compressor rod seal,Seals,7.73,13.14,Active,New,SIN01,2
+IN-10233,Compressor bushing,Belts and sheaves,5.15,8.95,Active,New,SIN11,1
+IN-10234,Conveyor spherical roller bearing,Bearings,7.78,10.95,Active,New,SIN11,2
+IN-10235,Press tapered roller bearing,Bearings,139.48,250.2,Active,New,SIN04,10
+IN-10236,Gearbox timing belt,Belts and sheaves,133.77,208.41,Active,New,SIN01,1
+IN-10237,Compressor speed reducer,Gearboxes,1444.5,2059.18,Active,New,SIN01,1
+IN-10238,Press tapered roller bearing,Bearings,2.52,4.37,Active,New,SIN03,1
+IN-10239,Conveyor flange unit,Bearings,191.55,318.72,Active,New,SIN11,1
+IN-10240,Press check valve,Hydraulic valves,75.31,108.9,Active,New,SIN00,5
+IN-10241,Gearbox speed reducer,Gearboxes,87.25,119.34,Active,New,SIN01,10
+IN-10242,Pump speed reducer,Gearboxes,33.76,46.53,Active,New,SIN10,1
+IN-10243,Pump tapered roller bearing,Bearings,600.33,995.87,Active,New,SIN00,1
+IN-10244,Compressor check valve,Hydraulic valves,2.0,2.99,Active,New,SIN05,10
+IN-10245,Gearbox sheave,Belts and sheaves,94.12,156.69,Active,New,SIN01,1
+IN-10246,Press check valve,Hydraulic valves,55.12,80.79,Active,New,SIN00,2
+IN-10247,Conveyor directional valve,Hydraulic valves,23.28,41.05,Active,New,SIN05,1
+IN-10248,Conveyor solenoid coil,Hydraulic valves,527.44,817.44,Active,New,SIN07,1
+IN-10249,Press O-ring kit,Seals,2.33,3.85,Active,New,SIN02,2
+IN-10250,Gearbox output shaft,Gearboxes,41.79,61.06,Active,New,SIN11,1
+IN-10251,Press relief valve,Hydraulic valves,69.46,124.85,Active,New,SIN06,5
+IN-10252,Gearbox flange unit,Bearings,3.09,5.28,Active,New,SIN03,25
+IN-10253,Gearbox speed reducer,Gearboxes,2.0,2.98,Active,New,SIN06,1
+IN-10254,Conveyor coupling insert,Belts and sheaves,28.25,39.8,Active,New,SIN10,2
+IN-10255,Press directional valve,Hydraulic valves,19.08,27.77,Active,New,SIN06,25
+IN-10256,Pump solenoid coil,Hydraulic valves,11.56,18.45,Active,New,SIN10,1
+IN-10257,Compressor bushing,Belts and sheaves,903.37,1286.38,Active,New,SIN00,1
+IN-10258,Compressor speed reducer,Gearboxes,7.33,10.74,Active,New,SIN07,25
+IN-10259,Pump motor adapter,Gearboxes,5.01,8.34,Active,New,SIN00,5
+IN-10260,Press rod seal,Seals,34.68,53.05,Active,New,SIN07,1
+IN-10261,Compressor ball bearing,Bearings,48.32,81.26,Active,New,SIN11,25
+IN-10262,Conveyor O-ring kit,Seals,6.43,10.13,Active,New,SIN09,10
+IN-10263,Press rod seal,Seals,358.53,619.21,Active,New,SIN08,1
+IN-10264,Gearbox flow control,Hydraulic valves,270.95,412.52,Active,New,SIN11,1
+IN-10265,Press V-ring,Seals,3.26,5.34,Active,New,SIN05,5
+IN-10266,Press pillow block,Bearings,4.54,6.46,Active,New,SIN05,1
+IN-10267,Compressor flange unit,Bearings,780.69,1178.56,Active,New,SIN07,1
+IN-10268,Gearbox gear set,Gearboxes,137.47,213.0,Active,New,SIN05,10
+IN-10269,Pump speed reducer,Gearboxes,2.7,4.82,Active,New,SIN00,1
+IN-10270,Press gear set,Gearboxes,51.42,90.55,Active,New,SIN05,10
+IN-10271,Compressor pillow block,Bearings,8.18,12.98,Active,New,SIN06,2
+IN-10272,Gearbox directional valve,Hydraulic valves,74.95,117.51,Active,New,SIN02,25
+IN-10273,Gearbox pillow block,Bearings,2.0,3.56,Active,New,SIN03,5
+IN-10274,Gearbox V-ring,Seals,866.39,1182.26,Active,New,SIN09,1
+IN-10275,Press oil seal,Seals,101.56,167.23,Active,New,SIN02,1
+IN-10276,Conveyor V-ring,Seals,2.24,3.65,Active,New,SIN06,25
+IN-10277,Pump solenoid coil,Hydraulic valves,6.1,8.55,Active,New,SIN10,10
+IN-10278,Compressor gear set,Gearboxes,182.92,321.24,Active,New,SIN03,1
+IN-10279,Press directional valve,Hydraulic valves,60.69,82.98,Active,New,SIN10,5
+IN-10280,Pump motor adapter,Gearboxes,132.7,197.89,Active,New,SIN04,1
+IN-10281,Pump V-ring,Seals,7.43,12.5,Active,New,SIN02,1
+IN-10282,Press spherical roller bearing,Bearings,906.07,1488.7,Active,New,SIN06,1
+IN-10283,Pump flange unit,Bearings,38.17,53.65,Active,New,SIN00,2
+IN-10284,Compressor flow control,Hydraulic valves,25.63,45.64,Active,New,SIN05,25
+IN-10285,Press flange unit,Bearings,171.06,279.66,Active,New,SIN04,1
+IN-10286,Pump rod seal,Seals,764.02,1252.33,Active,New,SIN07,1
+IN-10287,Conveyor solenoid coil,Hydraulic valves,1024.45,1777.25,Active,New,SIN01,1
+IN-10288,Pump ball bearing,Bearings,445.0,696.83,Active,New,SIN05,1
+IN-10289,Gearbox directional valve,Hydraulic valves,6.3,10.95,Active,New,SIN07,1
+IN-10290,Gearbox sheave,Belts and sheaves,4.57,7.06,Active,New,SIN08,1
+IN-10291,Compressor ball bearing,Bearings,365.09,550.02,Active,New,SIN07,1
+IN-10292,Compressor V-belt,Belts and sheaves,812.22,1101.71,Active,New,SIN01,1
+IN-10293,Gearbox sheave,Belts and sheaves,7.85,11.37,Active,New,SIN02,10
+IN-10294,Compressor breather,Gearboxes,129.92,206.31,Active,New,SIN09,1
+IN-10295,Conveyor motor adapter,Gearboxes,25.64,38.89,Active,New,SIN06,1
+IN-10296,Press sheave,Belts and sheaves,76.58,122.35,Active,New,SIN03,1
+IN-10297,Gearbox V-belt,Belts and sheaves,171.75,249.0,Active,New,SIN00,1
+IN-10298,Compressor directional valve,Hydraulic valves,17.79,29.02,Active,New,SIN01,1
+IN-10299,Gearbox output shaft,Gearboxes,9.21,12.45,Active,New,SIN02,2
+IN-10300,Gearbox V-ring,Seals,44.72,65.0,Active,New,SIN02,5
+IN-10301,Gearbox flange unit,Bearings,11.16,17.18,Active,New,SIN10,1
+IN-10302,Conveyor speed reducer,Gearboxes,96.71,148.84,Active,New,SIN10,5
+IN-10303,Gearbox bushing,Belts and sheaves,14.14,19.45,Active,New,SIN08,10
+IN-10304,Gearbox O-ring kit,Seals,4.17,7.45,Active,New,SIN00,25
+IN-10305,Press speed reducer,Gearboxes,2.35,3.23,Active,New,SIN02,1
+IN-10306,Conveyor motor adapter,Gearboxes,21.2,33.37,Active,New,SIN06,10
+IN-10307,Gearbox rod seal,Seals,38.7,59.72,Active,New,SIN06,25
+IN-10308,Conveyor pillow block,Bearings,9.98,15.03,Active,New,SIN01,1
+IN-10309,Press V-ring,Seals,131.12,235.16,Active,New,SIN07,5
+IN-10310,Compressor motor adapter,Gearboxes,67.15,99.96,Active,New,SIN10,25
+IN-10311,Conveyor relief valve,Hydraulic valves,28.55,48.11,Active,New,SIN09,10
+IN-10312,Compressor V-ring,Seals,3.67,5.73,Active,New,SIN06,1
+IN-10313,Gearbox oil seal,Seals,2.0,3.36,Active,New,SIN08,1
+IN-10314,Pump directional valve,Hydraulic valves,22.55,34.7,Active,New,SIN09,5
+IN-10315,Compressor oil seal,Seals,2.0,3.5,Active,New,SIN08,10
+IN-10316,Press speed reducer,Gearboxes,376.51,581.94,Active,New,SIN02,1
+IN-10317,Compressor speed reducer,Gearboxes,888.41,1212.84,Active,New,SIN06,1
+IN-10318,Gearbox timing belt,Belts and sheaves,73.85,104.81,Active,New,SIN01,25
+IN-10319,Gearbox rod seal,Seals,59.74,101.99,Active,New,SIN05,1
+IN-10320,Pump timing belt,Belts and sheaves,22.11,38.03,Active,New,SIN00,1
+IN-10321,Compressor tapered roller bearing,Bearings,318.68,484.69,Active,New,SIN06,1
+IN-10322,Conveyor sheave,Belts and sheaves,2.0,2.73,Active,New,SIN01,1
+IN-10323,Conveyor rod seal,Seals,9.8,16.31,Active,New,SIN03,25
+IN-10324,Pump relief valve,Hydraulic valves,216.11,381.29,Active,New,SIN11,1
+IN-10325,Compressor pillow block,Bearings,23.4,33.91,Active,New,SIN08,5
+IN-10326,Pump solenoid coil,Hydraulic valves,2.0,3.19,Active,New,SIN08,1
+IN-10327,Gearbox O-ring kit,Seals,851.67,1184.46,Active,New,SIN11,1
+IN-10328,Conveyor motor adapter,Gearboxes,97.33,161.36,Active,New,SIN06,10
+IN-10329,Pump O-ring kit,Seals,38.68,53.71,Active,New,SIN11,10
+IN-10330,Compressor gear set,Gearboxes,3.41,6.03,Active,New,SIN11,1
+IN-10331,Conveyor V-ring,Seals,2.0,2.75,Active,New,SIN07,1
+IN-10332,Press rod seal,Seals,68.43,103.55,Active,New,SIN08,25
+IN-10333,Gearbox check valve,Hydraulic valves,354.42,504.28,Active,New,SIN11,1
+IN-10334,Conveyor check valve,Hydraulic valves,116.8,162.04,Active,New,SIN10,5
+IN-10335,Press breather,Gearboxes,118.61,194.06,Active,New,SIN02,5
+IN-10336,Conveyor bushing,Belts and sheaves,331.28,472.27,Active,New,SIN03,1
+IN-10337,Press pillow block,Bearings,5.44,8.09,Active,New,SIN04,10
+IN-10338,Pump directional valve,Hydraulic valves,2.57,4.43,Active,New,SIN02,2
+IN-10339,Compressor relief valve,Hydraulic valves,2.0,3.45,Active,New,SIN00,2
+IN-10340,Pump bushing,Belts and sheaves,32.45,55.56,Active,New,SIN04,1
+IN-10341,Press check valve,Hydraulic valves,403.97,573.51,Active,New,SIN04,1
+IN-10342,Conveyor output shaft,Gearboxes,49.43,78.8,Active,New,SIN02,2
+IN-10343,Pump ball bearing,Bearings,513.82,785.17,Active,New,SIN11,1
+IN-10344,Pump sheave,Belts and sheaves,211.8,320.56,Active,New,SIN06,1
+IN-10345,Gearbox O-ring kit,Seals,2.81,3.99,Active,New,SIN09,1
+IN-10346,Conveyor O-ring kit,Seals,218.17,320.31,Active,New,SIN06,1
+IN-10347,Conveyor rod seal,Seals,187.77,317.72,Active,New,SIN09,1
+IN-10348,Press check valve,Hydraulic valves,202.72,309.71,Active,New,SIN02,1
+IN-10349,Conveyor V-ring,Seals,4.04,6.5,Active,New,SIN01,10
+IN-10350,Compressor directional valve,Hydraulic valves,1373.38,2172.39,Active,New,SIN01,1
+IN-10351,Pump rod seal,Seals,19.45,34.24,Active,New,SIN10,1
+IN-10352,Press output shaft,Gearboxes,55.0,78.09,Active,New,SIN08,25
+IN-10353,Gearbox flange unit,Bearings,10.88,17.32,Active,New,SIN03,2
+IN-10354,Conveyor rod seal,Seals,261.87,437.45,Active,New,SIN06,1
+IN-10355,Pump V-belt,Belts and sheaves,28.51,46.48,Active,New,SIN10,5
+IN-10356,Press sheave,Belts and sheaves,3.04,5.44,Active,New,SIN06,1
+IN-10357,Conveyor sheave,Belts and sheaves,93.31,146.89,Active,New,SIN08,10
+IN-10358,Compressor coupling insert,Belts and sheaves,19.88,33.33,Active,New,SIN04,1
+IN-10359,Pump directional valve,Hydraulic valves,15.84,24.73,Active,New,SIN04,5
+IN-10360,Conveyor mechanical seal,Seals,124.47,198.66,Active,New,SIN07,10
+IN-10361,Gearbox ball bearing,Bearings,96.94,139.98,Active,New,SIN03,25
+IN-10362,Press output shaft,Gearboxes,2.82,4.4,Active,New,SIN02,1
+IN-10363,Compressor spherical roller bearing,Bearings,149.46,251.01,Active,New,SIN07,1
+IN-10364,Conveyor directional valve,Hydraulic valves,21.69,37.06,Active,New,SIN02,1
+IN-10365,Compressor motor adapter,Gearboxes,2.0,3.09,Active,New,SIN00,25
+IN-10366,Press rod seal,Seals,9.67,15.45,Active,New,SIN10,1
+IN-10367,Gearbox sheave,Belts and sheaves,6.46,9.33,Active,New,SIN06,1
+IN-10368,Conveyor solenoid coil,Hydraulic valves,79.87,133.8,Active,New,SIN02,5
+IN-10369,Compressor timing belt,Belts and sheaves,3.68,5.94,Active,New,SIN06,1
+IN-10370,Compressor tapered roller bearing,Bearings,1020.81,1618.96,Active,New,SIN01,1
+IN-10371,Press flow control,Hydraulic valves,16.51,24.14,Active,New,SIN04,1
+IN-10372,Press breather,Gearboxes,117.47,189.78,Active,New,SIN03,10
+IN-10373,Press breather,Gearboxes,17.01,26.47,Active,New,SIN01,2
+IN-10374,Pump gear set,Gearboxes,80.08,116.93,Active,New,SIN01,10
+IN-10375,Compressor solenoid coil,Hydraulic valves,12.17,17.94,Active,New,SIN08,10
+IN-10376,Compressor ball bearing,Bearings,713.63,1006.8,Active,New,SIN07,1
+IN-10377,Pump mechanical seal,Seals,516.91,849.64,Active,New,SIN01,1
+IN-10378,Press pillow block,Bearings,336.05,493.1,Active,New,SIN04,1
+IN-10379,Conveyor bushing,Belts and sheaves,21.15,31.98,Active,New,SIN02,1
+IN-10380,Gearbox ball bearing,Bearings,595.78,921.12,Active,New,SIN07,1
+IN-10381,Compressor flange unit,Bearings,84.6,140.03,Active,New,SIN07,5
+IN-10382,Compressor spherical roller bearing,Bearings,223.83,358.84,Active,New,SIN02,1
+IN-10383,Pump O-ring kit,Seals,22.0,38.57,Active,New,SIN04,1
+IN-10384,Compressor O-ring kit,Seals,6.66,9.66,Active,New,SIN02,25
+IN-10385,Pump O-ring kit,Seals,11.55,20.15,Active,New,SIN11,10
+IN-10386,Press gear set,Gearboxes,25.03,35.25,Active,New,SIN00,1
+IN-10387,Conveyor coupling insert,Belts and sheaves,140.81,229.62,Active,New,SIN09,1
+IN-10388,Press ball bearing,Bearings,2.0,3.42,Active,New,SIN08,2
+IN-10389,Conveyor spherical roller bearing,Bearings,794.53,1176.13,Active,New,SIN04,1
+IN-10390,Gearbox pillow block,Bearings,69.03,120.02,Active,New,SIN08,1
+IN-10391,Press relief valve,Hydraulic valves,2.76,4.11,Active,New,SIN08,10
+IN-10392,Conveyor rod seal,Seals,58.12,93.46,Active,New,SIN11,10
+IN-10393,Conveyor oil seal,Seals,7.13,11.93,Active,New,SIN08,1
+IN-10394,Press gear set,Gearboxes,28.38,43.84,Active,New,SIN01,25
+IN-10395,Press motor adapter,Gearboxes,2.0,3.09,Active,New,SIN08,25
+IN-10396,Compressor O-ring kit,Seals,532.13,837.88,Active,New,SIN07,1
+IN-10397,Pump tapered roller bearing,Bearings,656.72,1104.11,Active,New,SIN02,1
+IN-10398,Gearbox gear set,Gearboxes,2.0,3.25,Active,New,SIN01,25
+IN-10399,Pump mechanical seal,Seals,122.41,193.11,Active,New,SIN04,2
+IN-10400,Press V-ring,Seals,257.25,443.6,Active,New,SIN08,1
+IN-10401,Gearbox breather,Gearboxes,261.58,426.09,Active,New,SIN03,1
+IN-10402,Pump sheave,Belts and sheaves,70.62,116.38,Active,New,SIN04,2
+IN-10403,Compressor mechanical seal,Seals,801.98,1320.83,Active,New,SIN10,1
+IN-10404,Compressor speed reducer,Gearboxes,2.63,3.57,Active,New,SIN06,1
+IN-10405,Compressor tapered roller bearing,Bearings,25.21,42.26,Active,New,SIN03,5
+IN-10406,Conveyor speed reducer,Gearboxes,679.06,1095.01,Active,New,SIN01,1
+IN-10407,Gearbox O-ring kit,Seals,4.0,6.55,Active,New,SIN00,5
+IN-10408,Conveyor speed reducer,Gearboxes,2.0,3.42,Active,New,SIN01,1
+IN-10409,Press bushing,Belts and sheaves,166.13,274.07,Active,New,SIN01,1
+IN-10410,Gearbox relief valve,Hydraulic valves,2.0,3.11,Active,New,SIN09,10
+IN-10411,Pump bushing,Belts and sheaves,71.93,119.46,Active,New,SIN11,1
+IN-10412,Gearbox sheave,Belts and sheaves,2.0,2.88,Active,New,SIN02,5
+IN-10413,Press V-belt,Belts and sheaves,3.35,5.17,Active,New,SIN09,2
+IN-10414,Compressor breather,Gearboxes,9.05,15.23,Active,New,SIN10,1
+IN-10415,Pump directional valve,Hydraulic valves,47.4,83.0,Active,New,SIN02,2
+IN-10416,Gearbox breather,Gearboxes,8.62,15.28,Active,New,SIN11,1
+IN-10417,Pump mechanical seal,Seals,163.14,254.84,Active,New,SIN10,1
+IN-10418,Pump sheave,Belts and sheaves,2.0,2.96,Active,New,SIN00,25
+IN-10419,Compressor tapered roller bearing,Bearings,30.53,51.26,Active,New,SIN03,2
+IN-10420,Gearbox mechanical seal,Seals,2.79,3.86,Active,New,SIN07,1
+IN-10421,Compressor O-ring kit,Seals,3.22,5.68,Active,New,SIN08,5
+IN-10422,Gearbox flow control,Hydraulic valves,4.61,6.92,Active,New,SIN03,10
+IN-10423,Press oil seal,Seals,49.29,82.74,Active,New,SIN07,2
+IN-10424,Gearbox ball bearing,Bearings,3.82,6.88,Active,New,SIN11,1
+IN-10425,Compressor coupling insert,Belts and sheaves,265.83,470.29,Active,New,SIN11,1
+IN-10426,Conveyor motor adapter,Gearboxes,13.93,21.81,Active,New,SIN02,1
+IN-10427,Conveyor check valve,Hydraulic valves,4.05,7.25,Active,New,SIN10,25
+IN-10428,Conveyor O-ring kit,Seals,7.64,11.32,Active,New,SIN01,1
+IN-10429,Gearbox rod seal,Seals,120.14,213.12,Active,New,SIN04,25
+IN-10430,Compressor speed reducer,Gearboxes,291.01,410.87,Active,New,SIN08,1
+IN-10431,Pump check valve,Hydraulic valves,2.0,3.11,Active,New,SIN06,25
+IN-10432,Conveyor solenoid coil,Hydraulic valves,445.9,630.58,Active,New,SIN01,1
+IN-10433,Conveyor mechanical seal,Seals,182.72,268.88,Active,New,SIN08,1
+IN-10434,Pump output shaft,Gearboxes,9.17,12.69,Active,New,SIN06,2
+IN-10435,Pump motor adapter,Gearboxes,2.0,2.85,Active,New,SIN09,2
+IN-10436,Gearbox breather,Gearboxes,696.38,1165.85,Active,New,SIN04,1
+IN-10437,Pump V-belt,Belts and sheaves,58.06,96.2,Active,New,SIN06,1
+IN-10438,Gearbox sheave,Belts and sheaves,671.3,965.57,Active,New,SIN04,1
+IN-10439,Press O-ring kit,Seals,184.67,262.52,Active,New,SIN08,1
+IN-10440,Compressor flange unit,Bearings,7.96,13.01,Active,New,SIN07,25
+IN-10441,Conveyor O-ring kit,Seals,2.12,3.65,Active,New,SIN06,1
+IN-10442,Gearbox motor adapter,Gearboxes,723.42,1118.05,Active,New,SIN06,1
+IN-10443,Compressor spherical roller bearing,Bearings,33.5,57.3,Active,New,SIN07,10
+IN-10444,Conveyor coupling insert,Belts and sheaves,3.06,4.9,Active,New,SIN07,10
+IN-10445,Gearbox directional valve,Hydraulic valves,1348.82,2284.63,Active,New,SIN06,1
+IN-10446,Conveyor tapered roller bearing,Bearings,602.89,1079.77,Active,New,SIN05,1
+IN-10447,Conveyor gear set,Gearboxes,21.75,34.87,Active,New,SIN06,1
+IN-10448,Press flange unit,Bearings,2.0,2.99,Active,New,SIN06,10
+IN-10449,Compressor coupling insert,Belts and sheaves,1088.33,1496.54,Active,New,SIN04,1
+IN-10450,Gearbox spherical roller bearing,Bearings,644.29,1145.0,Active,New,SIN06,1
+IN-10451,Gearbox coupling insert,Belts and sheaves,14.63,21.69,Active,New,SIN04,1
+IN-10452,Compressor rod seal,Seals,15.88,24.49,Active,New,SIN05,25
+IN-10453,Conveyor motor adapter,Gearboxes,3.75,6.74,Active,New,SIN03,5
+IN-10454,Conveyor directional valve,Hydraulic valves,22.33,33.42,Active,New,SIN10,2
+IN-10455,Conveyor mechanical seal,Seals,155.2,230.36,Active,New,SIN10,1
+IN-10456,Compressor coupling insert,Belts and sheaves,3.29,5.24,Active,New,SIN02,25
+IN-10457,Compressor V-belt,Belts and sheaves,2.72,4.74,Active,New,SIN01,25
+IN-10458,Compressor tapered roller bearing,Bearings,26.08,39.54,Active,New,SIN03,10
+IN-10459,Compressor ball bearing,Bearings,9.97,16.17,Active,New,SIN07,10
+IN-10460,Compressor speed reducer,Gearboxes,2.0,3.03,Active,New,SIN07,25
+IN-10461,Press rod seal,Seals,4.69,8.4,Active,New,SIN04,1
+IN-10462,Pump directional valve,Hydraulic valves,32.33,55.93,Active,New,SIN06,5
+IN-10463,Pump pillow block,Bearings,920.91,1326.28,Active,New,SIN10,1
+IN-10464,Pump solenoid coil,Hydraulic valves,3.76,5.48,Active,New,SIN02,1
+IN-10465,Compressor solenoid coil,Hydraulic valves,3.63,5.03,Active,New,SIN00,25
+IN-10466,Press check valve,Hydraulic valves,17.62,26.08,Active,New,SIN00,1
+IN-10467,Pump sheave,Belts and sheaves,68.66,102.61,Active,New,SIN07,5
+IN-10468,Conveyor V-belt,Belts and sheaves,798.5,1162.64,Active,New,SIN02,1
+IN-10469,Pump relief valve,Hydraulic valves,69.45,109.71,Active,New,SIN06,1
+IN-10470,Gearbox V-belt,Belts and sheaves,44.1,67.57,Active,New,SIN02,5
+IN-10471,Conveyor flow control,Hydraulic valves,394.86,674.31,Active,New,SIN00,1
+IN-10472,Conveyor bushing,Belts and sheaves,212.21,365.09,Active,New,SIN06,1
+IN-10473,Conveyor solenoid coil,Hydraulic valves,3.97,6.05,Active,New,SIN10,1
+IN-10474,Gearbox flange unit,Bearings,209.96,313.94,Active,New,SIN01,1
+IN-10475,Gearbox rod seal,Seals,77.88,119.48,Active,New,SIN02,10
+IN-10476,Conveyor V-ring,Seals,10.83,16.21,Active,New,SIN06,25
+IN-10477,Gearbox O-ring kit,Seals,193.09,279.24,Active,New,SIN06,1
+IN-10478,Gearbox directional valve,Hydraulic valves,27.37,45.83,Active,New,SIN07,1
+IN-10479,Press mechanical seal,Seals,14.31,21.25,Active,New,SIN10,1
+IN-10480,Pump oil seal,Seals,81.73,121.97,Active,New,SIN08,1
+IN-10481,Press relief valve,Hydraulic valves,823.96,1428.86,Active,New,SIN00,1
+IN-10482,Gearbox motor adapter,Gearboxes,9.57,13.93,Active,New,SIN11,2
+IN-10483,Conveyor rod seal,Seals,10.11,17.01,Active,New,SIN07,1
+IN-10484,Pump pillow block,Bearings,2.36,3.41,Active,New,SIN00,1
+IN-10485,Pump check valve,Hydraulic valves,6.38,8.84,Active,New,SIN05,25
+IN-10486,Compressor sheave,Belts and sheaves,90.71,143.15,Active,New,SIN08,25
+IN-10487,Press solenoid coil,Hydraulic valves,294.22,398.5,Active,New,SIN01,1
+IN-10488,Conveyor spherical roller bearing,Bearings,2.0,3.35,Active,New,SIN09,10
+IN-10489,Conveyor timing belt,Belts and sheaves,11.09,18.81,Active,New,SIN10,1
+IN-10490,Press relief valve,Hydraulic valves,18.42,30.28,Active,New,SIN08,1
+IN-10491,Pump breather,Gearboxes,67.28,93.36,Active,New,SIN06,25
+IN-10492,Gearbox relief valve,Hydraulic valves,7.02,10.07,Active,New,SIN08,1
+IN-10493,Compressor oil seal,Seals,2.0,2.91,Active,New,SIN06,25
+IN-10494,Compressor speed reducer,Gearboxes,10.84,15.41,Active,New,SIN06,1
+IN-10495,Press oil seal,Seals,63.35,104.2,Active,New,SIN03,5
+IN-10496,Compressor ball bearing,Bearings,58.43,79.58,Active,New,SIN06,1
+IN-10497,Pump solenoid coil,Hydraulic valves,69.44,98.9,Active,New,SIN10,10
+IN-10498,Conveyor flow control,Hydraulic valves,156.49,257.23,Active,New,SIN02,1
+IN-10499,Conveyor relief valve,Hydraulic valves,88.95,156.71,Active,New,SIN09,10
+IN-10500,Press mechanical seal,Seals,2.0,2.79,Active,New,SIN00,25
+IN-10501,Conveyor ball bearing,Bearings,5.04,7.26,Active,New,SIN01,5
+IN-10502,Compressor oil seal,Seals,322.61,468.17,Active,New,SIN03,1
+IN-10503,Compressor spherical roller bearing,Bearings,507.01,910.22,Active,New,SIN04,1
+IN-10504,Press coupling insert,Belts and sheaves,2.94,4.34,Active,New,SIN05,2
+IN-10505,Compressor gear set,Gearboxes,362.17,567.37,Active,New,SIN06,1
+IN-10506,Press flange unit,Bearings,731.06,1048.82,Active,New,SIN07,1
+IN-10507,Gearbox sheave,Belts and sheaves,28.25,49.13,Active,New,SIN08,25
+IN-10508,Pump ball bearing,Bearings,12.95,18.48,Active,New,SIN02,10
+IN-10509,Pump output shaft,Gearboxes,12.34,18.79,Active,New,SIN09,5
+IN-10510,Pump oil seal,Seals,58.04,103.37,Active,New,SIN10,2
+IN-10511,Press relief valve,Hydraulic valves,11.51,17.83,Active,New,SIN06,1
+IN-10512,Conveyor solenoid coil,Hydraulic valves,4.32,7.75,Active,New,SIN06,1
+IN-10513,Conveyor flange unit,Bearings,12.93,18.6,Active,New,SIN06,25
+IN-10514,Pump coupling insert,Belts and sheaves,149.81,251.12,Active,New,SIN02,2
+IN-10515,Conveyor spherical roller bearing,Bearings,10.74,18.94,Active,New,SIN11,5
+IN-10516,Press solenoid coil,Hydraulic valves,93.84,152.91,Active,New,SIN10,2
+IN-10517,Compressor oil seal,Seals,82.56,119.99,Active,New,SIN07,1
+IN-10518,Compressor flange unit,Bearings,2.0,3.13,Active,New,SIN07,25
+IN-10519,Pump flange unit,Bearings,5.76,9.52,Active,New,SIN09,1
+IN-10520,Gearbox gear set,Gearboxes,223.24,373.31,Active,New,SIN11,1
+IN-10521,Compressor coupling insert,Belts and sheaves,2.0,3.54,Active,New,SIN01,1
+IN-10522,Press coupling insert,Belts and sheaves,4.05,7.16,Active,New,SIN01,25
+IN-10523,Press O-ring kit,Seals,677.43,1041.32,Active,New,SIN06,1
+IN-10524,Gearbox speed reducer,Gearboxes,103.4,142.06,Active,New,SIN03,1
+IN-10525,Conveyor speed reducer,Gearboxes,4.79,7.41,Active,New,SIN06,1
+IN-10526,Pump flange unit,Bearings,898.4,1317.17,Active,New,SIN04,1
+IN-10527,Conveyor flow control,Hydraulic valves,29.9,43.24,Active,New,SIN00,1
+IN-10528,Compressor flow control,Hydraulic valves,472.44,639.13,Active,New,SIN00,1
+IN-10529,Pump breather,Gearboxes,44.46,77.07,Active,New,SIN05,1
+IN-10530,Compressor timing belt,Belts and sheaves,31.55,50.15,Active,New,SIN00,25
+IN-10531,Gearbox oil seal,Seals,73.58,102.9,Active,New,SIN09,10
+IN-10532,Conveyor tapered roller bearing,Bearings,538.5,927.16,Active,New,SIN04,1
+IN-10533,Gearbox breather,Gearboxes,1147.29,1941.5,Active,New,SIN01,1
+IN-10534,Pump gear set,Gearboxes,4.56,7.79,Active,New,SIN00,1
+IN-10535,Conveyor rod seal,Seals,335.17,595.96,Active,New,SIN05,1
+IN-10536,Pump coupling insert,Belts and sheaves,185.94,329.72,Active,New,SIN02,1
+IN-10537,Gearbox spherical roller bearing,Bearings,3.4,5.0,Active,New,SIN04,10
+IN-10538,Pump timing belt,Belts and sheaves,16.31,22.53,Active,New,SIN09,1
+IN-10539,Gearbox oil seal,Seals,2.2,3.02,Active,New,SIN07,25
+IN-10540,Press tapered roller bearing,Bearings,632.15,937.23,Active,New,SIN08,1
+IN-10541,Compressor breather,Gearboxes,5.27,8.9,Active,New,SIN07,1
+IN-10542,Compressor V-belt,Belts and sheaves,3.16,5.45,Active,New,SIN11,5
+IN-10543,Pump solenoid coil,Hydraulic valves,2.01,3.58,Active,New,SIN02,1
+IN-10544,Conveyor V-belt,Belts and sheaves,6.62,9.54,Active,New,SIN09,10
+IN-10545,Gearbox ball bearing,Bearings,3.81,5.58,Active,New,SIN05,5
+IN-10546,Conveyor V-ring,Seals,76.99,136.88,Active,New,SIN08,25
+IN-10547,Press speed reducer,Gearboxes,10.99,19.51,Active,New,SIN05,1
+IN-10548,Press output shaft,Gearboxes,223.47,306.02,Active,New,SIN11,1
+IN-10549,Conveyor mechanical seal,Seals,331.23,483.25,Active,New,SIN08,1
+IN-10550,Conveyor pillow block,Bearings,440.45,595.96,Active,New,SIN01,1
+IN-10551,Pump motor adapter,Gearboxes,4.13,6.65,Active,New,SIN01,25
+IN-10552,Gearbox timing belt,Belts and sheaves,48.94,71.03,Active,New,SIN09,2
+IN-10553,Pump tapered roller bearing,Bearings,261.3,450.98,Active,New,SIN00,1
+IN-10554,Pump flange unit,Bearings,871.19,1535.3,Active,New,SIN08,1
+IN-10555,Compressor breather,Gearboxes,60.07,94.07,Active,New,SIN00,10
+IN-10556,Conveyor O-ring kit,Seals,2.0,3.22,Active,New,SIN00,1
+IN-10557,Compressor breather,Gearboxes,7.51,10.42,Active,New,SIN10,25
+IN-10558,Pump pillow block,Bearings,73.21,116.43,Active,New,SIN07,10
+IN-10559,Gearbox output shaft,Gearboxes,7.01,10.51,Active,New,SIN09,1
+IN-10560,Conveyor gear set,Gearboxes,5.76,8.79,Active,New,SIN03,25
+IN-10561,Press output shaft,Gearboxes,20.06,32.41,Active,New,SIN11,1
+IN-10562,Compressor coupling insert,Belts and sheaves,1364.27,2141.96,Active,New,SIN09,1
+IN-10563,Conveyor ball bearing,Bearings,19.32,28.27,Active,New,SIN08,1
+IN-10564,Compressor coupling insert,Belts and sheaves,61.82,99.06,Active,New,SIN00,2
+IN-10565,Conveyor check valve,Hydraulic valves,24.04,36.87,Active,New,SIN05,2
+IN-10566,Conveyor oil seal,Seals,18.89,26.97,Active,New,SIN04,1
+IN-10567,Conveyor V-belt,Belts and sheaves,2.0,3.57,Active,New,SIN08,10
+IN-10568,Pump solenoid coil,Hydraulic valves,2.3,3.87,Active,New,SIN01,1
+IN-10569,Compressor flow control,Hydraulic valves,409.25,633.33,Active,New,SIN07,1
+IN-10570,Gearbox tapered roller bearing,Bearings,49.13,76.34,Active,New,SIN11,2
+IN-10571,Pump bushing,Belts and sheaves,2.0,3.06,Active,New,SIN06,10
+IN-10572,Conveyor O-ring kit,Seals,49.29,82.24,Active,New,SIN03,1
+IN-10573,Pump mechanical seal,Seals,1240.53,1748.92,Active,New,SIN06,1
+IN-10574,Conveyor rod seal,Seals,10.91,15.36,Active,New,SIN02,1
+IN-10575,Gearbox gear set,Gearboxes,440.97,631.58,Active,New,SIN02,1
+IN-10576,Press coupling insert,Belts and sheaves,57.43,93.1,Active,New,SIN04,10
+IN-10577,Press spherical roller bearing,Bearings,24.2,36.1,Active,New,SIN02,25
+IN-10578,Conveyor pillow block,Bearings,105.29,183.64,Active,New,SIN10,25
+IN-10579,Gearbox rod seal,Seals,646.16,884.73,Active,New,SIN08,1
+IN-10580,Compressor bushing,Belts and sheaves,1014.92,1602.59,Active,New,SIN07,1
+IN-10581,Compressor rod seal,Seals,2.32,3.77,Active,New,SIN01,25
+IN-10582,Conveyor timing belt,Belts and sheaves,26.21,46.55,Active,New,SIN10,25
+IN-10583,Gearbox sheave,Belts and sheaves,2.0,3.46,Active,New,SIN06,1
+IN-10584,Pump ball bearing,Bearings,39.93,69.36,Active,New,SIN07,2
+IN-10585,Conveyor sheave,Belts and sheaves,2.51,3.69,Active,New,SIN05,1
+IN-10586,Gearbox spherical roller bearing,Bearings,2.0,2.7,Active,New,SIN02,1
+IN-10587,Gearbox V-ring,Seals,2.0,3.31,Active,New,SIN06,10
+IN-10588,Pump V-ring,Seals,14.75,25.66,Active,New,SIN11,1
+IN-10589,Pump motor adapter,Gearboxes,820.72,1252.13,Active,New,SIN07,1
+IN-10590,Pump motor adapter,Gearboxes,14.98,26.08,Active,New,SIN04,1
+IN-10591,Compressor flange unit,Bearings,30.07,49.71,Active,New,SIN07,25
+IN-10592,Pump V-belt,Belts and sheaves,12.98,19.6,Active,New,SIN11,2
+IN-10593,Gearbox pillow block,Bearings,120.32,197.67,Active,New,SIN03,1
+IN-10594,Gearbox output shaft,Gearboxes,831.8,1379.46,Active,New,SIN08,1
+IN-10595,Compressor tapered roller bearing,Bearings,2.77,4.04,Active,New,SIN00,1
+IN-10596,Press tapered roller bearing,Bearings,17.88,32.11,Active,New,SIN11,1
+IN-10597,Gearbox sheave,Belts and sheaves,4.51,6.13,Active,New,SIN10,10
+IN-10598,Press ball bearing,Bearings,317.52,475.22,Active,New,SIN06,1
+IN-10599,Gearbox rod seal,Seals,38.27,59.79,Active,New,SIN09,5
+IN-10600,Gearbox relief valve,Hydraulic valves,22.22,36.93,Active,New,SIN00,2
+IN-10601,Press solenoid coil,Hydraulic valves,11.51,16.57,Active,New,SIN03,10
+IN-10602,Press speed reducer,Gearboxes,6.28,8.61,Active,New,SIN01,5
+IN-10603,Compressor mechanical seal,Seals,416.91,566.38,Active,New,SIN01,1
+IN-10604,Pump mechanical seal,Seals,75.09,126.29,Active,New,SIN00,1
+IN-10605,Gearbox O-ring kit,Seals,11.4,15.91,Active,New,SIN08,1
+IN-10606,Press pillow block,Bearings,842.99,1356.83,Active,New,SIN10,1
+IN-10607,Conveyor oil seal,Seals,85.66,134.92,Active,New,SIN08,10
+IN-10608,Press breather,Gearboxes,5.27,7.13,Active,New,SIN04,1
+IN-10609,Conveyor sheave,Belts and sheaves,136.28,186.39,Active,New,SIN04,10
+IN-10610,Compressor flange unit,Bearings,314.02,523.1,Active,New,SIN08,1
+IN-10611,Conveyor breather,Gearboxes,65.52,116.65,Active,New,SIN09,1
+IN-10612,Conveyor spherical roller bearing,Bearings,328.55,551.89,Active,New,SIN05,1
+IN-10613,Compressor mechanical seal,Seals,3.94,6.69,Active,New,SIN00,5
+IN-10614,Compressor ball bearing,Bearings,3.71,6.67,Active,New,SIN01,10
+IN-10615,Press mechanical seal,Seals,88.8,159.68,Active,New,SIN10,1
+IN-10616,Pump rod seal,Seals,166.37,240.94,Active,New,SIN03,1
+IN-10617,Gearbox bushing,Belts and sheaves,37.37,54.61,Active,New,SIN09,10
+IN-10618,Compressor spherical roller bearing,Bearings,3.23,5.09,Active,New,SIN05,1
+IN-10619,Pump ball bearing,Bearings,10.67,18.89,Active,New,SIN08,1
+IN-10620,Pump bushing,Belts and sheaves,9.3,16.73,Active,New,SIN06,1
+IN-10621,Gearbox bushing,Belts and sheaves,605.66,853.23,Active,New,SIN11,1
+IN-10622,Press mechanical seal,Seals,1012.65,1760.51,Active,New,SIN02,1
+IN-10623,Compressor bushing,Belts and sheaves,111.25,155.02,Active,New,SIN01,1
+IN-10624,Press speed reducer,Gearboxes,1445.19,2052.06,Active,New,SIN11,1
+IN-10625,Gearbox motor adapter,Gearboxes,2.97,4.43,Active,New,SIN00,10
+IN-10626,Conveyor mechanical seal,Seals,12.97,22.1,Active,New,SIN02,1
+IN-10627,Press rod seal,Seals,2.0,2.93,Active,New,SIN06,5
+IN-10628,Compressor pillow block,Bearings,1423.62,2395.76,Active,New,SIN02,1
+IN-10629,Press output shaft,Gearboxes,143.42,213.23,Active,New,SIN06,1
+IN-10630,Compressor rod seal,Seals,15.01,21.71,Active,New,SIN02,2
+IN-10631,Gearbox oil seal,Seals,2.42,3.75,Active,New,SIN06,10
+IN-10632,Compressor directional valve,Hydraulic valves,119.61,206.98,Active,New,SIN04,1
+IN-10633,Pump ball bearing,Bearings,6.7,9.19,Active,New,SIN04,1
+IN-10634,Conveyor sheave,Belts and sheaves,3.04,4.71,Active,New,SIN09,1
+IN-10635,Gearbox oil seal,Seals,521.36,712.11,Active,New,SIN04,1
+IN-10636,Pump timing belt,Belts and sheaves,14.01,21.89,Active,New,SIN10,1
+IN-10637,Pump breather,Gearboxes,61.96,86.05,Active,New,SIN07,1
+IN-10638,Gearbox pillow block,Bearings,2.0,2.85,Active,New,SIN10,10
+IN-10639,Compressor directional valve,Hydraulic valves,323.47,472.8,Active,New,SIN09,1
+IN-10640,Pump check valve,Hydraulic valves,36.65,55.72,Active,New,SIN03,10
+IN-10641,Pump timing belt,Belts and sheaves,576.88,782.31,Active,New,SIN07,1
+IN-10642,Compressor oil seal,Seals,112.1,175.39,Active,New,SIN07,1
+IN-10643,Conveyor V-belt,Belts and sheaves,213.7,351.1,Active,New,SIN07,1
+IN-10644,Pump bushing,Belts and sheaves,9.56,14.8,Active,New,SIN03,2
+IN-10645,Gearbox flow control,Hydraulic valves,2.0,3.35,Active,New,SIN09,5
+IN-10646,Gearbox rod seal,Seals,102.24,163.84,Active,New,SIN03,25
+IN-10647,Press spherical roller bearing,Bearings,17.35,28.19,Active,New,SIN05,10
+IN-10648,Compressor check valve,Hydraulic valves,387.67,664.84,Active,New,SIN00,1
+IN-10649,Press directional valve,Hydraulic valves,737.65,1279.96,Active,New,SIN10,1
+IN-10650,Conveyor pillow block,Bearings,122.83,197.11,Active,New,SIN08,10
+IN-10651,Press mechanical seal,Seals,5.26,9.31,Active,New,SIN03,1
+IN-10652,Compressor spherical roller bearing,Bearings,2.0,3.42,Active,New,SIN01,1
+IN-10653,Press V-belt,Belts and sheaves,69.34,108.8,Active,New,SIN10,1
+IN-10654,Conveyor rod seal,Seals,46.48,69.63,Active,New,SIN04,2
+IN-10655,Pump timing belt,Belts and sheaves,658.99,1037.97,Active,New,SIN00,1
+IN-10656,Compressor flange unit,Bearings,19.59,32.48,Active,New,SIN04,2
+IN-10657,Gearbox speed reducer,Gearboxes,2.13,3.77,Active,New,SIN06,25
+IN-10658,Press gear set,Gearboxes,6.31,10.85,Active,New,SIN04,1
+IN-10659,Gearbox V-belt,Belts and sheaves,46.22,81.97,Active,New,SIN03,25
+IN-10660,Pump coupling insert,Belts and sheaves,329.63,579.31,Active,New,SIN05,1
+IN-10661,Press speed reducer,Gearboxes,28.95,48.87,Active,New,SIN03,5
+IN-10662,Pump motor adapter,Gearboxes,7.14,12.8,Active,New,SIN09,1
+IN-10663,Pump gear set,Gearboxes,137.72,196.97,Active,New,SIN03,2
+IN-10664,Press check valve,Hydraulic valves,93.48,152.9,Active,New,SIN08,1
+IN-10665,Conveyor flow control,Hydraulic valves,1255.25,2014.22,Active,New,SIN09,1
+IN-10666,Compressor breather,Gearboxes,21.39,32.28,Active,New,SIN07,5
+IN-10667,Pump mechanical seal,Seals,934.05,1569.21,Active,New,SIN00,1
+IN-10668,Gearbox gear set,Gearboxes,10.57,16.06,Active,New,SIN05,10
+IN-10669,Conveyor coupling insert,Belts and sheaves,8.79,14.47,Active,New,SIN10,25
+IN-10670,Press solenoid coil,Hydraulic valves,184.3,312.51,Active,New,SIN09,1
+IN-10671,Pump timing belt,Belts and sheaves,29.93,51.64,Active,New,SIN04,5
+IN-10672,Gearbox gear set,Gearboxes,6.02,8.19,Active,New,SIN06,1
+IN-10673,Conveyor speed reducer,Gearboxes,60.2,106.24,Active,New,SIN06,1
+IN-10674,Pump oil seal,Seals,24.95,34.18,Active,New,SIN04,25
+IN-10675,Gearbox oil seal,Seals,38.67,56.91,Active,New,SIN00,1
+IN-10676,Pump solenoid coil,Hydraulic valves,35.78,48.46,Active,New,SIN02,5
+IN-10677,Pump mechanical seal,Seals,2.0,2.81,Active,New,SIN04,2
+IN-10678,Gearbox tapered roller bearing,Bearings,7.61,12.8,Active,New,SIN05,1
+IN-10679,Gearbox flange unit,Bearings,13.17,18.29,Active,New,SIN05,25
+IN-10680,Press O-ring kit,Seals,715.68,1213.84,Active,New,SIN02,1
+IN-10681,Compressor mechanical seal,Seals,12.53,21.39,Active,New,SIN03,1
+IN-10682,Press check valve,Hydraulic valves,137.26,243.42,Active,New,SIN03,1
+IN-10683,Gearbox flange unit,Bearings,2.0,3.07,Active,New,SIN01,1
+IN-10684,Press O-ring kit,Seals,2.07,3.58,Active,New,SIN03,5
+IN-10685,Compressor O-ring kit,Seals,34.54,52.35,Active,New,SIN01,1
+IN-10686,Pump relief valve,Hydraulic valves,215.41,328.4,Active,New,SIN04,1
+IN-10687,Gearbox V-ring,Seals,55.27,98.19,Active,New,SIN06,5
+IN-10688,Compressor solenoid coil,Hydraulic valves,629.2,939.91,Active,New,SIN09,1
+IN-10689,Conveyor bushing,Belts and sheaves,6.66,10.13,Active,New,SIN08,1
+IN-10690,Gearbox V-ring,Seals,77.07,137.94,Active,New,SIN00,1
+IN-10691,Gearbox check valve,Hydraulic valves,7.37,11.75,Active,New,SIN07,1
+IN-10692,Gearbox speed reducer,Gearboxes,380.78,655.15,Active,New,SIN11,1
+IN-10693,Press sheave,Belts and sheaves,7.2,9.8,Active,New,SIN01,1
+IN-10694,Gearbox bushing,Belts and sheaves,121.96,194.46,Active,New,SIN06,1
+IN-10695,Press timing belt,Belts and sheaves,27.22,38.38,Active,New,SIN04,1
+IN-10696,Press tapered roller bearing,Bearings,2.0,2.73,Active,New,SIN10,2
+IN-10697,Conveyor flow control,Hydraulic valves,6.81,10.95,Active,New,SIN08,2
+IN-10698,Pump pillow block,Bearings,10.6,15.95,Active,New,SIN08,2
+IN-10699,Compressor gear set,Gearboxes,2.0,3.22,Active,New,SIN01,25
+IN-10700,Gearbox solenoid coil,Hydraulic valves,28.58,45.1,Active,New,SIN09,1
+IN-10701,Gearbox flange unit,Bearings,583.56,829.87,Active,New,SIN07,1
+IN-10702,Compressor timing belt,Belts and sheaves,190.3,264.09,Active,New,SIN04,1
+IN-10703,Gearbox spherical roller bearing,Bearings,3.0,5.12,Active,New,SIN09,1
+IN-10704,Pump pillow block,Bearings,370.74,611.8,Active,New,SIN04,1
+IN-10705,Conveyor sheave,Belts and sheaves,159.74,223.96,Active,New,SIN06,1
+IN-10706,Compressor spherical roller bearing,Bearings,10.85,15.11,Active,New,SIN04,5
+IN-10707,Conveyor relief valve,Hydraulic valves,82.54,122.25,Active,New,SIN10,25
+IN-10708,Gearbox V-belt,Belts and sheaves,16.32,23.51,Active,New,SIN06,25
+IN-10709,Pump mechanical seal,Seals,2.0,3.33,Active,New,SIN10,1
+IN-10710,Conveyor spherical roller bearing,Bearings,229.28,360.07,Active,New,SIN08,1
+IN-10711,Conveyor gear set,Gearboxes,4.3,7.55,Active,New,SIN05,5
+IN-10712,Gearbox relief valve,Hydraulic valves,1190.96,1867.2,Active,New,SIN05,1
+IN-10713,Compressor coupling insert,Belts and sheaves,5.12,8.47,Active,New,SIN06,25
+IN-10714,Compressor sheave,Belts and sheaves,9.36,12.64,Active,New,SIN08,1
+IN-10715,Compressor O-ring kit,Seals,290.36,434.4,Active,New,SIN11,1
+IN-10716,Compressor gear set,Gearboxes,12.27,20.62,Active,New,SIN07,1
+IN-10717,Press flow control,Hydraulic valves,7.74,11.65,Active,New,SIN00,1
+IN-10718,Conveyor V-ring,Seals,2.0,3.23,Active,New,SIN09,1
+IN-10719,Gearbox timing belt,Belts and sheaves,669.74,1129.77,Active,New,SIN06,1
+IN-10720,Conveyor flow control,Hydraulic valves,2.71,4.01,Active,New,SIN10,10
+IN-10721,Gearbox oil seal,Seals,2.0,3.07,Active,New,SIN01,10
+IN-10722,Gearbox oil seal,Seals,13.97,19.82,Active,New,SIN02,5
+IN-10723,Pump tapered roller bearing,Bearings,32.96,54.62,Active,New,SIN04,1
+IN-10724,Compressor coupling insert,Belts and sheaves,2.07,3.15,Active,New,SIN10,25
+IN-10725,Gearbox coupling insert,Belts and sheaves,2.46,3.64,Active,New,SIN04,25
+IN-10726,Pump relief valve,Hydraulic valves,2.5,3.79,Active,New,SIN00,5
+IN-10727,Gearbox V-belt,Belts and sheaves,4.35,7.13,Active,New,SIN09,10
+IN-10728,Press tapered roller bearing,Bearings,42.21,75.23,Active,New,SIN03,1
+IN-10729,Press check valve,Hydraulic valves,127.92,203.19,Active,New,SIN08,1
+IN-10730,Compressor ball bearing,Bearings,41.75,62.5,Active,New,SIN03,1
+IN-10731,Conveyor rod seal,Seals,26.9,39.87,Active,New,SIN09,5
+IN-10732,Gearbox relief valve,Hydraulic valves,17.06,29.8,Active,New,SIN09,10
+IN-10733,Gearbox timing belt,Belts and sheaves,19.71,34.1,Active,New,SIN07,10
+IN-10734,Press directional valve,Hydraulic valves,2.24,3.73,Active,New,SIN06,2
+IN-10735,Compressor tapered roller bearing,Bearings,2.79,4.38,Active,New,SIN11,10
+IN-10736,Gearbox timing belt,Belts and sheaves,1261.55,1747.23,Active,New,SIN07,1
+IN-10737,Compressor coupling insert,Belts and sheaves,2.02,3.37,Active,New,SIN11,10
+IN-10738,Pump flange unit,Bearings,24.07,36.47,Active,New,SIN05,5
+IN-10739,Conveyor ball bearing,Bearings,2.29,3.92,Active,New,SIN05,10
+IN-10740,Compressor tapered roller bearing,Bearings,119.1,175.38,Active,New,SIN09,5
+IN-10741,Pump rod seal,Seals,31.37,44.38,Active,New,SIN00,1
+IN-10742,Gearbox V-ring,Seals,500.95,859.5,Active,New,SIN00,1
+IN-10743,Compressor solenoid coil,Hydraulic valves,5.21,7.4,Active,New,SIN05,10
+IN-10744,Conveyor coupling insert,Belts and sheaves,1158.89,2007.45,Active,New,SIN00,1
+IN-10745,Compressor speed reducer,Gearboxes,2.0,3.53,Active,New,SIN08,5
+IN-10746,Conveyor bushing,Belts and sheaves,1246.5,2070.67,Active,New,SIN03,1
+IN-10747,Gearbox tapered roller bearing,Bearings,52.27,92.06,Active,New,SIN09,5
+IN-10748,Conveyor rod seal,Seals,2.09,3.26,Active,New,SIN11,1
+IN-10749,Press V-ring,Seals,2.86,4.23,Active,New,SIN09,1
+IN-10750,Pump V-belt,Belts and sheaves,275.82,411.4,Active,New,SIN06,1
+IN-10751,Compressor V-ring,Seals,97.54,158.75,Active,New,SIN03,10
+IN-10752,Conveyor directional valve,Hydraulic valves,896.3,1595.64,Active,New,SIN04,1
+IN-10753,Pump motor adapter,Gearboxes,200.8,288.02,Active,New,SIN04,1
+IN-10754,Conveyor mechanical seal,Seals,61.65,95.34,Active,New,SIN10,5
+IN-10755,Pump mechanical seal,Seals,158.0,262.85,Active,New,SIN04,1
+IN-10756,Conveyor flow control,Hydraulic valves,30.82,44.15,Active,New,SIN09,1
+IN-10757,Conveyor output shaft,Gearboxes,107.51,175.19,Active,New,SIN02,10
+IN-10758,Press oil seal,Seals,152.21,233.94,Active,New,SIN02,1
+IN-10759,Pump tapered roller bearing,Bearings,288.55,471.61,Active,New,SIN08,1
+IN-10760,Pump sheave,Belts and sheaves,257.42,427.01,Active,New,SIN03,1
+IN-10761,Compressor coupling insert,Belts and sheaves,145.36,229.68,Active,New,SIN02,2
+IN-10762,Press flow control,Hydraulic valves,129.14,212.77,Active,New,SIN05,1
+IN-10763,Press flange unit,Bearings,7.78,13.82,Active,New,SIN09,10
+IN-10764,Pump coupling insert,Belts and sheaves,2.0,2.75,Active,New,SIN08,5
+IN-10765,Pump ball bearing,Bearings,3.55,5.29,Active,New,SIN06,10
+IN-10766,Gearbox pillow block,Bearings,5.1,8.57,Active,New,SIN05,2
+IN-10767,Pump solenoid coil,Hydraulic valves,160.76,289.29,Active,New,SIN09,1
+IN-10768,Pump speed reducer,Gearboxes,18.65,32.58,Active,New,SIN02,1
+IN-10769,Pump bushing,Belts and sheaves,300.72,529.54,Active,New,SIN11,1
+IN-10770,Compressor pillow block,Bearings,2.0,3.19,Active,New,SIN01,1
+IN-10771,Gearbox tapered roller bearing,Bearings,74.42,111.08,Active,New,SIN10,1
+IN-10772,Press gear set,Gearboxes,23.19,38.76,Active,New,SIN06,2
+IN-10773,Pump sheave,Belts and sheaves,28.78,51.06,Active,New,SIN01,1
+IN-10774,Pump output shaft,Gearboxes,134.32,220.79,Active,New,SIN10,10
+IN-10775,Conveyor O-ring kit,Seals,8.93,13.41,Active,New,SIN10,1
+IN-10776,Gearbox bushing,Belts and sheaves,205.34,328.5,Active,New,SIN00,1
+IN-10777,Press bushing,Belts and sheaves,22.04,33.93,Active,New,SIN02,1
+IN-10778,Conveyor coupling insert,Belts and sheaves,2.89,5.0,Active,New,SIN04,1
+IN-10779,Conveyor pillow block,Bearings,8.07,11.97,Active,New,SIN10,1
+IN-10780,Compressor V-ring,Seals,24.63,43.34,Active,New,SIN06,25
+IN-10781,Gearbox motor adapter,Gearboxes,33.39,52.9,Active,New,SIN02,5
+IN-10782,Conveyor spherical roller bearing,Bearings,759.06,1345.47,Active,New,SIN03,1
+IN-10783,Press bushing,Belts and sheaves,9.47,13.08,Active,New,SIN09,25
+IN-10784,Pump timing belt,Belts and sheaves,894.0,1344.43,Active,New,SIN01,1
+IN-10785,Gearbox flow control,Hydraulic valves,10.58,15.4,Active,New,SIN07,2
+IN-10786,Gearbox check valve,Hydraulic valves,162.31,233.43,Active,New,SIN11,1
+IN-10787,Gearbox V-belt,Belts and sheaves,11.76,20.27,Active,New,SIN08,5
+IN-10788,Compressor solenoid coil,Hydraulic valves,19.74,33.28,Active,New,SIN01,5
+IN-10789,Press flow control,Hydraulic valves,2.0,3.35,Active,New,SIN09,1
+IN-10790,Conveyor O-ring kit,Seals,193.78,268.7,Active,New,SIN09,1
+IN-10791,Press O-ring kit,Seals,116.37,188.42,Active,New,SIN07,2
+IN-10792,Pump bushing,Belts and sheaves,5.72,9.96,Active,New,SIN05,10
+IN-10793,Press directional valve,Hydraulic valves,63.8,109.88,Active,New,SIN04,2
+IN-10794,Pump V-belt,Belts and sheaves,529.52,938.15,Active,New,SIN03,1
+IN-10795,Pump bushing,Belts and sheaves,16.58,26.72,Active,New,SIN08,25
+IN-10796,Press sheave,Belts and sheaves,85.03,118.66,Active,New,SIN07,5
+IN-10797,Press solenoid coil,Hydraulic valves,60.34,89.6,Active,New,SIN10,1
+IN-10798,Compressor coupling insert,Belts and sheaves,2.0,3.31,Active,New,SIN03,1
+IN-10799,Press motor adapter,Gearboxes,607.86,915.43,Active,New,SIN05,1
+IN-10800,Compressor bushing,Belts and sheaves,868.49,1348.01,Active,New,SIN09,1
+IN-10801,Pump oil seal,Seals,4.49,6.49,Active,New,SIN05,10
+IN-10802,Gearbox sheave,Belts and sheaves,4.01,5.52,Active,New,SIN05,1
+IN-10803,Conveyor output shaft,Gearboxes,4.02,5.88,Active,New,SIN02,1
+IN-10804,Compressor directional valve,Hydraulic valves,5.07,9.07,Active,New,SIN00,1
+IN-10805,Pump V-belt,Belts and sheaves,554.16,813.86,Active,New,SIN00,1
+IN-10806,Pump motor adapter,Gearboxes,363.78,543.76,Active,New,SIN07,1
+IN-10807,Pump sheave,Belts and sheaves,11.68,20.97,Active,New,SIN10,10
+IN-10808,Conveyor motor adapter,Gearboxes,19.13,29.3,Active,New,SIN07,1
+IN-10809,Compressor relief valve,Hydraulic valves,4.86,8.56,Active,New,SIN05,10
+IN-10810,Gearbox gear set,Gearboxes,420.6,695.26,Active,New,SIN04,1
+IN-10811,Conveyor bushing,Belts and sheaves,118.64,208.28,Active,New,SIN10,1
+IN-10812,Gearbox breather,Gearboxes,148.56,249.81,Active,New,SIN05,1
+IN-10813,Compressor pillow block,Bearings,2.0,2.78,Active,New,SIN00,1
+IN-10814,Pump pillow block,Bearings,7.67,12.98,Active,New,SIN03,2
+IN-10815,Compressor directional valve,Hydraulic valves,3.36,5.38,Active,New,SIN05,2
+IN-10816,Compressor oil seal,Seals,1485.9,2577.32,Active,New,SIN03,1
+IN-10817,Gearbox tapered roller bearing,Bearings,3.31,5.05,Active,New,SIN06,25
+IN-10818,Compressor pillow block,Bearings,10.79,18.74,Active,New,SIN06,25
+IN-10819,Conveyor breather,Gearboxes,167.2,245.05,Active,New,SIN01,1
+IN-10820,Gearbox ball bearing,Bearings,72.6,98.42,Active,New,SIN00,25
+IN-10821,Pump pillow block,Bearings,2.67,4.58,Active,New,SIN06,2
+IN-10822,Pump timing belt,Belts and sheaves,124.45,206.76,Active,New,SIN11,10
+IN-10823,Pump timing belt,Belts and sheaves,91.14,138.84,Active,New,SIN09,1
+IN-10824,Press breather,Gearboxes,88.47,156.12,Active,New,SIN02,10
+IN-10825,Press oil seal,Seals,27.06,46.15,Active,New,SIN10,10
+IN-10826,Compressor relief valve,Hydraulic valves,85.56,119.18,Active,New,SIN07,1
+IN-10827,Conveyor tapered roller bearing,Bearings,54.42,86.32,Active,New,SIN09,1
+IN-10828,Conveyor oil seal,Seals,235.08,394.11,Active,New,SIN00,1
+IN-10829,Gearbox O-ring kit,Seals,67.45,105.06,Active,New,SIN08,10
+IN-10830,Conveyor sheave,Belts and sheaves,19.8,28.51,Active,New,SIN11,1
+IN-10831,Pump flow control,Hydraulic valves,163.77,280.97,Active,New,SIN08,1
+IN-10832,Pump breather,Gearboxes,137.9,246.91,Active,New,SIN11,5
+IN-10833,Compressor tapered roller bearing,Bearings,7.27,12.48,Active,New,SIN10,5
+IN-10834,Gearbox tapered roller bearing,Bearings,16.35,27.2,Active,New,SIN08,1
+IN-10835,Pump pillow block,Bearings,69.6,101.13,Active,New,SIN10,25
+IN-10836,Press V-belt,Belts and sheaves,495.11,794.48,Active,New,SIN03,1
+IN-10837,Compressor bushing,Belts and sheaves,1404.62,2438.57,Active,New,SIN04,1
+IN-10838,Pump check valve,Hydraulic valves,8.22,14.74,Active,New,SIN00,10
+IN-10839,Pump oil seal,Seals,104.23,167.38,Active,New,SIN04,1
+IN-10840,Press tapered roller bearing,Bearings,12.34,19.81,Active,New,SIN01,1
+IN-10841,Pump tapered roller bearing,Bearings,19.55,29.96,Active,New,SIN07,1
+IN-10842,Compressor flow control,Hydraulic valves,97.62,139.35,Active,New,SIN05,1
+IN-10843,Press rod seal,Seals,32.49,56.98,Active,New,SIN07,1
+IN-10844,Compressor flange unit,Bearings,76.15,135.71,Active,New,SIN03,1
+IN-10845,Conveyor directional valve,Hydraulic valves,102.32,160.21,Active,New,SIN04,1
+IN-10846,Press mechanical seal,Seals,98.35,158.6,Active,New,SIN07,25
+IN-10847,Compressor O-ring kit,Seals,132.49,185.55,Active,New,SIN07,10
+IN-10848,Compressor V-ring,Seals,6.2,8.45,Active,New,SIN01,2
+IN-10849,Press O-ring kit,Seals,42.08,74.86,Active,New,SIN05,5
+IN-10850,Gearbox rod seal,Seals,201.53,299.04,Active,New,SIN09,1
+IN-10851,Conveyor oil seal,Seals,2.59,4.61,Active,New,SIN09,1
+IN-10852,Pump directional valve,Hydraulic valves,1271.61,2017.57,Active,New,SIN05,1
+IN-10853,Press pillow block,Bearings,705.95,974.55,Active,New,SIN06,1
+IN-10854,Gearbox solenoid coil,Hydraulic valves,2.22,3.64,Active,New,SIN06,25
+IN-10855,Press solenoid coil,Hydraulic valves,58.15,84.48,Active,New,SIN01,25
+IN-10856,Press gear set,Gearboxes,44.15,70.41,Active,New,SIN11,10
+IN-10857,Conveyor gear set,Gearboxes,110.02,166.15,Active,New,SIN10,2
+IN-10858,Gearbox bushing,Belts and sheaves,495.55,710.27,Active,New,SIN09,1
+IN-10859,Press speed reducer,Gearboxes,2.0,3.34,Active,New,SIN07,1
+IN-10860,Press mechanical seal,Seals,2.0,2.99,Active,New,SIN00,1
+IN-10861,Gearbox pillow block,Bearings,350.46,604.83,Active,New,SIN08,1
+IN-10862,Conveyor rod seal,Seals,28.47,50.82,Active,New,SIN11,1
+IN-10863,Pump spherical roller bearing,Bearings,119.81,169.89,Active,New,SIN04,5
+IN-10864,Conveyor bushing,Belts and sheaves,686.41,944.06,Active,New,SIN10,1
+IN-10865,Press tapered roller bearing,Bearings,16.87,26.02,Active,New,SIN10,10
+IN-10866,Compressor check valve,Hydraulic valves,9.07,12.84,Active,New,SIN03,10
+IN-10867,Pump check valve,Hydraulic valves,561.7,767.03,Active,New,SIN01,1
+IN-10868,Compressor breather,Gearboxes,76.64,123.52,Active,New,SIN03,1
+IN-10869,Pump bushing,Belts and sheaves,418.08,615.42,Active,New,SIN02,1
+IN-10870,Compressor O-ring kit,Seals,2.02,3.04,Active,New,SIN02,25
+IN-10871,Gearbox ball bearing,Bearings,292.84,500.24,Active,New,SIN07,1
+IN-10872,Press flow control,Hydraulic valves,89.48,137.59,Active,New,SIN07,2
+IN-10873,Press directional valve,Hydraulic valves,404.3,564.2,Active,New,SIN11,1
+IN-10874,Pump V-belt,Belts and sheaves,2.0,2.96,Active,New,SIN09,1
+IN-10875,Compressor coupling insert,Belts and sheaves,53.78,95.01,Active,New,SIN09,10
+IN-10876,Pump motor adapter,Gearboxes,4.99,8.49,Active,New,SIN03,1
+IN-10877,Conveyor directional valve,Hydraulic valves,710.56,1205.97,Active,New,SIN05,1
+IN-10878,Conveyor gear set,Gearboxes,3.1,5.15,Active,New,SIN01,5
+IN-10879,Press output shaft,Gearboxes,77.14,131.31,Active,New,SIN06,1
+IN-10880,Compressor mechanical seal,Seals,127.34,198.03,Active,New,SIN05,5
+IN-10881,Press mechanical seal,Seals,404.14,669.91,Active,New,SIN06,1
+IN-10882,Compressor solenoid coil,Hydraulic valves,21.36,34.21,Active,New,SIN08,1
+IN-10883,Gearbox oil seal,Seals,2.48,3.83,Active,New,SIN09,1
+IN-10884,Gearbox bushing,Belts and sheaves,2.0,2.75,Active,New,SIN03,2
+IN-10885,Press oil seal,Seals,3.88,6.14,Active,New,SIN04,2
+IN-10886,Compressor tapered roller bearing,Bearings,46.34,62.82,Active,New,SIN10,10
+IN-10887,Gearbox sheave,Belts and sheaves,112.36,196.25,Active,New,SIN02,5
+IN-10888,Gearbox V-ring,Seals,51.6,89.66,Active,New,SIN06,2
+IN-10889,Conveyor solenoid coil,Hydraulic valves,429.81,604.84,Active,New,SIN01,1
+IN-10890,Pump V-belt,Belts and sheaves,36.35,59.07,Active,New,SIN07,1
+IN-10891,Compressor oil seal,Seals,4.31,7.74,Active,New,SIN03,5
+IN-10892,Press relief valve,Hydraulic valves,1481.62,2373.0,Active,New,SIN03,1
+IN-10893,Compressor O-ring kit,Seals,26.67,38.85,Active,New,SIN09,5
+IN-10894,Gearbox spherical roller bearing,Bearings,34.46,47.76,Active,New,SIN07,1
+IN-10895,Conveyor output shaft,Gearboxes,1230.7,1776.56,Active,New,SIN04,1
+IN-10896,Conveyor speed reducer,Gearboxes,2.0,2.83,Active,New,SIN06,1
+IN-10897,Press V-ring,Seals,33.85,51.36,Active,New,SIN11,1
+IN-10898,Conveyor bushing,Belts and sheaves,60.34,99.09,Active,New,SIN02,1
+IN-10899,Gearbox flange unit,Bearings,26.94,42.92,Active,New,SIN08,5
+IN-10900,Gearbox V-belt,Belts and sheaves,644.86,892.35,Active,New,SIN03,1
+IN-10901,Pump coupling insert,Belts and sheaves,263.03,456.8,Active,New,SIN02,1
+IN-10902,Gearbox motor adapter,Gearboxes,25.97,41.63,Active,New,SIN10,2
+IN-10903,Compressor relief valve,Hydraulic valves,2.13,3.07,Active,New,SIN04,1
+IN-10904,Gearbox flange unit,Bearings,54.36,78.85,Active,New,SIN08,10
+IN-10905,Conveyor spherical roller bearing,Bearings,1082.13,1740.59,Active,New,SIN02,1
+IN-10906,Compressor tapered roller bearing,Bearings,45.38,69.3,Active,New,SIN02,1
+IN-10907,Conveyor gear set,Gearboxes,13.33,22.31,Active,New,SIN01,5
+IN-10908,Pump ball bearing,Bearings,2.0,3.17,Active,New,SIN06,1
+IN-10909,Gearbox V-ring,Seals,9.06,13.95,Active,New,SIN06,25
+IN-10910,Compressor rod seal,Seals,2.93,4.15,Active,New,SIN02,2
+IN-10911,Pump V-ring,Seals,35.94,58.12,Active,New,SIN03,5
+IN-10912,Compressor ball bearing,Bearings,3.42,6.11,Active,New,SIN10,5
+IN-10913,Press motor adapter,Gearboxes,37.46,51.91,Active,New,SIN11,2
+IN-10914,Conveyor bushing,Belts and sheaves,640.95,1098.75,Active,New,SIN09,1
+IN-10915,Pump O-ring kit,Seals,852.99,1182.85,Active,New,SIN03,1
+IN-10916,Pump check valve,Hydraulic valves,3.73,5.61,Active,New,SIN02,1
+IN-10917,Conveyor coupling insert,Belts and sheaves,583.82,1001.62,Active,New,SIN02,1
+IN-10918,Pump pillow block,Bearings,63.68,95.49,Active,New,SIN02,2
+IN-10919,Gearbox output shaft,Gearboxes,73.35,119.84,Active,New,SIN02,2
+IN-10920,Press relief valve,Hydraulic valves,4.22,6.88,Active,New,SIN07,10
+IN-10921,Gearbox check valve,Hydraulic valves,147.59,256.28,Active,New,SIN11,1
+IN-10922,Compressor speed reducer,Gearboxes,557.47,847.4,Active,New,SIN00,1
+IN-10923,Conveyor relief valve,Hydraulic valves,6.29,10.24,Active,New,SIN11,10
+IN-10924,Press V-ring,Seals,803.8,1124.21,Active,New,SIN07,1
+IN-10925,Compressor output shaft,Gearboxes,16.72,25.61,Active,New,SIN00,1
+IN-10926,Compressor spherical roller bearing,Bearings,204.71,282.4,Active,New,SIN07,1
+IN-10927,Compressor oil seal,Seals,9.0,15.31,Active,New,SIN01,25
+IN-10928,Compressor check valve,Hydraulic valves,13.27,20.14,Active,New,SIN00,1
+IN-10929,Gearbox check valve,Hydraulic valves,20.24,33.4,Active,New,SIN03,1
+IN-10930,Conveyor V-ring,Seals,1256.05,2118.83,Active,New,SIN06,1
+IN-10931,Gearbox check valve,Hydraulic valves,3.09,5.12,Active,New,SIN10,1
+IN-10932,Press spherical roller bearing,Bearings,99.89,172.83,Active,New,SIN02,25
+IN-10933,Pump directional valve,Hydraulic valves,9.68,15.02,Active,New,SIN02,5
+IN-10934,Conveyor bushing,Belts and sheaves,4.84,7.31,Active,New,SIN10,1
+IN-10935,Press output shaft,Gearboxes,24.76,41.28,Active,New,SIN07,1
+IN-10936,Gearbox flange unit,Bearings,158.52,268.34,Active,New,SIN10,1
+IN-10937,Compressor directional valve,Hydraulic valves,2.0,3.58,Active,New,SIN00,1
+IN-10938,Compressor motor adapter,Gearboxes,1140.54,1611.95,Active,New,SIN10,1
+IN-10939,Pump ball bearing,Bearings,185.86,318.32,Active,New,SIN04,1
+IN-10940,Pump ball bearing,Bearings,14.33,25.5,Active,New,SIN04,1
+IN-10941,Pump coupling insert,Belts and sheaves,91.21,131.02,Active,New,SIN08,2
+IN-10942,Gearbox ball bearing,Bearings,6.42,9.79,Active,New,SIN06,1
+IN-10943,Conveyor timing belt,Belts and sheaves,48.97,70.84,Active,New,SIN07,1
+IN-10944,Conveyor mechanical seal,Seals,13.83,19.22,Active,New,SIN11,1
+IN-10945,Conveyor output shaft,Gearboxes,184.46,309.27,Active,New,SIN00,1
+IN-10946,Compressor V-belt,Belts and sheaves,688.43,1105.71,Active,New,SIN09,1
+IN-10947,Compressor V-ring,Seals,7.42,11.07,Active,New,SIN01,1
+IN-10948,Compressor motor adapter,Gearboxes,61.91,105.17,Active,New,SIN02,1
+IN-10949,Press bushing,Belts and sheaves,2.83,5.0,Active,New,SIN06,1
+IN-10950,Press speed reducer,Gearboxes,1143.67,1688.54,Active,New,SIN05,1
+IN-10951,Conveyor ball bearing,Bearings,81.42,118.87,Active,New,SIN10,1
+IN-10952,Conveyor V-ring,Seals,5.4,8.37,Active,New,SIN01,25
+IN-10953,Pump flange unit,Bearings,118.71,194.66,Active,New,SIN01,1
+IN-10954,Conveyor flow control,Hydraulic valves,39.09,52.86,Active,New,SIN07,10
+IN-10955,Compressor oil seal,Seals,29.22,52.24,Active,New,SIN03,5
+IN-10956,Conveyor V-ring,Seals,543.84,843.33,Active,New,SIN11,1
+IN-10957,Gearbox check valve,Hydraulic valves,39.71,58.09,Active,New,SIN06,1
+IN-10958,Conveyor relief valve,Hydraulic valves,172.1,290.31,Active,New,SIN00,1
+IN-10959,Press mechanical seal,Seals,37.33,65.27,Active,New,SIN00,1
+IN-10960,Conveyor pillow block,Bearings,2.0,3.07,Active,New,SIN01,1
+IN-10961,Conveyor directional valve,Hydraulic valves,121.93,201.98,Active,New,SIN07,10
+IN-10962,Compressor spherical roller bearing,Bearings,224.57,307.88,Active,New,SIN02,1
+IN-10963,Compressor solenoid coil,Hydraulic valves,167.14,257.24,Active,New,SIN04,1
+IN-10964,Press flow control,Hydraulic valves,1081.61,1682.03,Active,New,SIN01,1
+IN-10965,Pump breather,Gearboxes,1079.74,1706.3,Active,New,SIN02,1
+IN-10966,Conveyor pillow block,Bearings,2.0,3.51,Active,New,SIN03,1
+IN-10967,Pump V-ring,Seals,2.08,3.16,Active,New,SIN02,5
+IN-10968,Conveyor mechanical seal,Seals,114.89,155.97,Active,New,SIN04,1
+IN-10969,Press breather,Gearboxes,316.27,562.63,Active,New,SIN04,1
+IN-10970,Compressor flow control,Hydraulic valves,8.23,12.15,Active,New,SIN07,1
+IN-10971,Press pillow block,Bearings,2.0,2.85,Active,New,SIN10,10
+IN-10972,Gearbox speed reducer,Gearboxes,131.77,188.73,Active,New,SIN02,1
+IN-10973,Press spherical roller bearing,Bearings,2.0,3.15,Active,New,SIN00,5
+IN-10974,Compressor relief valve,Hydraulic valves,2.71,4.29,Active,New,SIN08,1
+IN-10975,Compressor timing belt,Belts and sheaves,3.87,6.75,Active,New,SIN05,2
+IN-10976,Press solenoid coil,Hydraulic valves,89.66,125.08,Active,New,SIN07,10
+IN-10977,Conveyor spherical roller bearing,Bearings,396.13,649.82,Active,New,SIN00,1
+IN-10978,Conveyor O-ring kit,Seals,5.87,9.85,Active,New,SIN06,1
+IN-10979,Pump O-ring kit,Seals,55.35,80.28,Active,New,SIN02,2
+IN-10980,Gearbox V-belt,Belts and sheaves,241.37,376.6,Active,New,SIN07,1
+IN-10981,Pump output shaft,Gearboxes,2.0,3.14,Active,New,SIN03,1
+IN-10982,Gearbox V-belt,Belts and sheaves,221.08,373.12,Active,New,SIN08,1
+IN-10983,Conveyor flange unit,Bearings,8.47,14.83,Active,New,SIN05,10
+IN-10984,Pump V-ring,Seals,359.06,575.73,Active,New,SIN07,1
+IN-10985,Gearbox sheave,Belts and sheaves,77.53,115.19,Active,New,SIN01,10
+IN-10986,Compressor directional valve,Hydraulic valves,6.5,9.91,Active,New,SIN05,1
+IN-10987,Conveyor speed reducer,Gearboxes,2.98,4.39,Active,New,SIN00,1
+IN-10988,Press coupling insert,Belts and sheaves,62.67,101.84,Active,New,SIN00,5
+IN-10989,Gearbox spherical roller bearing,Bearings,59.73,91.05,Active,New,SIN10,1
+IN-10990,Pump bushing,Belts and sheaves,72.23,111.66,Active,New,SIN11,2
+IN-10991,Gearbox coupling insert,Belts and sheaves,31.15,42.55,Active,New,SIN08,1
+IN-10992,Press solenoid coil,Hydraulic valves,218.53,380.02,Active,New,SIN01,1
+IN-10993,Gearbox check valve,Hydraulic valves,3.65,6.51,Active,New,SIN04,5
+IN-10994,Conveyor pillow block,Bearings,7.2,9.94,Active,New,SIN08,5
+IN-10995,Pump sheave,Belts and sheaves,2.4,4.31,Active,New,SIN04,25
+IN-10996,Pump flange unit,Bearings,21.83,33.25,Active,New,SIN06,1
+IN-10997,Compressor check valve,Hydraulic valves,6.35,9.38,Active,New,SIN02,2
+IN-10998,Compressor oil seal,Seals,32.3,52.55,Active,New,SIN01,1
+IN-10999,Conveyor rod seal,Seals,2.0,3.34,Active,New,SIN03,25
+IN-90000,Press check valve,Hydraulic valves,75.31,108.9,Superseded,New,SIN00,5
+IN-90001,Compressor ball bearing,Bearings,3.71,6.67,Superseded,New,SIN01,10
+IN-90002,Press solenoid coil,Hydraulic valves,907.09,1547.42,Superseded,New,SIN07,1
+IN-90003,Conveyor bushing,Belts and sheaves,1246.5,2070.67,Superseded,New,SIN03,1
+IN-90004,Press spherical roller bearing,Bearings,20.11,30.65,Superseded,New,SIN07,2
+IN-90005,Gearbox bushing,Belts and sheaves,205.34,328.5,Superseded,New,SIN00,1
+IN-90006,Press coupling insert,Belts and sheaves,57.43,93.1,Superseded,New,SIN04,10
+IN-90007,Gearbox flange unit,Bearings,13.17,18.29,Superseded,New,SIN05,25
+IN-90008,Press ball bearing,Bearings,2.0,3.42,Superseded,New,SIN08,2
+IN-90009,Compressor rod seal,Seals,2.93,4.15,Superseded,New,SIN02,2
+IN-90010,Press mechanical seal,Seals,98.35,158.6,Superseded,New,SIN07,25
+IN-90011,Gearbox tapered roller bearing,Bearings,1153.68,1831.28,Superseded,New,SIN04,1
+IN-90012,Gearbox spherical roller bearing,Bearings,59.73,91.05,Superseded,New,SIN10,1
+IN-90013,Pump tapered roller bearing,Bearings,261.3,450.98,Superseded,New,SIN00,1
+IN-90014,Pump spherical roller bearing,Bearings,2.26,3.37,Superseded,New,SIN11,5
+IN-90015,Pump pillow block,Bearings,7.67,12.98,Superseded,New,SIN03,2
+IN-90016,Compressor rod seal,Seals,2.32,3.77,Superseded,New,SIN01,25
+IN-90017,Press relief valve,Hydraulic valves,4.22,6.88,Superseded,New,SIN07,10
+IN-90018,Gearbox speed reducer,Gearboxes,103.4,142.06,Superseded,New,SIN03,1
+IN-90019,Conveyor pillow block,Bearings,2.0,3.51,Superseded,New,SIN03,1
+IN-90020,Pump flange unit,Bearings,21.83,33.25,Superseded,New,SIN06,1
+IN-90021,Gearbox output shaft,Gearboxes,831.8,1379.46,Superseded,New,SIN08,1
+IN-90022,Gearbox tapered roller bearing,Bearings,7.61,12.8,Superseded,New,SIN05,1
+IN-90023,Press rod seal,Seals,9.67,15.45,Superseded,New,SIN10,1
+IN-90024,Press coupling insert,Belts and sheaves,62.67,101.84,Superseded,New,SIN00,5
+IN-90025,Pump motor adapter,Gearboxes,5.01,8.34,Superseded,New,SIN00,5
+IN-90026,Gearbox relief valve,Hydraulic valves,17.06,29.8,Superseded,New,SIN09,10
+IN-90027,Pump O-ring kit,Seals,852.99,1182.85,Superseded,New,SIN03,1
+IN-90028,Conveyor tapered roller bearing,Bearings,54.42,86.32,Superseded,New,SIN09,1
+IN-90029,Compressor oil seal,Seals,322.61,468.17,Superseded,New,SIN03,1

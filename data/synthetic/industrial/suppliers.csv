@@ -1,0 +1,13 @@
+supplier_id,name,lead_time_weeks,lead_time_sd_weeks,min_order_value
+SIN00,Domestic supplier 1,9,3.4,500
+SIN01,Domestic supplier 2,12,3.2,1000
+SIN02,Domestic supplier 3,10,2.5,500
+SIN03,Domestic supplier 4,11,3.7,250
+SIN04,Domestic supplier 5,11,2.2,1000
+SIN05,Domestic supplier 6,3,0.5,0
+SIN06,Domestic supplier 7,3,1.1,500
+SIN07,Domestic supplier 8,11,3.2,0
+SIN08,Domestic supplier 9,3,1.1,1000
+SIN09,Domestic supplier 10,10,1.8,500
+SIN10,Domestic supplier 11,10,2.8,0
+SIN11,Overseas supplier 12,10,2.2,500

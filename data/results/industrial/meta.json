@@ -1,0 +1,15 @@
+{
+  "vertical": "industrial",
+  "label": "Industrial bearing and fluid power",
+  "source": "data/synthetic/industrial",
+  "uploaded": false,
+  "first_week": "2023-11-27",
+  "last_week": "2026-11-16",
+  "backtest_start": "2026-02-23",
+  "horizon": 13,
+  "windows": 3,
+  "forecast_start": "2026-11-23",
+  "eligible_series": 3840,
+  "series": 4000,
+  "runtime_seconds": 21
+}

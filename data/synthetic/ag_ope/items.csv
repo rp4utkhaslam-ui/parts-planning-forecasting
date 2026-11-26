@@ -1,0 +1,1297 @@
+item_id,description,category,unit_cost,price,status,condition,supplier_id,pack_size
+AG-10000,Toro skid shoe,Snow,22.89,33.52,Active,New,SAG04,25
+AG-10001,John Deere PTO seal kit,Tractor,374.29,594.24,Active,New,SAG11,1
+AG-10002,Case IH sickle section,Combine,570.23,838.4,Active,New,SAG05,1
+AG-10003,John Deere skid shoe,Snow,89.83,135.68,Active,New,SAG11,2
+AG-10004,John Deere deck idler pulley,Mower,10.42,14.39,Active,New,SAG02,1
+AG-10005,John Deere closing wheel,Planter,300.01,498.92,Active,New,SAG03,1
+AG-10006,Kinze air filter,Mower,17.24,27.89,Active,New,SAG04,10
+AG-10007,Case IH drive belt,Snow,138.48,196.98,Active,New,SAG06,25
+AG-10008,Case IH feeder chain,Combine,9.72,13.15,Active,New,SAG08,25
+AG-10009,Kinze meter drive chain,Planter,72.68,101.9,Active,New,SAG06,1
+AG-10010,John Deere hydraulic filter,Tractor,186.03,331.02,Active,New,SAG05,1
+AG-10011,Toro steering cylinder,Tractor,130.51,190.27,Active,New,SAG03,1
+AG-10012,Toro rasp bar,Combine,446.4,723.02,Active,New,SAG01,1
+AG-10013,Kinze deck blade,Mower,42.5,63.05,Active,New,SAG01,10
+AG-10014,Kinze drive belt,Snow,363.79,598.77,Active,New,SAG10,1
+AG-10015,John Deere gauge wheel arm,Planter,37.16,57.01,Active,New,SAG11,2
+AG-10016,Kinze closing wheel,Planter,429.93,599.05,Active,New,SAG09,1
+AG-10017,Kubota fuel pump,Tractor,85.87,147.22,Active,New,SAG09,1
+AG-10018,New Holland auger shear pin,Snow,16.01,24.73,Active,New,SAG02,5
+AG-10019,Case IH feeder chain,Combine,230.87,347.57,Active,New,SAG09,1
+AG-10020,Toro rasp bar,Combine,16.25,24.21,Active,New,SAG02,5
+AG-10021,Kinze drive belt,Snow,12.87,21.14,Active,New,SAG08,5
+AG-10022,Toro sickle section,Combine,15.1,26.32,Active,New,SAG00,5
+AG-10023,New Holland drive belt,Snow,8.0,13.52,Active,New,SAG03,5
+AG-10024,Toro PTO seal kit,Tractor,130.61,207.65,Active,New,SAG09,1
+AG-10025,John Deere gauge wheel arm,Planter,495.6,754.56,Active,New,SAG03,1
+AG-10026,Kubota seed tube,Planter,687.46,1089.77,Active,New,SAG06,1
+AG-10027,Case IH scraper bar,Snow,245.5,358.5,Active,New,SAG04,1
+AG-10028,John Deere meter drive chain,Planter,139.3,249.64,Active,New,SAG11,5
+AG-10029,New Holland drive belt,Mower,8.0,12.9,Active,New,SAG04,25
+AG-10030,Case IH rasp bar,Combine,9.97,14.87,Active,New,SAG06,5
+AG-10031,Kinze gauge wheel arm,Planter,86.62,125.34,Active,New,SAG05,1
+AG-10032,Kinze drive belt,Snow,91.17,145.47,Active,New,SAG02,25
+AG-10033,Kinze seed disc opener,Planter,705.3,1178.56,Active,New,SAG10,1
+AG-10034,Case IH fuel pump,Tractor,25.36,35.37,Active,New,SAG09,2
+AG-10035,John Deere feeder chain,Combine,24.17,39.72,Active,New,SAG00,1
+AG-10036,Kinze seed disc opener,Planter,19.69,28.79,Active,New,SAG09,5
+AG-10037,Kubota impeller,Snow,13.29,20.04,Active,New,SAG02,5
+AG-10038,Case IH steering cylinder,Tractor,528.67,941.18,Active,New,SAG08,1
+AG-10039,New Holland skid shoe,Snow,18.01,25.65,Active,New,SAG10,10
+AG-10040,New Holland skid shoe,Snow,100.62,137.53,Active,New,SAG04,1
+AG-10041,New Holland seed disc opener,Planter,79.04,137.5,Active,New,SAG00,1
+AG-10042,Case IH seed disc opener,Planter,62.74,91.9,Active,New,SAG09,5
+AG-10043,Kinze drive belt,Snow,40.58,55.99,Active,New,SAG04,10
+AG-10044,Kinze gauge wheel arm,Planter,12.85,21.08,Active,New,SAG05,25
+AG-10045,Kinze meter drive chain,Planter,36.41,54.96,Active,New,SAG07,10
+AG-10046,John Deere drive belt,Snow,11.41,18.82,Active,New,SAG11,1
+AG-10047,Toro drive belt,Mower,9.41,16.44,Active,New,SAG04,10
+AG-10048,Case IH auger shear pin,Snow,352.04,609.72,Active,New,SAG10,1
+AG-10049,Case IH sickle section,Combine,59.42,87.5,Active,New,SAG05,1
+AG-10050,Case IH drive belt,Snow,19.16,26.72,Active,New,SAG01,1
+AG-10051,Case IH concave,Combine,62.36,106.73,Active,New,SAG06,5
+AG-10052,Case IH rotor flight,Combine,69.15,107.74,Active,New,SAG00,1
+AG-10053,Kubota drive belt,Snow,10.03,14.06,Active,New,SAG08,1
+AG-10054,Toro deck idler pulley,Mower,283.64,457.51,Active,New,SAG05,1
+AG-10055,New Holland seed disc opener,Planter,79.81,137.17,Active,New,SAG04,5
+AG-10056,John Deere auger shear pin,Snow,305.19,484.93,Active,New,SAG01,1
+AG-10057,New Holland scraper bar,Snow,508.56,870.44,Active,New,SAG07,1
+AG-10058,Kubota fuel pump,Tractor,9.78,16.34,Active,New,SAG10,25
+AG-10059,Kubota sickle section,Combine,171.16,294.34,Active,New,SAG11,1
+AG-10060,New Holland skid shoe,Snow,575.93,989.85,Active,New,SAG05,1
+AG-10061,John Deere gauge wheel arm,Planter,38.15,52.46,Active,New,SAG08,10
+AG-10062,John Deere drive belt,Mower,592.44,805.28,Active,New,SAG02,1
+AG-10063,Case IH gauge wheel arm,Planter,8.0,13.36,Active,New,SAG08,1
+AG-10064,Kinze gauge wheel arm,Planter,48.85,66.63,Active,New,SAG03,1
+AG-10065,John Deere fan belt,Tractor,11.55,16.97,Active,New,SAG01,1
+AG-10066,Kubota rotor flight,Combine,248.3,415.93,Active,New,SAG02,1
+AG-10067,Toro PTO seal kit,Tractor,894.19,1251.46,Active,New,SAG11,1
+AG-10068,Toro air filter,Mower,365.66,551.49,Active,New,SAG10,1
+AG-10069,Toro rasp bar,Combine,751.51,1262.61,Active,New,SAG01,1
+AG-10070,New Holland rotor flight,Combine,22.74,32.22,Active,New,SAG06,10
+AG-10071,John Deere auger shear pin,Snow,8.0,11.97,Active,New,SAG04,2
+AG-10072,Case IH gauge wheel arm,Planter,26.46,44.4,Active,New,SAG05,1
+AG-10073,Case IH hydraulic filter,Tractor,12.86,17.8,Active,New,SAG11,1
+AG-10074,Kubota rasp bar,Combine,12.14,19.99,Active,New,SAG10,1
+AG-10075,Kinze gauge wheel arm,Planter,15.5,23.6,Active,New,SAG09,10
+AG-10076,John Deere concave,Combine,14.9,21.96,Active,New,SAG06,5
+AG-10077,Toro meter drive chain,Planter,32.02,46.84,Active,New,SAG08,25
+AG-10078,Toro closing wheel,Planter,612.23,1055.09,Active,New,SAG03,1
+AG-10079,New Holland PTO seal kit,Tractor,166.88,298.63,Active,New,SAG00,1
+AG-10080,New Holland seed tube,Planter,329.19,543.95,Active,New,SAG09,1
+AG-10081,New Holland skid shoe,Snow,57.77,99.77,Active,New,SAG10,25
+AG-10082,Case IH air filter,Mower,564.84,989.76,Active,New,SAG11,1
+AG-10083,Toro seed tube,Planter,33.36,47.11,Active,New,SAG05,25
+AG-10084,Toro skid shoe,Snow,42.44,73.13,Active,New,SAG00,2
+AG-10085,Toro steering cylinder,Tractor,885.08,1558.34,Active,New,SAG06,1
+AG-10086,New Holland scraper bar,Snow,19.54,29.37,Active,New,SAG01,2
+AG-10087,Case IH feeder chain,Combine,766.39,1056.63,Active,New,SAG00,1
+AG-10088,John Deere deck idler pulley,Mower,21.81,32.04,Active,New,SAG05,1
+AG-10089,Kinze closing wheel,Planter,382.17,545.3,Active,New,SAG03,1
+AG-10090,Case IH feeder chain,Combine,15.88,23.77,Active,New,SAG11,2
+AG-10091,Kinze seed tube,Planter,8.0,12.11,Active,New,SAG02,10
+AG-10092,John Deere gauge wheel arm,Planter,60.72,105.13,Active,New,SAG04,1
+AG-10093,Case IH scraper bar,Snow,8.0,11.43,Active,New,SAG04,25
+AG-10094,New Holland drive belt,Mower,79.89,125.67,Active,New,SAG03,25
+AG-10095,New Holland seed tube,Planter,120.73,206.23,Active,New,SAG01,5
+AG-10096,New Holland spindle assembly,Mower,15.47,27.11,Active,New,SAG11,5
+AG-10097,Toro spindle assembly,Mower,8.0,13.88,Active,New,SAG05,2
+AG-10098,Case IH seed disc opener,Planter,8.0,11.61,Active,New,SAG00,25
+AG-10099,Case IH concave,Combine,112.02,153.59,Active,New,SAG08,1
+AG-10100,Toro sickle section,Combine,494.16,832.61,Active,New,SAG04,1
+AG-10101,New Holland gauge wheel arm,Planter,8.29,14.91,Active,New,SAG04,25
+AG-10102,Kinze feeder chain,Combine,20.78,33.32,Active,New,SAG06,1
+AG-10103,Toro fuel pump,Tractor,42.98,73.27,Active,New,SAG00,25
+AG-10104,New Holland closing wheel,Planter,27.28,41.86,Active,New,SAG08,25
+AG-10105,New Holland PTO seal kit,Tractor,8.0,12.39,Active,New,SAG04,1
+AG-10106,Case IH steering cylinder,Tractor,8.0,14.39,Active,New,SAG03,2
+AG-10107,Case IH meter drive chain,Planter,8.0,11.45,Active,New,SAG07,10
+AG-10108,New Holland rasp bar,Combine,23.63,40.34,Active,New,SAG07,10
+AG-10109,Case IH fan belt,Tractor,10.52,15.78,Active,New,SAG10,5
+AG-10110,Kinze rasp bar,Combine,12.19,19.4,Active,New,SAG09,10
+AG-10111,John Deere scraper bar,Snow,9.32,15.44,Active,New,SAG09,2
+AG-10112,Kubota spindle assembly,Mower,612.25,845.37,Active,New,SAG05,1
+AG-10113,John Deere gauge wheel arm,Planter,126.5,226.77,Active,New,SAG11,1
+AG-10114,Kinze spindle assembly,Mower,13.81,20.65,Active,New,SAG10,1
+AG-10115,New Holland drive belt,Snow,19.11,29.56,Active,New,SAG09,2
+AG-10116,John Deere deck blade,Mower,28.79,48.84,Active,New,SAG09,1
+AG-10117,Case IH deck idler pulley,Mower,56.95,95.21,Active,New,SAG02,1
+AG-10118,John Deere steering cylinder,Tractor,249.64,357.12,Active,New,SAG02,1
+AG-10119,Kinze feeder chain,Combine,58.01,86.78,Active,New,SAG03,5
+AG-10120,Case IH rotor flight,Combine,87.77,127.64,Active,New,SAG05,5
+AG-10121,New Holland drive belt,Mower,577.26,992.33,Active,New,SAG06,1
+AG-10122,New Holland deck blade,Mower,24.29,43.3,Active,New,SAG01,10
+AG-10123,New Holland feeder chain,Combine,790.25,1188.66,Active,New,SAG09,1
+AG-10124,Kinze deck idler pulley,Mower,49.71,71.51,Active,New,SAG02,10
+AG-10125,Kubota auger shear pin,Snow,29.13,47.28,Active,New,SAG03,10
+AG-10126,Kinze steering cylinder,Tractor,81.87,135.11,Active,New,SAG07,1
+AG-10127,Case IH fan belt,Tractor,13.87,22.93,Active,New,SAG00,25
+AG-10128,Case IH rasp bar,Combine,106.57,151.99,Active,New,SAG07,10
+AG-10129,Kinze drive belt,Snow,10.45,18.74,Active,New,SAG07,2
+AG-10130,Toro impeller,Snow,79.09,125.83,Active,New,SAG05,5
+AG-10131,John Deere rasp bar,Combine,69.55,96.87,Active,New,SAG10,5
+AG-10132,Kubota concave,Combine,134.22,188.99,Active,New,SAG04,5
+AG-10133,New Holland PTO seal kit,Tractor,633.64,1097.17,Active,New,SAG07,1
+AG-10134,Case IH sickle section,Combine,28.86,44.87,Active,New,SAG06,5
+AG-10135,Kinze gauge wheel arm,Planter,477.33,673.16,Active,New,SAG01,1
+AG-10136,John Deere rasp bar,Combine,13.93,23.78,Active,New,SAG10,5
+AG-10137,New Holland skid shoe,Snow,540.36,882.15,Active,New,SAG11,1
+AG-10138,Case IH drive belt,Snow,38.74,53.99,Active,New,SAG04,25
+AG-10139,John Deere sickle section,Combine,81.2,133.65,Active,New,SAG01,2
+AG-10140,New Holland steering cylinder,Tractor,332.56,547.11,Active,New,SAG05,1
+AG-10141,Kinze feeder chain,Combine,8.22,13.3,Active,New,SAG03,5
+AG-10142,New Holland gauge wheel arm,Planter,278.97,478.25,Active,New,SAG02,1
+AG-10143,New Holland rotor flight,Combine,11.53,19.94,Active,New,SAG02,10
+AG-10144,Toro skid shoe,Snow,108.0,151.37,Active,New,SAG03,1
+AG-10145,Toro deck blade,Mower,197.74,337.38,Active,New,SAG03,1
+AG-10146,Kinze drive belt,Snow,388.33,599.01,Active,New,SAG00,1
+AG-10147,Toro rotor flight,Combine,10.12,15.94,Active,New,SAG02,1
+AG-10148,John Deere deck blade,Mower,58.23,78.88,Active,New,SAG11,25
+AG-10149,Kinze closing wheel,Planter,284.96,463.31,Active,New,SAG08,1
+AG-10150,Toro impeller,Snow,21.3,37.29,Active,New,SAG04,10
+AG-10151,Kinze fuel pump,Tractor,280.79,474.26,Active,New,SAG02,1
+AG-10152,Toro fan belt,Tractor,10.26,14.7,Active,New,SAG08,1
+AG-10153,John Deere spindle assembly,Mower,20.96,32.24,Active,New,SAG04,10
+AG-10154,Toro concave,Combine,24.35,41.1,Active,New,SAG00,1
+AG-10155,Kubota deck blade,Mower,9.35,16.0,Active,New,SAG05,25
+AG-10156,John Deere feeder chain,Combine,198.17,350.59,Active,New,SAG08,1
+AG-10157,Toro PTO seal kit,Tractor,86.52,152.07,Active,New,SAG04,1
+AG-10158,John Deere closing wheel,Planter,290.51,414.72,Active,New,SAG02,1
+AG-10159,Toro fan belt,Tractor,66.4,92.85,Active,New,SAG01,1
+AG-10160,Kubota impeller,Snow,10.02,14.87,Active,New,SAG07,1
+AG-10161,Kubota impeller,Snow,18.21,32.35,Active,New,SAG06,5
+AG-10162,Kinze seed disc opener,Planter,8.21,13.22,Active,New,SAG04,2
+AG-10163,John Deere seed disc opener,Planter,15.97,24.99,Active,New,SAG06,10
+AG-10164,Case IH scraper bar,Snow,691.47,1033.46,Active,New,SAG09,1
+AG-10165,New Holland deck idler pulley,Mower,12.26,17.36,Active,New,SAG10,1
+AG-10166,Kinze drive belt,Snow,24.32,37.9,Active,New,SAG04,5
+AG-10167,Kinze seed disc opener,Planter,25.76,42.84,Active,New,SAG04,10
+AG-10168,Kinze hydraulic filter,Tractor,39.78,68.24,Active,New,SAG09,25
+AG-10169,Kinze closing wheel,Planter,34.37,48.83,Active,New,SAG07,1
+AG-10170,Kinze rasp bar,Combine,18.56,26.31,Active,New,SAG10,25
+AG-10171,New Holland PTO seal kit,Tractor,8.49,11.5,Active,New,SAG08,1
+AG-10172,New Holland closing wheel,Planter,12.43,18.63,Active,New,SAG08,1
+AG-10173,Kinze impeller,Snow,123.85,197.27,Active,New,SAG06,5
+AG-10174,Toro seed disc opener,Planter,37.17,57.28,Active,New,SAG05,1
+AG-10175,Toro auger shear pin,Snow,8.0,12.83,Active,New,SAG03,2
+AG-10176,Case IH auger shear pin,Snow,63.27,95.78,Active,New,SAG00,1
+AG-10177,Toro gauge wheel arm,Planter,15.15,23.5,Active,New,SAG11,2
+AG-10178,New Holland deck blade,Mower,40.26,66.76,Active,New,SAG05,1
+AG-10179,New Holland concave,Combine,17.03,27.64,Active,New,SAG06,25
+AG-10180,Case IH drive belt,Mower,150.2,221.23,Active,New,SAG02,1
+AG-10181,Case IH auger shear pin,Snow,8.0,11.1,Active,New,SAG05,25
+AG-10182,Kinze impeller,Snow,32.34,55.43,Active,New,SAG03,25
+AG-10183,Kubota steering cylinder,Tractor,547.37,852.75,Active,New,SAG06,1
+AG-10184,Case IH closing wheel,Planter,8.0,13.27,Active,New,SAG10,10
+AG-10185,Kinze drive belt,Snow,367.04,660.64,Active,New,SAG11,1
+AG-10186,Kinze meter drive chain,Planter,33.09,54.52,Active,New,SAG09,1
+AG-10187,John Deere feeder chain,Combine,58.6,86.07,Active,New,SAG08,1
+AG-10188,Kinze sickle section,Combine,322.03,436.8,Active,New,SAG10,1
+AG-10189,Case IH fuel pump,Tractor,64.46,98.68,Active,New,SAG04,1
+AG-10190,Kubota sickle section,Combine,8.0,12.72,Active,New,SAG08,25
+AG-10191,Kubota fuel pump,Tractor,27.68,40.44,Active,New,SAG08,10
+AG-10192,New Holland meter drive chain,Planter,92.64,138.75,Active,New,SAG02,10
+AG-10193,John Deere spindle assembly,Mower,37.11,52.32,Active,New,SAG04,1
+AG-10194,New Holland deck blade,Mower,301.1,419.74,Active,New,SAG06,1
+AG-10195,New Holland meter drive chain,Planter,8.93,13.04,Active,New,SAG03,1
+AG-10196,Case IH rasp bar,Combine,8.0,12.98,Active,New,SAG04,10
+AG-10197,Kinze steering cylinder,Tractor,27.32,37.76,Active,New,SAG00,1
+AG-10198,John Deere scraper bar,Snow,8.41,13.03,Active,New,SAG03,10
+AG-10199,Kinze fuel pump,Tractor,51.47,87.21,Active,New,SAG07,1
+AG-10200,New Holland drive belt,Snow,8.0,12.19,Active,New,SAG10,2
+AG-10201,John Deere deck blade,Mower,129.92,214.32,Active,New,SAG02,5
+AG-10202,Toro fuel pump,Tractor,157.87,232.59,Active,New,SAG08,1
+AG-10203,Kubota auger shear pin,Snow,8.0,13.85,Active,New,SAG08,1
+AG-10204,Kubota rasp bar,Combine,90.54,147.52,Active,New,SAG07,5
+AG-10205,Kinze hydraulic filter,Tractor,8.0,11.95,Active,New,SAG06,1
+AG-10206,Kubota drive belt,Mower,80.44,123.45,Active,New,SAG00,1
+AG-10207,New Holland steering cylinder,Tractor,31.71,50.57,Active,New,SAG09,1
+AG-10208,Case IH PTO seal kit,Tractor,8.0,11.11,Active,New,SAG03,1
+AG-10209,Case IH auger shear pin,Snow,20.15,34.13,Active,New,SAG05,2
+AG-10210,Case IH spindle assembly,Mower,52.59,80.75,Active,New,SAG10,25
+AG-10211,Case IH steering cylinder,Tractor,379.81,677.26,Active,New,SAG10,1
+AG-10212,New Holland gauge wheel arm,Planter,419.94,602.02,Active,New,SAG09,1
+AG-10213,Kubota skid shoe,Snow,8.82,13.76,Active,New,SAG07,1
+AG-10214,John Deere seed tube,Planter,82.7,140.91,Active,New,SAG03,1
+AG-10215,Toro deck blade,Mower,9.83,17.11,Active,New,SAG09,2
+AG-10216,New Holland rotor flight,Combine,758.71,1200.66,Active,New,SAG01,1
+AG-10217,New Holland rotor flight,Combine,687.16,1211.95,Active,New,SAG02,1
+AG-10218,Kinze hydraulic filter,Tractor,51.68,87.98,Active,New,SAG08,2
+AG-10219,Toro gauge wheel arm,Planter,8.0,14.08,Active,New,SAG04,2
+AG-10220,John Deere fan belt,Tractor,50.24,71.68,Active,New,SAG05,25
+AG-10221,Kubota rotor flight,Combine,65.01,101.32,Active,New,SAG07,25
+AG-10222,Kinze hydraulic filter,Tractor,8.0,13.03,Active,New,SAG10,5
+AG-10223,Kubota drive belt,Mower,10.96,19.51,Active,New,SAG11,1
+AG-10224,Kubota rotor flight,Combine,82.2,114.81,Active,New,SAG09,1
+AG-10225,John Deere feeder chain,Combine,69.43,98.55,Active,New,SAG05,25
+AG-10226,New Holland deck idler pulley,Mower,78.33,111.09,Active,New,SAG06,1
+AG-10227,Case IH fuel pump,Tractor,17.19,29.43,Active,New,SAG05,1
+AG-10228,Kinze sickle section,Combine,308.01,482.47,Active,New,SAG11,1
+AG-10229,Toro deck blade,Mower,276.62,385.78,Active,New,SAG11,1
+AG-10230,Case IH fuel pump,Tractor,36.25,55.42,Active,New,SAG03,25
+AG-10231,Case IH PTO seal kit,Tractor,8.0,11.22,Active,New,SAG07,1
+AG-10232,John Deere scraper bar,Snow,105.59,170.41,Active,New,SAG09,10
+AG-10233,Toro seed disc opener,Planter,18.47,25.5,Active,New,SAG08,1
+AG-10234,Case IH deck blade,Mower,11.13,16.69,Active,New,SAG00,1
+AG-10235,New Holland meter drive chain,Planter,91.1,132.19,Active,New,SAG07,2
+AG-10236,New Holland meter drive chain,Planter,42.51,65.43,Active,New,SAG02,1
+AG-10237,Case IH auger shear pin,Snow,8.0,14.26,Active,New,SAG04,5
+AG-10238,Kinze deck idler pulley,Mower,8.0,11.93,Active,New,SAG11,1
+AG-10239,Kubota fan belt,Tractor,68.12,108.69,Active,New,SAG05,1
+AG-10240,Toro feeder chain,Combine,827.16,1465.68,Active,New,SAG05,1
+AG-10241,Kubota gauge wheel arm,Planter,41.85,62.23,Active,New,SAG08,1
+AG-10242,New Holland feeder chain,Combine,9.6,14.38,Active,New,SAG03,2
+AG-10243,Kubota PTO seal kit,Tractor,22.47,39.66,Active,New,SAG11,1
+AG-10244,Kubota drive belt,Mower,10.45,16.61,Active,New,SAG11,25
+AG-10245,Kubota hydraulic filter,Tractor,60.6,103.32,Active,New,SAG03,10
+AG-10246,John Deere PTO seal kit,Tractor,8.09,12.61,Active,New,SAG07,5
+AG-10247,New Holland rasp bar,Combine,198.98,289.53,Active,New,SAG11,1
+AG-10248,Case IH scraper bar,Snow,18.64,27.13,Active,New,SAG03,1
+AG-10249,Kubota skid shoe,Snow,11.29,16.57,Active,New,SAG06,1
+AG-10250,Toro drive belt,Snow,459.52,635.41,Active,New,SAG06,1
+AG-10251,New Holland seed tube,Planter,93.73,148.95,Active,New,SAG04,1
+AG-10252,Kubota drive belt,Snow,625.39,987.74,Active,New,SAG03,1
+AG-10253,Kinze drive belt,Snow,86.72,133.58,Active,New,SAG10,1
+AG-10254,Case IH spindle assembly,Mower,46.13,74.15,Active,New,SAG04,1
+AG-10255,Case IH sickle section,Combine,238.48,334.41,Active,New,SAG04,1
+AG-10256,Case IH drive belt,Mower,8.05,11.9,Active,New,SAG08,5
+AG-10257,Kubota feeder chain,Combine,641.24,1056.41,Active,New,SAG00,1
+AG-10258,Toro seed tube,Planter,8.0,14.18,Active,New,SAG08,1
+AG-10259,Kubota rasp bar,Combine,12.26,20.41,Active,New,SAG02,10
+AG-10260,Kubota sickle section,Combine,112.38,157.45,Active,New,SAG02,5
+AG-10261,Case IH rasp bar,Combine,72.62,116.79,Active,New,SAG05,5
+AG-10262,Toro fan belt,Tractor,11.76,18.6,Active,New,SAG07,5
+AG-10263,Toro concave,Combine,306.38,474.73,Active,New,SAG02,1
+AG-10264,New Holland seed disc opener,Planter,19.22,29.67,Active,New,SAG06,1
+AG-10265,John Deere meter drive chain,Planter,9.8,16.46,Active,New,SAG07,5
+AG-10266,Kinze hydraulic filter,Tractor,13.21,19.99,Active,New,SAG04,10
+AG-10267,Toro scraper bar,Snow,8.0,11.82,Active,New,SAG03,10
+AG-10268,Kinze deck idler pulley,Mower,239.1,372.95,Active,New,SAG10,1
+AG-10269,Kinze sickle section,Combine,10.29,18.34,Active,New,SAG02,1
+AG-10270,John Deere spindle assembly,Mower,85.84,140.43,Active,New,SAG09,25
+AG-10271,New Holland air filter,Mower,127.86,208.31,Active,New,SAG10,1
+AG-10272,New Holland sickle section,Combine,464.54,631.13,Active,New,SAG02,1
+AG-10273,Kinze rotor flight,Combine,116.76,175.43,Active,New,SAG06,10
+AG-10274,Kubota seed tube,Planter,578.46,815.14,Active,New,SAG00,1
+AG-10275,Case IH concave,Combine,63.77,102.97,Active,New,SAG01,1
+AG-10276,Kinze impeller,Snow,388.1,647.92,Active,New,SAG04,1
+AG-10277,Toro PTO seal kit,Tractor,14.16,21.41,Active,New,SAG09,1
+AG-10278,New Holland seed tube,Planter,29.6,47.95,Active,New,SAG10,2
+AG-10279,Toro scraper bar,Snow,21.36,30.71,Active,New,SAG01,5
+AG-10280,New Holland drive belt,Mower,11.66,20.5,Active,New,SAG05,1
+AG-10281,John Deere feeder chain,Combine,13.86,24.17,Active,New,SAG07,1
+AG-10282,Case IH steering cylinder,Tractor,152.64,269.25,Active,New,SAG07,1
+AG-10283,John Deere hydraulic filter,Tractor,118.93,167.97,Active,New,SAG08,1
+AG-10284,New Holland drive belt,Snow,424.25,616.05,Active,New,SAG03,1
+AG-10285,Case IH auger shear pin,Snow,14.45,20.52,Active,New,SAG09,2
+AG-10286,Kubota closing wheel,Planter,16.18,24.47,Active,New,SAG01,1
+AG-10287,John Deere spindle assembly,Mower,60.09,90.7,Active,New,SAG02,1
+AG-10288,Kubota deck blade,Mower,15.44,25.42,Active,New,SAG09,2
+AG-10289,Case IH fan belt,Tractor,279.51,477.03,Active,New,SAG00,1
+AG-10290,Kinze hydraulic filter,Tractor,11.68,16.2,Active,New,SAG03,2
+AG-10291,Kubota deck idler pulley,Mower,40.26,58.66,Active,New,SAG09,5
+AG-10292,Toro fuel pump,Tractor,67.28,108.45,Active,New,SAG08,1
+AG-10293,Kubota rasp bar,Combine,687.59,1075.29,Active,New,SAG08,1
+AG-10294,New Holland hydraulic filter,Tractor,83.45,130.82,Active,New,SAG03,2
+AG-10295,Kubota drive belt,Mower,432.1,709.42,Active,New,SAG02,1
+AG-10296,Case IH fan belt,Tractor,9.88,15.18,Active,New,SAG03,2
+AG-10297,Toro deck blade,Mower,268.93,463.05,Active,New,SAG10,1
+AG-10298,Case IH deck idler pulley,Mower,182.06,251.9,Active,New,SAG05,1
+AG-10299,Case IH scraper bar,Snow,278.53,472.0,Active,New,SAG01,1
+AG-10300,Case IH fan belt,Tractor,285.19,483.2,Active,New,SAG04,1
+AG-10301,New Holland steering cylinder,Tractor,33.51,54.7,Active,New,SAG04,10
+AG-10302,John Deere seed tube,Planter,200.27,298.55,Active,New,SAG04,1
+AG-10303,Kinze skid shoe,Snow,209.0,309.14,Active,New,SAG02,1
+AG-10304,John Deere feeder chain,Combine,11.4,19.08,Active,New,SAG07,5
+AG-10305,Case IH fuel pump,Tractor,632.6,1124.52,Active,New,SAG08,1
+AG-10306,New Holland seed tube,Planter,72.17,125.9,Active,New,SAG02,10
+AG-10307,John Deere closing wheel,Planter,799.33,1170.81,Active,New,SAG08,1
+AG-10308,New Holland gauge wheel arm,Planter,323.23,459.86,Active,New,SAG06,1
+AG-10309,Kinze steering cylinder,Tractor,453.32,734.17,Active,New,SAG04,1
+AG-10310,Kinze drive belt,Snow,73.74,118.06,Active,New,SAG10,25
+AG-10311,Toro fuel pump,Tractor,10.07,15.48,Active,New,SAG06,1
+AG-10312,Kubota rasp bar,Combine,9.58,14.43,Active,New,SAG06,25
+AG-10313,Kinze impeller,Snow,135.63,217.89,Active,New,SAG10,10
+AG-10314,New Holland steering cylinder,Tractor,152.88,234.41,Active,New,SAG06,1
+AG-10315,Kubota meter drive chain,Planter,86.01,130.73,Active,New,SAG11,10
+AG-10316,Kubota steering cylinder,Tractor,70.44,113.05,Active,New,SAG11,10
+AG-10317,New Holland fan belt,Tractor,45.2,71.15,Active,New,SAG02,1
+AG-10318,Kubota closing wheel,Planter,8.0,12.43,Active,New,SAG10,1
+AG-10319,New Holland skid shoe,Snow,41.09,72.51,Active,New,SAG07,2
+AG-10320,Case IH sickle section,Combine,17.57,31.18,Active,New,SAG07,1
+AG-10321,Kubota impeller,Snow,8.0,12.35,Active,New,SAG02,25
+AG-10322,Kubota drive belt,Snow,84.64,115.25,Active,New,SAG07,1
+AG-10323,Toro steering cylinder,Tractor,9.56,13.46,Active,New,SAG00,1
+AG-10324,John Deere fuel pump,Tractor,546.9,937.48,Active,New,SAG06,1
+AG-10325,Case IH skid shoe,Snow,125.29,215.98,Active,New,SAG05,1
+AG-10326,Case IH closing wheel,Planter,152.5,205.93,Active,New,SAG08,1
+AG-10327,New Holland rotor flight,Combine,10.57,18.48,Active,New,SAG08,10
+AG-10328,New Holland sickle section,Combine,272.69,462.76,Active,New,SAG05,1
+AG-10329,Case IH seed tube,Planter,8.0,11.69,Active,New,SAG03,25
+AG-10330,Toro air filter,Mower,26.94,38.43,Active,New,SAG06,1
+AG-10331,Toro sickle section,Combine,26.9,40.31,Active,New,SAG04,1
+AG-10332,Case IH feeder chain,Combine,745.14,1056.34,Active,New,SAG05,1
+AG-10333,Kinze impeller,Snow,30.69,45.07,Active,New,SAG03,1
+AG-10334,Kinze impeller,Snow,462.84,675.18,Active,New,SAG05,1
+AG-10335,Kubota seed disc opener,Planter,18.22,25.66,Active,New,SAG03,5
+AG-10336,New Holland rasp bar,Combine,13.89,23.33,Active,New,SAG07,10
+AG-10337,Kinze seed disc opener,Planter,8.0,11.12,Active,New,SAG04,25
+AG-10338,Toro feeder chain,Combine,864.96,1498.38,Active,New,SAG09,1
+AG-10339,New Holland closing wheel,Planter,10.65,16.88,Active,New,SAG11,1
+AG-10340,John Deere concave,Combine,24.3,41.06,Active,New,SAG09,1
+AG-10341,Kinze deck blade,Mower,34.11,56.83,Active,New,SAG11,1
+AG-10342,Kinze drive belt,Mower,395.29,551.7,Active,New,SAG04,1
+AG-10343,New Holland gauge wheel arm,Planter,82.79,129.59,Active,New,SAG09,1
+AG-10344,Kinze deck idler pulley,Mower,125.52,225.23,Active,New,SAG04,1
+AG-10345,New Holland hydraulic filter,Tractor,490.61,753.99,Active,New,SAG02,1
+AG-10346,Kubota steering cylinder,Tractor,45.14,63.24,Active,New,SAG06,1
+AG-10347,Case IH fuel pump,Tractor,71.11,124.89,Active,New,SAG04,25
+AG-10348,Toro PTO seal kit,Tractor,603.91,872.13,Active,New,SAG06,1
+AG-10349,Kubota gauge wheel arm,Planter,8.0,13.72,Active,New,SAG07,2
+AG-10350,Case IH seed tube,Planter,22.16,35.46,Active,New,SAG07,5
+AG-10351,Kinze impeller,Snow,20.05,34.55,Active,New,SAG01,2
+AG-10352,Kinze deck idler pulley,Mower,147.21,205.78,Active,New,SAG07,25
+AG-10353,Case IH deck idler pulley,Mower,25.18,36.15,Active,New,SAG03,2
+AG-10354,Kubota PTO seal kit,Tractor,177.51,258.39,Active,New,SAG02,1
+AG-10355,Case IH feeder chain,Combine,179.6,268.07,Active,New,SAG02,1
+AG-10356,Case IH concave,Combine,11.52,16.93,Active,New,SAG05,1
+AG-10357,New Holland auger shear pin,Snow,591.34,891.35,Active,New,SAG09,1
+AG-10358,Case IH PTO seal kit,Tractor,250.8,426.1,Active,New,SAG01,1
+AG-10359,Case IH spindle assembly,Mower,68.69,118.34,Active,New,SAG11,1
+AG-10360,New Holland seed disc opener,Planter,8.0,11.84,Active,New,SAG01,10
+AG-10361,New Holland impeller,Snow,8.34,12.29,Active,New,SAG02,10
+AG-10362,Toro fuel pump,Tractor,190.17,257.84,Active,New,SAG10,1
+AG-10363,Toro skid shoe,Snow,624.15,980.05,Active,New,SAG02,1
+AG-10364,Toro deck blade,Mower,11.73,19.08,Active,New,SAG02,1
+AG-10365,Toro deck blade,Mower,127.22,220.84,Active,New,SAG10,10
+AG-10366,New Holland PTO seal kit,Tractor,95.42,146.41,Active,New,SAG01,5
+AG-10367,Case IH auger shear pin,Snow,197.09,305.1,Active,New,SAG06,1
+AG-10368,John Deere sickle section,Combine,64.83,112.22,Active,New,SAG01,1
+AG-10369,Kinze sickle section,Combine,243.88,396.61,Active,New,SAG07,1
+AG-10370,Kubota steering cylinder,Tractor,81.11,143.26,Active,New,SAG02,10
+AG-10371,Kinze rasp bar,Combine,303.23,437.73,Active,New,SAG08,1
+AG-10372,Kinze steering cylinder,Tractor,787.04,1331.33,Active,New,SAG07,1
+AG-10373,Kinze seed disc opener,Planter,11.58,16.73,Active,New,SAG02,1
+AG-10374,Case IH deck idler pulley,Mower,395.6,675.42,Active,New,SAG03,1
+AG-10375,New Holland closing wheel,Planter,266.47,406.97,Active,New,SAG02,1
+AG-10376,Case IH fuel pump,Tractor,18.33,31.12,Active,New,SAG10,2
+AG-10377,Kinze closing wheel,Planter,8.0,14.25,Active,New,SAG04,1
+AG-10378,Toro drive belt,Snow,24.31,41.82,Active,New,SAG02,2
+AG-10379,John Deere rotor flight,Combine,29.51,50.79,Active,New,SAG09,1
+AG-10380,New Holland rasp bar,Combine,26.55,40.83,Active,New,SAG11,1
+AG-10381,John Deere seed disc opener,Planter,240.19,334.44,Active,New,SAG02,1
+AG-10382,Kubota steering cylinder,Tractor,11.99,19.46,Active,New,SAG10,25
+AG-10383,Toro drive belt,Snow,8.0,10.84,Active,New,SAG00,1
+AG-10384,Case IH hydraulic filter,Tractor,72.38,117.3,Active,New,SAG04,1
+AG-10385,John Deere fuel pump,Tractor,65.76,91.94,Active,New,SAG00,25
+AG-10386,Toro drive belt,Snow,38.59,53.32,Active,New,SAG00,5
+AG-10387,Case IH hydraulic filter,Tractor,30.36,41.03,Active,New,SAG08,2
+AG-10388,John Deere rotor flight,Combine,133.09,191.0,Active,New,SAG04,1
+AG-10389,Case IH scraper bar,Snow,20.33,36.08,Active,New,SAG09,10
+AG-10390,Kubota hydraulic filter,Tractor,44.24,71.13,Active,New,SAG10,10
+AG-10391,Kinze spindle assembly,Mower,176.03,290.6,Active,New,SAG07,1
+AG-10392,Kubota impeller,Snow,15.35,22.24,Active,New,SAG07,25
+AG-10393,Case IH deck blade,Mower,134.19,204.9,Active,New,SAG04,25
+AG-10394,Kinze skid shoe,Snow,888.73,1293.83,Active,New,SAG03,1
+AG-10395,Kubota impeller,Snow,817.23,1276.18,Active,New,SAG02,1
+AG-10396,John Deere gauge wheel arm,Planter,139.36,240.37,Active,New,SAG08,1
+AG-10397,Case IH deck blade,Mower,56.99,78.49,Active,New,SAG10,10
+AG-10398,Kinze auger shear pin,Snow,39.22,66.88,Active,New,SAG05,10
+AG-10399,Case IH scraper bar,Snow,613.03,897.04,Active,New,SAG00,1
+AG-10400,Toro deck blade,Mower,69.04,112.49,Active,New,SAG08,1
+AG-10401,John Deere steering cylinder,Tractor,38.11,53.48,Active,New,SAG08,25
+AG-10402,Kubota closing wheel,Planter,146.32,203.4,Active,New,SAG03,5
+AG-10403,Kubota closing wheel,Planter,227.17,393.21,Active,New,SAG11,1
+AG-10404,Kubota drive belt,Mower,675.34,1188.96,Active,New,SAG04,1
+AG-10405,John Deere PTO seal kit,Tractor,447.6,767.0,Active,New,SAG02,1
+AG-10406,Case IH air filter,Mower,94.97,167.27,Active,New,SAG11,2
+AG-10407,Case IH rasp bar,Combine,24.25,36.93,Active,New,SAG04,5
+AG-10408,Kubota steering cylinder,Tractor,219.83,340.3,Active,New,SAG10,1
+AG-10409,Kubota meter drive chain,Planter,803.64,1172.8,Active,New,SAG05,1
+AG-10410,Toro seed tube,Planter,109.04,149.9,Active,New,SAG03,1
+AG-10411,Kinze meter drive chain,Planter,99.27,148.96,Active,New,SAG07,10
+AG-10412,Kinze skid shoe,Snow,231.68,327.95,Active,New,SAG08,1
+AG-10413,Kinze concave,Combine,14.82,20.99,Active,New,SAG04,10
+AG-10414,Kinze impeller,Snow,186.42,291.47,Active,New,SAG08,1
+AG-10415,Case IH hydraulic filter,Tractor,16.78,23.52,Active,New,SAG00,25
+AG-10416,Kubota deck blade,Mower,37.47,62.19,Active,New,SAG06,1
+AG-10417,Kubota deck idler pulley,Mower,200.7,356.14,Active,New,SAG03,1
+AG-10418,Case IH impeller,Snow,46.6,70.79,Active,New,SAG05,1
+AG-10419,Case IH feeder chain,Combine,15.67,23.45,Active,New,SAG01,2
+AG-10420,Kubota seed tube,Planter,8.0,13.73,Active,New,SAG07,25
+AG-10421,Case IH seed disc opener,Planter,142.18,221.69,Active,New,SAG02,1
+AG-10422,Kubota PTO seal kit,Tractor,8.0,12.34,Active,New,SAG08,1
+AG-10423,Case IH concave,Combine,12.68,20.18,Active,New,SAG00,1
+AG-10424,John Deere deck idler pulley,Mower,92.95,148.37,Active,New,SAG03,1
+AG-10425,Kubota scraper bar,Snow,109.89,191.51,Active,New,SAG11,10
+AG-10426,Toro drive belt,Mower,49.48,70.21,Active,New,SAG01,5
+AG-10427,Kinze steering cylinder,Tractor,8.0,12.51,Active,New,SAG03,10
+AG-10428,Case IH concave,Combine,34.1,49.43,Active,New,SAG00,2
+AG-10429,Toro drive belt,Mower,191.1,312.36,Active,New,SAG05,1
+AG-10430,Toro spindle assembly,Mower,17.39,25.19,Active,New,SAG10,10
+AG-10431,Kinze sickle section,Combine,14.57,20.8,Active,New,SAG06,1
+AG-10432,Toro impeller,Snow,729.18,1099.41,Active,New,SAG01,1
+AG-10433,Toro auger shear pin,Snow,31.72,48.85,Active,New,SAG03,25
+AG-10434,Toro seed disc opener,Planter,325.1,458.68,Active,New,SAG05,1
+AG-10435,Kubota closing wheel,Planter,196.58,293.47,Active,New,SAG00,1
+AG-10436,Toro meter drive chain,Planter,8.0,13.65,Active,New,SAG07,25
+AG-10437,Toro steering cylinder,Tractor,501.4,784.57,Active,New,SAG03,1
+AG-10438,Kinze deck blade,Mower,246.38,366.93,Active,New,SAG04,1
+AG-10439,New Holland rasp bar,Combine,586.44,902.95,Active,New,SAG00,1
+AG-10440,Toro skid shoe,Snow,114.65,181.15,Active,New,SAG04,1
+AG-10441,Kubota impeller,Snow,474.75,778.09,Active,New,SAG11,1
+AG-10442,John Deere air filter,Mower,328.66,566.06,Active,New,SAG00,1
+AG-10443,New Holland spindle assembly,Mower,121.05,177.29,Active,New,SAG03,1
+AG-10444,Kubota steering cylinder,Tractor,49.87,86.2,Active,New,SAG11,2
+AG-10445,Kinze feeder chain,Combine,47.15,71.83,Active,New,SAG11,2
+AG-10446,Kinze seed disc opener,Planter,33.04,48.08,Active,New,SAG11,5
+AG-10447,New Holland deck idler pulley,Mower,9.4,16.15,Active,New,SAG04,25
+AG-10448,Toro sickle section,Combine,72.42,109.89,Active,New,SAG08,10
+AG-10449,Kinze deck idler pulley,Mower,23.59,33.84,Active,New,SAG00,1
+AG-10450,Case IH deck blade,Mower,40.61,62.69,Active,New,SAG03,1
+AG-10451,Case IH spindle assembly,Mower,120.43,178.59,Active,New,SAG07,25
+AG-10452,New Holland fan belt,Tractor,728.35,1065.11,Active,New,SAG11,1
+AG-10453,Toro PTO seal kit,Tractor,10.48,16.31,Active,New,SAG04,2
+AG-10454,Kinze deck blade,Mower,8.0,14.1,Active,New,SAG11,1
+AG-10455,New Holland air filter,Mower,220.46,343.9,Active,New,SAG04,1
+AG-10456,Kinze seed disc opener,Planter,121.09,174.97,Active,New,SAG00,25
+AG-10457,Toro fan belt,Tractor,219.07,340.04,Active,New,SAG11,1
+AG-10458,New Holland auger shear pin,Snow,8.0,13.66,Active,New,SAG04,25
+AG-10459,Toro fuel pump,Tractor,167.66,227.06,Active,New,SAG04,1
+AG-10460,John Deere meter drive chain,Planter,129.95,218.24,Active,New,SAG08,1
+AG-10461,John Deere meter drive chain,Planter,104.0,170.58,Active,New,SAG09,1
+AG-10462,John Deere concave,Combine,77.54,108.57,Active,New,SAG11,1
+AG-10463,Kubota deck blade,Mower,72.42,112.5,Active,New,SAG06,1
+AG-10464,Toro meter drive chain,Planter,27.22,47.48,Active,New,SAG07,25
+AG-10465,Case IH deck blade,Mower,339.9,523.62,Active,New,SAG08,1
+AG-10466,Kinze scraper bar,Snow,9.4,12.81,Active,New,SAG09,10
+AG-10467,Case IH concave,Combine,160.3,279.47,Active,New,SAG09,1
+AG-10468,Case IH feeder chain,Combine,45.92,69.1,Active,New,SAG06,2
+AG-10469,Kubota fan belt,Tractor,11.44,16.19,Active,New,SAG07,25
+AG-10470,New Holland rotor flight,Combine,275.95,414.52,Active,New,SAG04,1
+AG-10471,New Holland PTO seal kit,Tractor,852.25,1474.18,Active,New,SAG08,1
+AG-10472,Kubota sickle section,Combine,8.0,12.88,Active,New,SAG07,2
+AG-10473,Toro skid shoe,Snow,9.09,14.96,Active,New,SAG02,10
+AG-10474,Kinze drive belt,Mower,141.64,230.0,Active,New,SAG11,1
+AG-10475,Kubota meter drive chain,Planter,36.82,63.82,Active,New,SAG00,1
+AG-10476,Kinze gauge wheel arm,Planter,40.45,65.51,Active,New,SAG07,2
+AG-10477,John Deere meter drive chain,Planter,11.1,18.47,Active,New,SAG01,1
+AG-10478,John Deere drive belt,Mower,8.13,13.75,Active,New,SAG07,5
+AG-10479,Toro deck blade,Mower,12.34,20.96,Active,New,SAG01,5
+AG-10480,John Deere drive belt,Mower,19.04,29.96,Active,New,SAG09,1
+AG-10481,Kubota deck blade,Mower,388.89,545.24,Active,New,SAG11,1
+AG-10482,New Holland seed tube,Planter,8.0,11.06,Active,New,SAG03,1
+AG-10483,Kinze impeller,Snow,769.92,1220.55,Active,New,SAG07,1
+AG-10484,New Holland rotor flight,Combine,740.47,1249.61,Active,New,SAG07,1
+AG-10485,John Deere deck blade,Mower,753.45,1052.62,Active,New,SAG05,1
+AG-10486,Case IH skid shoe,Snow,610.72,1000.41,Active,New,SAG01,1
+AG-10487,New Holland fuel pump,Tractor,73.22,122.08,Active,New,SAG09,25
+AG-10488,New Holland PTO seal kit,Tractor,26.61,38.73,Active,New,SAG00,1
+AG-10489,Toro rasp bar,Combine,82.54,137.67,Active,New,SAG06,1
+AG-10490,New Holland fuel pump,Tractor,166.73,234.32,Active,New,SAG03,1
+AG-10491,Case IH fan belt,Tractor,426.75,759.33,Active,New,SAG06,1
+AG-10492,New Holland closing wheel,Planter,153.0,225.31,Active,New,SAG09,1
+AG-10493,John Deere feeder chain,Combine,8.79,15.22,Active,New,SAG09,1
+AG-10494,Kubota concave,Combine,8.0,13.57,Active,New,SAG05,10
+AG-10495,Kubota auger shear pin,Snow,51.96,71.87,Active,New,SAG10,5
+AG-10496,New Holland impeller,Snow,19.69,30.61,Active,New,SAG03,10
+AG-10497,John Deere meter drive chain,Planter,15.97,25.07,Active,New,SAG09,1
+AG-10498,Kinze concave,Combine,8.0,14.25,Active,New,SAG03,25
+AG-10499,John Deere steering cylinder,Tractor,36.93,63.54,Active,New,SAG01,1
+AG-10500,Case IH gauge wheel arm,Planter,539.17,864.12,Active,New,SAG03,1
+AG-10501,Case IH air filter,Mower,239.62,350.5,Active,New,SAG10,1
+AG-10502,Kubota spindle assembly,Mower,11.22,18.36,Active,New,SAG05,25
+AG-10503,Kubota concave,Combine,221.75,330.26,Active,New,SAG05,1
+AG-10504,John Deere skid shoe,Snow,44.02,69.95,Active,New,SAG08,1
+AG-10505,Kubota sickle section,Combine,94.44,127.68,Active,New,SAG06,5
+AG-10506,Kubota steering cylinder,Tractor,581.88,893.59,Active,New,SAG02,1
+AG-10507,Toro deck blade,Mower,9.22,13.31,Active,New,SAG03,2
+AG-10508,Case IH seed disc opener,Planter,46.33,68.37,Active,New,SAG06,1
+AG-10509,Toro meter drive chain,Planter,812.89,1299.74,Active,New,SAG09,1
+AG-10510,Case IH skid shoe,Snow,10.37,14.17,Active,New,SAG07,1
+AG-10511,New Holland fan belt,Tractor,187.25,300.14,Active,New,SAG07,1
+AG-10512,Kinze rotor flight,Combine,470.98,661.86,Active,New,SAG10,1
+AG-10513,Kinze seed tube,Planter,727.71,1191.03,Active,New,SAG08,1
+AG-10514,Kubota spindle assembly,Mower,255.81,458.1,Active,New,SAG04,1
+AG-10515,New Holland feeder chain,Combine,8.0,13.66,Active,New,SAG10,10
+AG-10516,Kubota seed disc opener,Planter,8.0,14.25,Active,New,SAG01,1
+AG-10517,Toro PTO seal kit,Tractor,9.78,16.1,Active,New,SAG00,1
+AG-10518,New Holland hydraulic filter,Tractor,10.22,14.58,Active,New,SAG03,10
+AG-10519,Toro fuel pump,Tractor,170.92,290.39,Active,New,SAG03,1
+AG-10520,John Deere drive belt,Snow,67.32,98.79,Active,New,SAG07,2
+AG-10521,Kubota steering cylinder,Tractor,26.85,40.97,Active,New,SAG05,1
+AG-10522,Kubota impeller,Snow,30.25,43.24,Active,New,SAG04,5
+AG-10523,Kinze seed tube,Planter,8.0,13.18,Active,New,SAG00,5
+AG-10524,Kinze feeder chain,Combine,201.76,291.25,Active,New,SAG07,1
+AG-10525,Kinze seed disc opener,Planter,39.24,65.85,Active,New,SAG00,1
+AG-10526,New Holland fuel pump,Tractor,66.87,116.24,Active,New,SAG08,1
+AG-10527,Kinze rasp bar,Combine,8.0,14.15,Active,New,SAG03,5
+AG-10528,Case IH skid shoe,Snow,81.36,133.23,Active,New,SAG00,10
+AG-10529,Toro skid shoe,Snow,767.43,1222.15,Active,New,SAG06,1
+AG-10530,John Deere deck blade,Mower,16.01,23.04,Active,New,SAG07,10
+AG-10531,Kinze rasp bar,Combine,26.51,38.86,Active,New,SAG09,1
+AG-10532,New Holland concave,Combine,8.0,12.7,Active,New,SAG00,1
+AG-10533,Case IH rotor flight,Combine,60.37,91.47,Active,New,SAG06,25
+AG-10534,Case IH concave,Combine,168.71,288.92,Active,New,SAG06,1
+AG-10535,John Deere drive belt,Mower,142.96,215.98,Active,New,SAG10,25
+AG-10536,Kinze fuel pump,Tractor,120.94,181.62,Active,New,SAG02,5
+AG-10537,Kinze impeller,Snow,16.91,26.28,Active,New,SAG03,10
+AG-10538,Kubota gauge wheel arm,Planter,71.14,106.94,Active,New,SAG08,1
+AG-10539,Toro impeller,Snow,9.11,15.3,Active,New,SAG06,1
+AG-10540,John Deere drive belt,Mower,231.66,342.83,Active,New,SAG05,1
+AG-10541,Case IH gauge wheel arm,Planter,188.94,306.03,Active,New,SAG02,1
+AG-10542,Case IH air filter,Mower,74.08,105.84,Active,New,SAG08,1
+AG-10543,New Holland fan belt,Tractor,298.74,503.51,Active,New,SAG09,1
+AG-10544,Toro hydraulic filter,Tractor,113.18,166.82,Active,New,SAG11,1
+AG-10545,Toro feeder chain,Combine,42.5,65.06,Active,New,SAG10,1
+AG-10546,Kubota feeder chain,Combine,871.02,1302.23,Active,New,SAG10,1
+AG-10547,Toro sickle section,Combine,362.43,569.59,Active,New,SAG09,1
+AG-10548,Kinze drive belt,Mower,173.72,243.54,Active,New,SAG08,1
+AG-10549,New Holland steering cylinder,Tractor,11.8,16.08,Active,New,SAG08,1
+AG-10550,Case IH concave,Combine,8.62,14.4,Active,New,SAG00,25
+AG-10551,New Holland drive belt,Mower,26.5,39.66,Active,New,SAG08,2
+AG-10552,John Deere meter drive chain,Planter,167.44,263.64,Active,New,SAG08,1
+AG-10553,John Deere feeder chain,Combine,12.37,21.01,Active,New,SAG06,1
+AG-10554,John Deere air filter,Mower,28.81,43.67,Active,New,SAG06,10
+AG-10555,Kubota deck idler pulley,Mower,81.94,123.58,Active,New,SAG11,5
+AG-10556,Kinze auger shear pin,Snow,118.01,199.39,Active,New,SAG01,25
+AG-10557,Toro gauge wheel arm,Planter,24.17,41.59,Active,New,SAG05,1
+AG-10558,Kinze seed disc opener,Planter,230.12,395.47,Active,New,SAG10,1
+AG-10559,Kubota feeder chain,Combine,11.59,17.79,Active,New,SAG11,5
+AG-10560,John Deere concave,Combine,8.0,12.99,Active,New,SAG08,1
+AG-10561,John Deere drive belt,Snow,66.29,109.13,Active,New,SAG01,25
+AG-10562,Kinze feeder chain,Combine,40.59,71.54,Active,New,SAG04,1
+AG-10563,Kubota feeder chain,Combine,42.57,61.58,Active,New,SAG09,5
+AG-10564,Case IH hydraulic filter,Tractor,11.66,15.81,Active,New,SAG06,5
+AG-10565,Kinze sickle section,Combine,16.93,23.45,Active,New,SAG02,1
+AG-10566,Kinze deck blade,Mower,255.08,356.63,Active,New,SAG11,1
+AG-10567,Toro fuel pump,Tractor,14.74,25.53,Active,New,SAG00,5
+AG-10568,New Holland seed disc opener,Planter,80.96,122.8,Active,New,SAG11,5
+AG-10569,Case IH hydraulic filter,Tractor,32.16,54.9,Active,New,SAG11,5
+AG-10570,New Holland drive belt,Mower,83.84,114.18,Active,New,SAG05,1
+AG-10571,Case IH sickle section,Combine,8.0,14.3,Active,New,SAG09,25
+AG-10572,Toro deck idler pulley,Mower,479.17,753.15,Active,New,SAG05,1
+AG-10573,John Deere feeder chain,Combine,89.52,123.93,Active,New,SAG03,1
+AG-10574,Kubota gauge wheel arm,Planter,42.84,61.06,Active,New,SAG10,10
+AG-10575,Toro rotor flight,Combine,68.91,120.51,Active,New,SAG06,1
+AG-10576,Toro deck idler pulley,Mower,814.94,1131.2,Active,New,SAG11,1
+AG-10577,Case IH deck idler pulley,Mower,8.0,10.96,Active,New,SAG06,25
+AG-10578,Toro rotor flight,Combine,34.93,50.59,Active,New,SAG02,1
+AG-10579,Kinze scraper bar,Snow,87.16,136.65,Active,New,SAG07,1
+AG-10580,Toro rasp bar,Combine,145.33,260.25,Active,New,SAG01,1
+AG-10581,Case IH skid shoe,Snow,12.88,18.17,Active,New,SAG07,1
+AG-10582,Kubota auger shear pin,Snow,16.29,24.95,Active,New,SAG05,25
+AG-10583,New Holland deck blade,Mower,38.5,56.73,Active,New,SAG04,5
+AG-10584,Toro concave,Combine,585.65,1005.9,Active,New,SAG10,1
+AG-10585,Toro gauge wheel arm,Planter,8.0,13.51,Active,New,SAG00,1
+AG-10586,New Holland auger shear pin,Snow,23.21,37.95,Active,New,SAG09,1
+AG-10587,John Deere scraper bar,Snow,222.64,327.01,Active,New,SAG05,1
+AG-10588,Kinze sickle section,Combine,91.23,128.65,Active,New,SAG07,1
+AG-10589,New Holland meter drive chain,Planter,678.08,991.64,Active,New,SAG06,1
+AG-10590,Kinze feeder chain,Combine,116.37,163.22,Active,New,SAG10,5
+AG-10591,John Deere feeder chain,Combine,23.42,38.69,Active,New,SAG11,1
+AG-10592,John Deere drive belt,Mower,186.67,280.35,Active,New,SAG09,1
+AG-10593,Kinze drive belt,Snow,8.0,12.34,Active,New,SAG06,1
+AG-10594,Kinze auger shear pin,Snow,40.26,66.42,Active,New,SAG00,1
+AG-10595,Toro rasp bar,Combine,58.9,87.52,Active,New,SAG09,25
+AG-10596,New Holland rasp bar,Combine,81.47,111.29,Active,New,SAG03,5
+AG-10597,Case IH seed tube,Planter,8.0,14.11,Active,New,SAG10,1
+AG-10598,John Deere scraper bar,Snow,107.52,153.57,Active,New,SAG09,1
+AG-10599,Case IH deck idler pulley,Mower,37.19,64.17,Active,New,SAG11,2
+AG-10600,Toro feeder chain,Combine,81.23,121.08,Active,New,SAG07,1
+AG-10601,Kinze drive belt,Snow,8.0,13.82,Active,New,SAG03,1
+AG-10602,New Holland seed tube,Planter,76.89,113.8,Active,New,SAG09,1
+AG-10603,Kinze sickle section,Combine,28.15,48.07,Active,New,SAG06,2
+AG-10604,Toro closing wheel,Planter,10.94,16.49,Active,New,SAG06,1
+AG-10605,Kubota seed disc opener,Planter,99.68,176.56,Active,New,SAG04,5
+AG-10606,Kubota skid shoe,Snow,548.21,962.46,Active,New,SAG10,1
+AG-10607,Toro steering cylinder,Tractor,56.38,83.18,Active,New,SAG10,1
+AG-10608,John Deere fuel pump,Tractor,385.98,668.58,Active,New,SAG00,1
+AG-10609,John Deere impeller,Snow,13.22,23.45,Active,New,SAG01,2
+AG-10610,Toro closing wheel,Planter,86.83,127.99,Active,New,SAG03,5
+AG-10611,Toro seed disc opener,Planter,163.4,283.54,Active,New,SAG11,1
+AG-10612,New Holland closing wheel,Planter,8.0,12.53,Active,New,SAG03,1
+AG-10613,New Holland scraper bar,Snow,52.57,90.34,Active,New,SAG00,10
+AG-10614,Case IH seed disc opener,Planter,264.12,427.39,Active,New,SAG07,1
+AG-10615,Toro PTO seal kit,Tractor,12.62,17.76,Active,New,SAG01,10
+AG-10616,Case IH impeller,Snow,139.52,207.56,Active,New,SAG04,1
+AG-10617,Kinze rasp bar,Combine,89.22,129.08,Active,New,SAG01,2
+AG-10618,Kinze impeller,Snow,9.96,14.33,Active,New,SAG05,1
+AG-10619,John Deere rotor flight,Combine,8.0,13.87,Active,New,SAG00,2
+AG-10620,Case IH closing wheel,Planter,81.34,124.97,Active,New,SAG09,1
+AG-10621,New Holland gauge wheel arm,Planter,117.11,200.84,Active,New,SAG07,1
+AG-10622,Kubota auger shear pin,Snow,315.38,554.79,Active,New,SAG07,1
+AG-10623,Case IH gauge wheel arm,Planter,37.44,58.41,Active,New,SAG09,1
+AG-10624,New Holland impeller,Snow,8.23,12.29,Active,New,SAG09,1
+AG-10625,Case IH rotor flight,Combine,128.85,203.37,Active,New,SAG00,10
+AG-10626,Kubota air filter,Mower,50.25,76.58,Active,New,SAG05,1
+AG-10627,Case IH steering cylinder,Tractor,8.0,14.08,Active,New,SAG02,25
+AG-10628,New Holland feeder chain,Combine,10.97,18.24,Active,New,SAG10,1
+AG-10629,Case IH deck idler pulley,Mower,56.67,87.0,Active,New,SAG04,10
+AG-10630,John Deere skid shoe,Snow,20.42,32.61,Active,New,SAG00,1
+AG-10631,Case IH deck idler pulley,Mower,35.38,54.92,Active,New,SAG09,2
+AG-10632,John Deere closing wheel,Planter,494.32,732.61,Active,New,SAG08,1
+AG-10633,Kinze scraper bar,Snow,64.74,100.53,Active,New,SAG00,1
+AG-10634,Kubota fuel pump,Tractor,12.33,20.74,Active,New,SAG10,1
+AG-10635,Kinze closing wheel,Planter,8.92,13.24,Active,New,SAG03,1
+AG-10636,Kinze feeder chain,Combine,38.61,57.26,Active,New,SAG01,1
+AG-10637,Toro deck blade,Mower,104.21,162.91,Active,New,SAG09,10
+AG-10638,Toro rasp bar,Combine,8.41,12.67,Active,New,SAG07,25
+AG-10639,Kubota fan belt,Tractor,57.29,88.31,Active,New,SAG00,25
+AG-10640,Case IH skid shoe,Snow,18.74,33.11,Active,New,SAG00,1
+AG-10641,New Holland PTO seal kit,Tractor,209.63,312.19,Active,New,SAG02,1
+AG-10642,John Deere auger shear pin,Snow,348.46,535.39,Active,New,SAG03,1
+AG-10643,Kinze scraper bar,Snow,311.86,552.03,Active,New,SAG08,1
+AG-10644,John Deere rotor flight,Combine,11.11,17.33,Active,New,SAG01,10
+AG-10645,Toro auger shear pin,Snow,26.22,45.01,Active,New,SAG11,1
+AG-10646,Toro fuel pump,Tractor,42.69,61.85,Active,New,SAG08,1
+AG-10647,Kubota drive belt,Snow,365.52,525.25,Active,New,SAG04,1
+AG-10648,Toro drive belt,Snow,133.01,226.16,Active,New,SAG00,5
+AG-10649,New Holland drive belt,Snow,10.39,18.53,Active,New,SAG10,10
+AG-10650,New Holland drive belt,Mower,80.09,114.13,Active,New,SAG11,2
+AG-10651,Toro gauge wheel arm,Planter,8.0,13.71,Active,New,SAG11,5
+AG-10652,New Holland auger shear pin,Snow,83.71,127.27,Active,New,SAG02,1
+AG-10653,Case IH fuel pump,Tractor,64.67,113.16,Active,New,SAG00,1
+AG-10654,Kinze seed tube,Planter,86.55,142.02,Active,New,SAG05,1
+AG-10655,Kubota seed disc opener,Planter,17.4,29.91,Active,New,SAG11,1
+AG-10656,Kubota rotor flight,Combine,8.0,12.21,Active,New,SAG04,1
+AG-10657,Kinze impeller,Snow,311.41,429.49,Active,New,SAG05,1
+AG-10658,New Holland gauge wheel arm,Planter,69.48,97.4,Active,New,SAG05,1
+AG-10659,John Deere hydraulic filter,Tractor,362.73,601.57,Active,New,SAG08,1
+AG-10660,Kubota steering cylinder,Tractor,10.43,18.45,Active,New,SAG04,1
+AG-10661,Kubota scraper bar,Snow,18.27,28.86,Active,New,SAG07,1
+AG-10662,New Holland auger shear pin,Snow,622.47,908.76,Active,New,SAG01,1
+AG-10663,John Deere feeder chain,Combine,42.36,65.94,Active,New,SAG10,1
+AG-10664,John Deere closing wheel,Planter,260.63,446.78,Active,New,SAG01,1
+AG-10665,Case IH sickle section,Combine,12.5,21.03,Active,New,SAG07,1
+AG-10666,New Holland rotor flight,Combine,293.08,431.31,Active,New,SAG00,1
+AG-10667,John Deere steering cylinder,Tractor,383.33,619.77,Active,New,SAG09,1
+AG-10668,Toro seed disc opener,Planter,23.02,31.78,Active,New,SAG03,1
+AG-10669,Kubota auger shear pin,Snow,529.81,803.5,Active,New,SAG04,1
+AG-10670,Toro rasp bar,Combine,17.69,24.38,Active,New,SAG04,2
+AG-10671,New Holland meter drive chain,Planter,31.47,44.18,Active,New,SAG08,1
+AG-10672,Kubota sickle section,Combine,22.01,31.33,Active,New,SAG07,1
+AG-10673,Kinze skid shoe,Snow,40.21,56.12,Active,New,SAG04,10
+AG-10674,Toro seed tube,Planter,8.0,12.44,Active,New,SAG02,1
+AG-10675,John Deere fan belt,Tractor,110.07,183.77,Active,New,SAG03,10
+AG-10676,New Holland steering cylinder,Tractor,57.38,100.01,Active,New,SAG04,10
+AG-10677,Kubota deck blade,Mower,9.5,14.86,Active,New,SAG02,5
+AG-10678,New Holland fuel pump,Tractor,8.0,13.31,Active,New,SAG11,5
+AG-10679,New Holland spindle assembly,Mower,110.24,160.29,Active,New,SAG01,1
+AG-10680,John Deere impeller,Snow,165.71,248.4,Active,New,SAG05,1
+AG-10681,John Deere meter drive chain,Planter,39.95,65.99,Active,New,SAG03,1
+AG-10682,Kinze drive belt,Snow,14.2,21.35,Active,New,SAG08,2
+AG-10683,John Deere skid shoe,Snow,317.25,431.18,Active,New,SAG11,1
+AG-10684,Case IH spindle assembly,Mower,8.0,11.26,Active,New,SAG11,1
+AG-10685,Case IH seed tube,Planter,115.75,185.77,Active,New,SAG04,1
+AG-10686,Kubota auger shear pin,Snow,12.15,21.06,Active,New,SAG11,25
+AG-10687,Kubota air filter,Mower,281.92,446.59,Active,New,SAG05,1
+AG-10688,Kubota drive belt,Mower,62.7,85.3,Active,New,SAG00,1
+AG-10689,Toro steering cylinder,Tractor,26.01,35.24,Active,New,SAG11,10
+AG-10690,Kinze spindle assembly,Mower,671.79,1167.72,Active,New,SAG03,1
+AG-10691,New Holland seed disc opener,Planter,473.58,829.8,Active,New,SAG01,1
+AG-10692,Case IH deck idler pulley,Mower,8.0,10.9,Active,New,SAG03,2
+AG-10693,Toro drive belt,Snow,182.49,246.86,Active,New,SAG07,1
+AG-10694,Toro rasp bar,Combine,871.74,1427.94,Active,New,SAG02,1
+AG-10695,Kinze fuel pump,Tractor,12.14,21.63,Active,New,SAG11,1
+AG-10696,Case IH PTO seal kit,Tractor,43.15,65.75,Active,New,SAG02,1
+AG-10697,Kubota feeder chain,Combine,687.2,968.2,Active,New,SAG04,1
+AG-10698,New Holland feeder chain,Combine,8.0,13.5,Active,New,SAG09,1
+AG-10699,Toro drive belt,Snow,8.0,11.87,Active,New,SAG01,25
+AG-10700,Case IH impeller,Snow,281.68,464.77,Active,New,SAG04,1
+AG-10701,Case IH impeller,Snow,526.86,812.19,Active,New,SAG02,1
+AG-10702,Kubota feeder chain,Combine,184.0,266.35,Active,New,SAG06,1
+AG-10703,Toro spindle assembly,Mower,15.86,24.62,Active,New,SAG01,1
+AG-10704,New Holland gauge wheel arm,Planter,159.63,249.99,Active,New,SAG09,1
+AG-10705,Toro steering cylinder,Tractor,8.0,12.08,Active,New,SAG09,10
+AG-10706,John Deere closing wheel,Planter,62.1,88.57,Active,New,SAG10,1
+AG-10707,Kubota fuel pump,Tractor,47.91,81.32,Active,New,SAG08,25
+AG-10708,Case IH PTO seal kit,Tractor,45.26,79.4,Active,New,SAG02,1
+AG-10709,Kubota spindle assembly,Mower,608.39,1014.24,Active,New,SAG05,1
+AG-10710,John Deere seed tube,Planter,153.12,250.52,Active,New,SAG11,1
+AG-10711,John Deere fan belt,Tractor,13.51,23.94,Active,New,SAG01,10
+AG-10712,Case IH drive belt,Mower,33.34,53.01,Active,New,SAG05,5
+AG-10713,Case IH meter drive chain,Planter,272.59,381.5,Active,New,SAG02,1
+AG-10714,New Holland impeller,Snow,37.6,56.08,Active,New,SAG03,1
+AG-10715,John Deere drive belt,Snow,261.8,382.14,Active,New,SAG06,1
+AG-10716,New Holland seed tube,Planter,762.9,1205.99,Active,New,SAG03,1
+AG-10717,Toro concave,Combine,127.01,215.6,Active,New,SAG08,1
+AG-10718,New Holland fuel pump,Tractor,376.6,533.26,Active,New,SAG09,1
+AG-10719,Case IH steering cylinder,Tractor,33.51,52.05,Active,New,SAG00,1
+AG-10720,Kinze seed disc opener,Planter,342.24,493.04,Active,New,SAG02,1
+AG-10721,Kinze fuel pump,Tractor,8.0,10.96,Active,New,SAG04,5
+AG-10722,Toro hydraulic filter,Tractor,192.17,284.86,Active,New,SAG08,1
+AG-10723,John Deere steering cylinder,Tractor,835.81,1441.79,Active,New,SAG09,1
+AG-10724,New Holland skid shoe,Snow,397.13,599.48,Active,New,SAG08,1
+AG-10725,Toro auger shear pin,Snow,121.69,170.83,Active,New,SAG02,1
+AG-10726,New Holland hydraulic filter,Tractor,31.63,50.72,Active,New,SAG03,1
+AG-10727,Toro PTO seal kit,Tractor,10.16,16.0,Active,New,SAG07,2
+AG-10728,Case IH gauge wheel arm,Planter,374.3,557.84,Active,New,SAG06,1
+AG-10729,New Holland fan belt,Tractor,849.53,1211.63,Active,New,SAG08,1
+AG-10730,John Deere scraper bar,Snow,50.82,90.56,Active,New,SAG04,1
+AG-10731,New Holland feeder chain,Combine,445.34,668.17,Active,New,SAG04,1
+AG-10732,Case IH impeller,Snow,10.42,16.22,Active,New,SAG05,5
+AG-10733,New Holland drive belt,Mower,531.1,947.0,Active,New,SAG03,1
+AG-10734,Kinze rasp bar,Combine,109.05,190.1,Active,New,SAG05,10
+AG-10735,New Holland hydraulic filter,Tractor,114.68,167.15,Active,New,SAG09,5
+AG-10736,Kinze deck idler pulley,Mower,12.59,21.13,Active,New,SAG11,5
+AG-10737,Kinze air filter,Mower,33.67,51.19,Active,New,SAG10,1
+AG-10738,Kinze deck blade,Mower,115.89,185.43,Active,New,SAG01,10
+AG-10739,Kinze drive belt,Snow,15.39,23.79,Active,New,SAG00,1
+AG-10740,Case IH meter drive chain,Planter,16.34,25.93,Active,New,SAG05,5
+AG-10741,Case IH hydraulic filter,Tractor,327.54,475.58,Active,New,SAG11,1
+AG-10742,Toro PTO seal kit,Tractor,150.16,218.58,Active,New,SAG04,1
+AG-10743,John Deere skid shoe,Snow,20.4,28.68,Active,New,SAG00,1
+AG-10744,Toro sickle section,Combine,51.89,82.97,Active,New,SAG09,10
+AG-10745,Kubota rasp bar,Combine,51.89,85.64,Active,New,SAG02,25
+AG-10746,Case IH skid shoe,Snow,200.16,359.08,Active,New,SAG03,1
+AG-10747,New Holland auger shear pin,Snow,31.87,48.74,Active,New,SAG04,2
+AG-10748,Kubota rotor flight,Combine,25.94,44.25,Active,New,SAG03,2
+AG-10749,Toro concave,Combine,19.08,26.53,Active,New,SAG01,25
+AG-10750,Toro deck idler pulley,Mower,8.0,14.23,Active,New,SAG07,1
+AG-10751,New Holland air filter,Mower,13.17,21.48,Active,New,SAG08,1
+AG-10752,Kinze deck blade,Mower,386.18,629.54,Active,New,SAG00,1
+AG-10753,Kinze closing wheel,Planter,11.17,15.61,Active,New,SAG08,5
+AG-10754,Kubota fan belt,Tractor,9.41,15.45,Active,New,SAG02,1
+AG-10755,Case IH deck blade,Mower,14.66,25.89,Active,New,SAG09,1
+AG-10756,Toro meter drive chain,Planter,17.17,27.09,Active,New,SAG06,1
+AG-10757,Kubota auger shear pin,Snow,64.32,113.46,Active,New,SAG06,1
+AG-10758,John Deere rasp bar,Combine,122.74,186.74,Active,New,SAG06,5
+AG-10759,Kubota hydraulic filter,Tractor,8.0,14.05,Active,New,SAG11,1
+AG-10760,Case IH sickle section,Combine,20.94,33.0,Active,New,SAG07,25
+AG-10761,New Holland fan belt,Tractor,647.47,882.24,Active,New,SAG00,1
+AG-10762,New Holland spindle assembly,Mower,8.01,13.56,Active,New,SAG09,10
+AG-10763,New Holland air filter,Mower,241.39,416.93,Active,New,SAG07,1
+AG-10764,Toro meter drive chain,Planter,81.1,138.18,Active,New,SAG02,1
+AG-10765,Kinze deck blade,Mower,111.38,196.63,Active,New,SAG06,1
+AG-10766,Kubota seed disc opener,Planter,110.42,182.66,Active,New,SAG02,1
+AG-10767,Toro PTO seal kit,Tractor,322.43,468.06,Active,New,SAG09,1
+AG-10768,Kubota seed disc opener,Planter,75.1,114.42,Active,New,SAG07,25
+AG-10769,Toro drive belt,Snow,30.11,53.98,Active,New,SAG06,1
+AG-10770,New Holland fuel pump,Tractor,12.98,19.06,Active,New,SAG00,25
+AG-10771,New Holland air filter,Mower,41.43,63.51,Active,New,SAG00,1
+AG-10772,Kubota deck blade,Mower,99.36,168.47,Active,New,SAG06,1
+AG-10773,Toro rasp bar,Combine,579.7,822.87,Active,New,SAG04,1
+AG-10774,John Deere gauge wheel arm,Planter,677.77,931.44,Active,New,SAG07,1
+AG-10775,Kinze seed tube,Planter,65.94,90.53,Active,New,SAG02,2
+AG-10776,John Deere scraper bar,Snow,53.2,78.66,Active,New,SAG11,10
+AG-10777,John Deere feeder chain,Combine,69.15,119.76,Active,New,SAG03,1
+AG-10778,John Deere concave,Combine,44.37,66.76,Active,New,SAG02,5
+AG-10779,New Holland scraper bar,Snow,504.24,788.61,Active,New,SAG08,1
+AG-10780,Kubota deck blade,Mower,59.06,105.63,Active,New,SAG09,2
+AG-10781,John Deere seed disc opener,Planter,582.13,989.09,Active,New,SAG07,1
+AG-10782,Kinze air filter,Mower,177.25,299.47,Active,New,SAG06,1
+AG-10783,Kinze seed disc opener,Planter,54.39,74.89,Active,New,SAG06,10
+AG-10784,Case IH drive belt,Mower,422.11,653.19,Active,New,SAG00,1
+AG-10785,John Deere closing wheel,Planter,77.19,118.96,Active,New,SAG08,2
+AG-10786,Kinze gauge wheel arm,Planter,91.4,128.79,Active,New,SAG00,10
+AG-10787,Toro impeller,Snow,42.18,59.51,Active,New,SAG11,5
+AG-10788,Case IH deck idler pulley,Mower,8.0,14.36,Active,New,SAG04,1
+AG-10789,Case IH PTO seal kit,Tractor,717.92,1251.97,Active,New,SAG01,1
+AG-10790,Kinze hydraulic filter,Tractor,8.0,12.54,Active,New,SAG03,1
+AG-10791,Toro feeder chain,Combine,8.0,13.67,Active,New,SAG11,1
+AG-10792,Kubota drive belt,Mower,856.4,1167.1,Active,New,SAG03,1
+AG-10793,Case IH air filter,Mower,226.76,344.27,Active,New,SAG08,1
+AG-10794,Kinze sickle section,Combine,102.73,172.63,Active,New,SAG02,1
+AG-10795,Case IH fan belt,Tractor,794.92,1269.38,Active,New,SAG10,1
+AG-10796,Kinze steering cylinder,Tractor,8.27,12.43,Active,New,SAG00,1
+AG-10797,Kinze deck blade,Mower,91.99,128.07,Active,New,SAG05,1
+AG-10798,Case IH seed tube,Planter,8.54,13.7,Active,New,SAG04,10
+AG-10799,Kinze scraper bar,Snow,14.61,21.79,Active,New,SAG10,5
+AG-10800,Toro fan belt,Tractor,821.65,1431.11,Active,New,SAG11,1
+AG-10801,Kubota gauge wheel arm,Planter,44.01,65.2,Active,New,SAG02,10
+AG-10802,Toro fan belt,Tractor,15.88,24.52,Active,New,SAG01,5
+AG-10803,John Deere drive belt,Mower,169.4,275.98,Active,New,SAG05,1
+AG-10804,New Holland fuel pump,Tractor,453.25,661.8,Active,New,SAG01,1
+AG-10805,Case IH feeder chain,Combine,52.2,90.22,Active,New,SAG01,5
+AG-10806,Case IH gauge wheel arm,Planter,8.0,13.43,Active,New,SAG10,25
+AG-10807,New Holland steering cylinder,Tractor,23.92,34.54,Active,New,SAG06,1
+AG-10808,John Deere feeder chain,Combine,14.04,24.35,Active,New,SAG05,10
+AG-10809,New Holland spindle assembly,Mower,167.0,243.86,Active,New,SAG02,1
+AG-10810,Toro skid shoe,Snow,551.96,972.79,Active,New,SAG07,1
+AG-10811,Kubota auger shear pin,Snow,461.6,707.9,Active,New,SAG01,1
+AG-10812,Case IH air filter,Mower,791.71,1278.79,Active,New,SAG07,1
+AG-10813,New Holland seed disc opener,Planter,516.8,779.68,Active,New,SAG00,1
+AG-10814,John Deere gauge wheel arm,Planter,271.96,478.35,Active,New,SAG08,1
+AG-10815,Kubota deck idler pulley,Mower,9.18,13.85,Active,New,SAG08,25
+AG-10816,Kubota meter drive chain,Planter,9.57,14.2,Active,New,SAG08,25
+AG-10817,New Holland air filter,Mower,50.67,81.28,Active,New,SAG08,1
+AG-10818,John Deere PTO seal kit,Tractor,24.84,34.62,Active,New,SAG04,25
+AG-10819,Toro sickle section,Combine,8.0,13.32,Active,New,SAG00,2
+AG-10820,New Holland auger shear pin,Snow,423.67,707.2,Active,New,SAG07,1
+AG-10821,John Deere deck blade,Mower,75.22,110.59,Active,New,SAG05,1
+AG-10822,Toro scraper bar,Snow,24.02,37.07,Active,New,SAG11,2
+AG-10823,John Deere seed disc opener,Planter,12.95,20.11,Active,New,SAG08,25
+AG-10824,Toro fuel pump,Tractor,201.79,299.75,Active,New,SAG10,1
+AG-10825,New Holland seed tube,Planter,69.26,124.27,Active,New,SAG11,10
+AG-10826,Kinze closing wheel,Planter,33.47,54.27,Active,New,SAG00,2
+AG-10827,John Deere seed tube,Planter,113.88,189.53,Active,New,SAG02,5
+AG-10828,Toro seed disc opener,Planter,120.53,213.95,Active,New,SAG02,1
+AG-10829,Toro skid shoe,Snow,41.34,74.33,Active,New,SAG07,25
+AG-10830,Kinze seed tube,Planter,41.51,63.0,Active,New,SAG02,25
+AG-10831,New Holland drive belt,Snow,111.76,161.61,Active,New,SAG02,1
+AG-10832,John Deere sickle section,Combine,79.86,143.68,Active,New,SAG04,10
+AG-10833,Kubota impeller,Snow,15.54,22.69,Active,New,SAG01,1
+AG-10834,Toro rasp bar,Combine,193.77,338.0,Active,New,SAG08,1
+AG-10835,Toro steering cylinder,Tractor,16.72,29.69,Active,New,SAG10,10
+AG-10836,John Deere fuel pump,Tractor,10.22,15.12,Active,New,SAG04,1
+AG-10837,Toro rasp bar,Combine,12.07,17.2,Active,New,SAG10,25
+AG-10838,Kinze fan belt,Tractor,47.77,79.39,Active,New,SAG01,10
+AG-10839,Kubota rasp bar,Combine,615.23,955.67,Active,New,SAG07,1
+AG-10840,Toro feeder chain,Combine,58.38,93.85,Active,New,SAG02,10
+AG-10841,John Deere drive belt,Snow,27.82,40.7,Active,New,SAG10,1
+AG-10842,Kinze spindle assembly,Mower,8.0,12.39,Active,New,SAG04,2
+AG-10843,Toro impeller,Snow,182.38,261.71,Active,New,SAG04,1
+AG-10844,Case IH steering cylinder,Tractor,382.17,529.74,Active,New,SAG03,1
+AG-10845,Kinze deck blade,Mower,462.58,660.75,Active,New,SAG11,1
+AG-10846,New Holland drive belt,Snow,27.29,46.75,Active,New,SAG11,1
+AG-10847,John Deere drive belt,Snow,310.02,542.42,Active,New,SAG05,1
+AG-10848,John Deere steering cylinder,Tractor,14.8,20.21,Active,New,SAG09,5
+AG-10849,New Holland meter drive chain,Planter,79.57,142.88,Active,New,SAG01,5
+AG-10850,Case IH spindle assembly,Mower,205.77,355.8,Active,New,SAG06,1
+AG-10851,Kubota rasp bar,Combine,105.58,175.22,Active,New,SAG02,10
+AG-10852,Toro deck blade,Mower,122.86,177.82,Active,New,SAG02,25
+AG-10853,John Deere PTO seal kit,Tractor,38.25,56.94,Active,New,SAG05,25
+AG-10854,Kubota scraper bar,Snow,45.35,71.77,Active,New,SAG07,1
+AG-10855,Kinze drive belt,Mower,58.28,103.53,Active,New,SAG11,1
+AG-10856,Kubota concave,Combine,85.85,135.54,Active,New,SAG11,25
+AG-10857,Kinze scraper bar,Snow,35.55,58.45,Active,New,SAG08,1
+AG-10858,New Holland fuel pump,Tractor,280.52,460.78,Active,New,SAG05,1
+AG-10859,John Deere closing wheel,Planter,153.0,258.45,Active,New,SAG01,1
+AG-10860,Toro fan belt,Tractor,131.2,178.16,Active,New,SAG08,25
+AG-10861,Case IH rasp bar,Combine,91.26,163.53,Active,New,SAG02,2
+AG-10862,New Holland impeller,Snow,120.15,212.89,Active,New,SAG00,1
+AG-10863,John Deere gauge wheel arm,Planter,397.0,551.25,Active,New,SAG10,1
+AG-10864,Kubota deck blade,Mower,8.91,14.56,Active,New,SAG11,1
+AG-10865,Kinze rotor flight,Combine,87.29,156.83,Active,New,SAG03,1
+AG-10866,John Deere drive belt,Mower,432.44,740.86,Active,New,SAG06,1
+AG-10867,Case IH air filter,Mower,10.59,15.55,Active,New,SAG10,1
+AG-10868,Toro deck idler pulley,Mower,147.41,225.69,Active,New,SAG00,25
+AG-10869,New Holland auger shear pin,Snow,10.59,14.57,Active,New,SAG08,1
+AG-10870,New Holland sickle section,Combine,13.76,19.65,Active,New,SAG00,1
+AG-10871,Kinze impeller,Snow,249.38,427.75,Active,New,SAG10,1
+AG-10872,New Holland scraper bar,Snow,56.07,94.54,Active,New,SAG00,10
+AG-10873,New Holland auger shear pin,Snow,8.0,11.84,Active,New,SAG10,2
+AG-10874,John Deere rasp bar,Combine,45.98,74.19,Active,New,SAG04,1
+AG-10875,John Deere drive belt,Mower,8.0,10.81,Active,New,SAG02,5
+AG-10876,Case IH sickle section,Combine,19.98,32.57,Active,New,SAG04,2
+AG-10877,John Deere drive belt,Mower,651.01,979.89,Active,New,SAG07,1
+AG-10878,New Holland skid shoe,Snow,49.3,72.93,Active,New,SAG01,25
+AG-10879,New Holland steering cylinder,Tractor,19.32,32.48,Active,New,SAG06,10
+AG-10880,Toro rotor flight,Combine,164.83,263.03,Active,New,SAG05,1
+AG-10881,Kubota rotor flight,Combine,144.34,254.29,Active,New,SAG01,2
+AG-10882,John Deere hydraulic filter,Tractor,155.41,256.51,Active,New,SAG03,1
+AG-10883,New Holland closing wheel,Planter,8.03,11.86,Active,New,SAG04,1
+AG-10884,Kubota seed disc opener,Planter,34.29,50.7,Active,New,SAG02,1
+AG-10885,Toro drive belt,Snow,41.71,74.13,Active,New,SAG06,1
+AG-10886,New Holland spindle assembly,Mower,420.56,683.88,Active,New,SAG03,1
+AG-10887,New Holland spindle assembly,Mower,572.86,997.83,Active,New,SAG10,1
+AG-10888,Kubota air filter,Mower,51.43,87.87,Active,New,SAG07,5
+AG-10889,Kubota concave,Combine,16.68,26.49,Active,New,SAG08,2
+AG-10890,Kinze fan belt,Tractor,92.5,163.13,Active,New,SAG02,1
+AG-10891,John Deere feeder chain,Combine,24.31,40.93,Active,New,SAG02,1
+AG-10892,New Holland gauge wheel arm,Planter,47.64,78.12,Active,New,SAG06,10
+AG-10893,Kinze gauge wheel arm,Planter,50.75,78.74,Active,New,SAG11,1
+AG-10894,New Holland skid shoe,Snow,300.36,452.91,Active,New,SAG11,1
+AG-10895,New Holland fuel pump,Tractor,120.88,169.44,Active,New,SAG09,25
+AG-10896,Kinze rotor flight,Combine,50.75,85.17,Active,New,SAG11,2
+AG-10897,Kinze fuel pump,Tractor,255.24,455.09,Active,New,SAG02,1
+AG-10898,Kinze concave,Combine,340.41,562.93,Active,New,SAG10,1
+AG-10899,Kinze spindle assembly,Mower,578.84,915.27,Active,New,SAG10,1
+AG-10900,Toro feeder chain,Combine,10.35,15.58,Active,New,SAG02,25
+AG-10901,John Deere concave,Combine,38.65,56.01,Active,New,SAG02,1
+AG-10902,Kinze deck blade,Mower,640.92,884.36,Active,New,SAG05,1
+AG-10903,New Holland closing wheel,Planter,8.0,12.22,Active,New,SAG09,1
+AG-10904,John Deere deck idler pulley,Mower,57.68,85.29,Active,New,SAG01,10
+AG-10905,Toro drive belt,Snow,255.03,383.02,Active,New,SAG10,1
+AG-10906,Kubota seed disc opener,Planter,44.68,70.04,Active,New,SAG07,1
+AG-10907,Case IH air filter,Mower,40.53,57.44,Active,New,SAG07,2
+AG-10908,New Holland hydraulic filter,Tractor,775.84,1384.95,Active,New,SAG02,1
+AG-10909,Kubota seed tube,Planter,33.48,47.04,Active,New,SAG08,2
+AG-10910,Kinze deck idler pulley,Mower,341.15,473.65,Active,New,SAG03,1
+AG-10911,New Holland drive belt,Snow,176.93,283.42,Active,New,SAG06,1
+AG-10912,John Deere gauge wheel arm,Planter,708.59,1054.14,Active,New,SAG02,1
+AG-10913,New Holland drive belt,Mower,9.89,15.79,Active,New,SAG08,10
+AG-10914,New Holland PTO seal kit,Tractor,791.98,1085.49,Active,New,SAG10,1
+AG-10915,Toro drive belt,Snow,14.72,22.69,Active,New,SAG01,1
+AG-10916,Kinze fan belt,Tractor,352.35,488.24,Active,New,SAG01,1
+AG-10917,Kinze deck blade,Mower,78.89,124.61,Active,New,SAG07,10
+AG-10918,Kinze auger shear pin,Snow,41.55,70.82,Active,New,SAG08,1
+AG-10919,Kubota rasp bar,Combine,41.37,66.49,Active,New,SAG03,1
+AG-10920,Toro PTO seal kit,Tractor,8.0,11.97,Active,New,SAG00,1
+AG-10921,Case IH air filter,Mower,370.08,561.09,Active,New,SAG07,1
+AG-10922,John Deere impeller,Snow,169.12,301.05,Active,New,SAG00,1
+AG-10923,New Holland rotor flight,Combine,8.0,10.97,Active,New,SAG00,5
+AG-10924,Toro concave,Combine,69.33,98.47,Active,New,SAG04,5
+AG-10925,Kinze rasp bar,Combine,8.0,13.84,Active,New,SAG05,1
+AG-10926,Toro concave,Combine,22.29,33.88,Active,New,SAG11,5
+AG-10927,John Deere fan belt,Tractor,31.08,43.23,Active,New,SAG01,10
+AG-10928,Case IH fuel pump,Tractor,207.36,331.96,Active,New,SAG04,1
+AG-10929,Kinze concave,Combine,41.39,74.45,Active,New,SAG01,1
+AG-10930,John Deere seed tube,Planter,31.81,52.43,Active,New,SAG06,1
+AG-10931,New Holland seed disc opener,Planter,20.17,28.69,Active,New,SAG06,5
+AG-10932,Case IH fuel pump,Tractor,71.53,100.79,Active,New,SAG09,1
+AG-10933,Toro steering cylinder,Tractor,78.99,126.92,Active,New,SAG04,1
+AG-10934,John Deere seed tube,Planter,8.0,13.81,Active,New,SAG11,2
+AG-10935,Toro meter drive chain,Planter,31.47,52.74,Active,New,SAG03,5
+AG-10936,New Holland air filter,Mower,88.29,125.92,Active,New,SAG04,2
+AG-10937,Kubota deck idler pulley,Mower,140.34,206.63,Active,New,SAG04,5
+AG-10938,New Holland closing wheel,Planter,21.15,33.38,Active,New,SAG10,2
+AG-10939,John Deere drive belt,Snow,86.66,135.24,Active,New,SAG10,2
+AG-10940,John Deere skid shoe,Snow,619.73,863.25,Active,New,SAG08,1
+AG-10941,New Holland rasp bar,Combine,83.24,120.32,Active,New,SAG04,2
+AG-10942,Toro rasp bar,Combine,15.99,24.76,Active,New,SAG08,5
+AG-10943,Toro spindle assembly,Mower,271.88,455.27,Active,New,SAG08,1
+AG-10944,New Holland feeder chain,Combine,742.47,1158.3,Active,New,SAG05,1
+AG-10945,Kubota fan belt,Tractor,49.95,83.39,Active,New,SAG09,1
+AG-10946,John Deere meter drive chain,Planter,21.04,32.45,Active,New,SAG01,1
+AG-10947,New Holland concave,Combine,212.84,375.88,Active,New,SAG01,1
+AG-10948,Toro PTO seal kit,Tractor,779.08,1329.41,Active,New,SAG03,1
+AG-10949,John Deere drive belt,Mower,8.0,12.29,Active,New,SAG04,5
+AG-10950,Case IH feeder chain,Combine,80.46,121.92,Active,New,SAG09,2
+AG-10951,Toro air filter,Mower,8.0,12.56,Active,New,SAG09,1
+AG-10952,Kinze scraper bar,Snow,8.0,10.97,Active,New,SAG09,10
+AG-10953,John Deere fan belt,Tractor,105.69,152.51,Active,New,SAG06,5
+AG-10954,New Holland impeller,Snow,24.06,41.41,Active,New,SAG10,10
+AG-10955,Kubota scraper bar,Snow,13.98,21.48,Active,New,SAG06,2
+AG-10956,Kubota seed disc opener,Planter,75.97,126.21,Active,New,SAG07,1
+AG-10957,John Deere hydraulic filter,Tractor,706.97,1034.13,Active,New,SAG06,1
+AG-10958,Kubota steering cylinder,Tractor,701.53,1122.47,Active,New,SAG01,1
+AG-10959,New Holland PTO seal kit,Tractor,30.4,42.18,Active,New,SAG01,1
+AG-10960,John Deere scraper bar,Snow,8.0,14.29,Active,New,SAG10,1
+AG-10961,Kubota air filter,Mower,30.16,45.76,Active,New,SAG03,25
+AG-10962,Toro deck idler pulley,Mower,69.12,110.01,Active,New,SAG09,1
+AG-10963,Case IH hydraulic filter,Tractor,85.24,137.79,Active,New,SAG02,5
+AG-10964,Toro drive belt,Mower,119.26,172.62,Active,New,SAG10,10
+AG-10965,Case IH drive belt,Mower,227.9,332.93,Active,New,SAG02,1
+AG-10966,Kubota PTO seal kit,Tractor,14.97,24.21,Active,New,SAG08,10
+AG-10967,New Holland steering cylinder,Tractor,128.55,206.18,Active,New,SAG00,10
+AG-10968,New Holland seed disc opener,Planter,99.85,163.38,Active,New,SAG05,10
+AG-10969,Toro scraper bar,Snow,57.63,92.79,Active,New,SAG05,25
+AG-10970,Kinze meter drive chain,Planter,113.48,158.88,Active,New,SAG05,5
+AG-10971,Case IH gauge wheel arm,Planter,16.4,26.34,Active,New,SAG09,1
+AG-10972,Toro fan belt,Tractor,142.89,242.2,Active,New,SAG07,1
+AG-10973,Kinze fuel pump,Tractor,143.7,196.61,Active,New,SAG10,1
+AG-10974,Toro fuel pump,Tractor,23.77,41.75,Active,New,SAG02,25
+AG-10975,Kubota deck blade,Mower,17.95,26.87,Active,New,SAG05,2
+AG-10976,Case IH PTO seal kit,Tractor,8.0,11.09,Active,New,SAG01,1
+AG-10977,Kinze rasp bar,Combine,160.39,266.55,Active,New,SAG01,1
+AG-10978,Kubota deck idler pulley,Mower,411.48,720.04,Active,New,SAG05,1
+AG-10979,Kinze feeder chain,Combine,462.75,824.94,Active,New,SAG11,1
+AG-10980,New Holland rasp bar,Combine,174.79,246.6,Active,New,SAG01,1
+AG-10981,Kubota drive belt,Mower,559.98,871.37,Active,New,SAG10,1
+AG-10982,Case IH scraper bar,Snow,9.51,15.67,Active,New,SAG05,10
+AG-10983,Toro feeder chain,Combine,55.51,75.15,Active,New,SAG09,25
+AG-10984,Case IH seed disc opener,Planter,29.52,52.64,Active,New,SAG04,25
+AG-10985,Toro sickle section,Combine,278.98,402.32,Active,New,SAG03,1
+AG-10986,Toro scraper bar,Snow,15.36,21.64,Active,New,SAG00,1
+AG-10987,Kubota gauge wheel arm,Planter,37.39,60.53,Active,New,SAG02,1
+AG-10988,Kinze concave,Combine,259.6,447.16,Active,New,SAG02,1
+AG-10989,Kubota scraper bar,Snow,45.75,79.7,Active,New,SAG11,1
+AG-10990,Toro air filter,Mower,8.9,12.07,Active,New,SAG02,25
+AG-10991,New Holland drive belt,Snow,163.92,262.5,Active,New,SAG10,1
+AG-10992,Kinze rasp bar,Combine,55.49,93.17,Active,New,SAG08,1
+AG-10993,Toro deck idler pulley,Mower,9.78,17.08,Active,New,SAG08,2
+AG-10994,Toro fan belt,Tractor,35.62,58.65,Active,New,SAG04,5
+AG-10995,Toro scraper bar,Snow,29.09,41.45,Active,New,SAG09,1
+AG-10996,Kinze seed disc opener,Planter,8.37,11.99,Active,New,SAG03,1
+AG-10997,Case IH hydraulic filter,Tractor,24.15,39.93,Active,New,SAG02,10
+AG-10998,John Deere fan belt,Tractor,179.59,270.53,Active,New,SAG00,1
+AG-10999,Kubota spindle assembly,Mower,94.88,169.94,Active,New,SAG09,10
+AG-11000,Kubota PTO seal kit,Tractor,109.98,195.11,Active,New,SAG05,2
+AG-11001,Kubota steering cylinder,Tractor,8.0,12.12,Active,New,SAG02,10
+AG-11002,Toro deck idler pulley,Mower,170.22,233.65,Active,New,SAG08,1
+AG-11003,Kubota air filter,Mower,168.18,258.71,Active,New,SAG09,1
+AG-11004,Kinze rotor flight,Combine,16.45,28.41,Active,New,SAG06,1
+AG-11005,Case IH fuel pump,Tractor,93.01,128.23,Active,New,SAG10,25
+AG-11006,Kubota deck blade,Mower,48.38,81.53,Active,New,SAG09,5
+AG-11007,New Holland PTO seal kit,Tractor,18.08,24.46,Active,New,SAG00,1
+AG-11008,New Holland drive belt,Snow,20.09,33.82,Active,New,SAG03,1
+AG-11009,Kubota sickle section,Combine,8.79,12.68,Active,New,SAG07,25
+AG-11010,Case IH scraper bar,Snow,10.49,15.88,Active,New,SAG05,1
+AG-11011,New Holland fuel pump,Tractor,10.0,14.85,Active,New,SAG05,1
+AG-11012,Toro steering cylinder,Tractor,415.2,684.68,Active,New,SAG00,1
+AG-11013,Toro rotor flight,Combine,8.01,12.27,Active,New,SAG03,25
+AG-11014,Case IH skid shoe,Snow,8.19,12.47,Active,New,SAG04,2
+AG-11015,New Holland deck blade,Mower,13.4,22.78,Active,New,SAG01,25
+AG-11016,Kinze auger shear pin,Snow,8.0,12.79,Active,New,SAG08,1
+AG-11017,Kinze drive belt,Mower,102.6,151.48,Active,New,SAG08,2
+AG-11018,Kubota fan belt,Tractor,519.13,793.2,Active,New,SAG06,1
+AG-11019,John Deere closing wheel,Planter,19.3,30.13,Active,New,SAG04,5
+AG-11020,Case IH gauge wheel arm,Planter,15.74,25.7,Active,New,SAG00,25
+AG-11021,Toro hydraulic filter,Tractor,46.12,70.08,Active,New,SAG03,25
+AG-11022,New Holland fan belt,Tractor,14.83,25.07,Active,New,SAG06,25
+AG-11023,Kubota spindle assembly,Mower,198.39,273.44,Active,New,SAG02,1
+AG-11024,Case IH concave,Combine,52.4,78.82,Active,New,SAG01,25
+AG-11025,Kubota concave,Combine,26.37,38.55,Active,New,SAG07,2
+AG-11026,New Holland rasp bar,Combine,70.83,115.04,Active,New,SAG04,10
+AG-11027,Kinze fuel pump,Tractor,44.76,76.34,Active,New,SAG07,1
+AG-11028,Toro fuel pump,Tractor,67.81,111.47,Active,New,SAG06,1
+AG-11029,New Holland impeller,Snow,50.9,70.37,Active,New,SAG02,2
+AG-11030,Kinze scraper bar,Snow,428.33,684.66,Active,New,SAG03,1
+AG-11031,Kubota seed disc opener,Planter,13.48,19.55,Active,New,SAG02,2
+AG-11032,Toro closing wheel,Planter,740.43,1168.13,Active,New,SAG02,1
+AG-11033,John Deere air filter,Mower,13.38,20.95,Active,New,SAG06,2
+AG-11034,Kubota PTO seal kit,Tractor,371.22,561.83,Active,New,SAG11,1
+AG-11035,John Deere concave,Combine,112.68,174.93,Active,New,SAG02,10
+AG-11036,New Holland feeder chain,Combine,24.96,43.06,Active,New,SAG08,25
+AG-11037,Toro feeder chain,Combine,716.87,1098.58,Active,New,SAG11,1
+AG-11038,Kubota auger shear pin,Snow,360.91,621.98,Active,New,SAG09,1
+AG-11039,Kubota concave,Combine,345.33,592.19,Active,New,SAG07,1
+AG-11040,Kinze meter drive chain,Planter,36.67,53.22,Active,New,SAG07,1
+AG-11041,Kubota meter drive chain,Planter,9.64,13.73,Active,New,SAG05,1
+AG-11042,Case IH scraper bar,Snow,74.69,124.42,Active,New,SAG00,2
+AG-11043,John Deere rotor flight,Combine,8.0,13.89,Active,New,SAG04,2
+AG-11044,New Holland rotor flight,Combine,24.76,36.7,Active,New,SAG02,2
+AG-11045,Case IH PTO seal kit,Tractor,15.71,24.43,Active,New,SAG08,2
+AG-11046,Case IH drive belt,Mower,12.18,19.37,Active,New,SAG09,2
+AG-11047,Kinze scraper bar,Snow,19.8,35.57,Active,New,SAG10,1
+AG-11048,Kinze drive belt,Snow,9.85,17.61,Active,New,SAG10,1
+AG-11049,John Deere sickle section,Combine,9.28,16.07,Active,New,SAG00,1
+AG-11050,Case IH rotor flight,Combine,11.83,20.56,Active,New,SAG09,25
+AG-11051,New Holland impeller,Snow,48.22,79.07,Active,New,SAG07,25
+AG-11052,Kubota deck idler pulley,Mower,101.76,152.21,Active,New,SAG06,5
+AG-11053,Kubota closing wheel,Planter,301.6,487.36,Active,New,SAG01,1
+AG-11054,Kinze concave,Combine,8.0,10.92,Active,New,SAG07,1
+AG-11055,Kinze closing wheel,Planter,8.46,13.47,Active,New,SAG11,2
+AG-11056,New Holland seed tube,Planter,293.43,517.26,Active,New,SAG08,1
+AG-11057,Toro air filter,Mower,8.0,11.98,Active,New,SAG07,1
+AG-11058,John Deere deck idler pulley,Mower,39.14,67.04,Active,New,SAG04,10
+AG-11059,Case IH drive belt,Snow,13.25,22.85,Active,New,SAG02,25
+AG-11060,New Holland deck blade,Mower,61.33,100.86,Active,New,SAG10,2
+AG-11061,Kinze impeller,Snow,27.63,44.84,Active,New,SAG11,1
+AG-11062,John Deere air filter,Mower,338.08,469.91,Active,New,SAG11,1
+AG-11063,Case IH scraper bar,Snow,16.98,25.34,Active,New,SAG10,10
+AG-11064,New Holland drive belt,Snow,84.51,150.65,Active,New,SAG11,25
+AG-11065,Kinze feeder chain,Combine,47.73,83.12,Active,New,SAG11,1
+AG-11066,Case IH air filter,Mower,211.23,367.14,Active,New,SAG08,1
+AG-11067,Kubota gauge wheel arm,Planter,14.26,22.28,Active,New,SAG09,1
+AG-11068,Kubota closing wheel,Planter,8.0,13.18,Active,New,SAG06,25
+AG-11069,John Deere deck idler pulley,Mower,331.71,506.08,Active,New,SAG09,1
+AG-11070,Kinze seed disc opener,Planter,50.16,74.95,Active,New,SAG01,2
+AG-11071,Case IH fuel pump,Tractor,8.0,11.69,Active,New,SAG04,25
+AG-11072,John Deere seed disc opener,Planter,100.47,170.56,Active,New,SAG02,1
+AG-11073,Toro air filter,Mower,9.65,16.78,Active,New,SAG05,10
+AG-11074,Case IH feeder chain,Combine,598.76,920.57,Active,New,SAG03,1
+AG-11075,New Holland drive belt,Snow,8.0,13.93,Active,New,SAG01,1
+AG-11076,John Deere gauge wheel arm,Planter,145.93,257.82,Active,New,SAG10,25
+AG-11077,Case IH air filter,Mower,15.92,23.04,Active,New,SAG03,5
+AG-11078,John Deere feeder chain,Combine,89.55,155.66,Active,New,SAG11,5
+AG-11079,Kinze fan belt,Tractor,8.0,11.32,Active,New,SAG06,1
+AG-11080,Kinze rotor flight,Combine,8.0,12.14,Active,New,SAG07,1
+AG-11081,John Deere gauge wheel arm,Planter,835.66,1349.72,Active,New,SAG00,1
+AG-11082,Toro feeder chain,Combine,234.29,337.12,Active,New,SAG11,1
+AG-11083,Case IH air filter,Mower,199.58,352.64,Active,New,SAG01,1
+AG-11084,New Holland concave,Combine,200.49,340.86,Active,New,SAG03,1
+AG-11085,John Deere drive belt,Snow,25.29,39.79,Active,New,SAG07,10
+AG-11086,New Holland steering cylinder,Tractor,80.22,117.0,Active,New,SAG02,2
+AG-11087,Toro rotor flight,Combine,797.31,1282.4,Active,New,SAG07,1
+AG-11088,John Deere scraper bar,Snow,23.22,34.82,Active,New,SAG06,10
+AG-11089,Toro spindle assembly,Mower,15.07,21.3,Active,New,SAG08,10
+AG-11090,New Holland impeller,Snow,8.0,10.9,Active,New,SAG04,5
+AG-11091,Case IH PTO seal kit,Tractor,13.95,22.28,Active,New,SAG06,1
+AG-11092,John Deere scraper bar,Snow,162.63,248.98,Active,New,SAG00,1
+AG-11093,John Deere fan belt,Tractor,47.73,76.23,Active,New,SAG07,5
+AG-11094,Kinze rotor flight,Combine,8.0,12.63,Active,New,SAG00,2
+AG-11095,New Holland deck idler pulley,Mower,8.71,13.82,Active,New,SAG07,5
+AG-11096,Kinze gauge wheel arm,Planter,79.38,119.64,Active,New,SAG07,2
+AG-11097,Kinze seed disc opener,Planter,107.95,172.71,Active,New,SAG05,1
+AG-11098,Toro concave,Combine,47.18,73.24,Active,New,SAG08,25
+AG-11099,John Deere hydraulic filter,Tractor,9.75,14.21,Active,New,SAG00,10
+AG-11100,Toro deck blade,Mower,199.09,296.72,Active,New,SAG07,1
+AG-11101,New Holland fuel pump,Tractor,35.43,56.29,Active,New,SAG01,1
+AG-11102,Case IH rasp bar,Combine,279.94,383.46,Active,New,SAG05,1
+AG-11103,Kubota deck blade,Mower,8.0,11.27,Active,New,SAG11,1
+AG-11104,Toro fan belt,Tractor,175.21,314.27,Active,New,SAG00,1
+AG-11105,Kinze impeller,Snow,121.71,214.63,Active,New,SAG03,1
+AG-11106,John Deere steering cylinder,Tractor,13.97,19.59,Active,New,SAG00,25
+AG-11107,Kubota steering cylinder,Tractor,184.55,292.27,Active,New,SAG02,1
+AG-11108,New Holland fuel pump,Tractor,77.94,136.87,Active,New,SAG08,2
+AG-11109,Toro fan belt,Tractor,88.94,155.79,Active,New,SAG10,25
+AG-11110,Toro steering cylinder,Tractor,8.0,12.3,Active,New,SAG11,10
+AG-11111,New Holland deck blade,Mower,13.23,23.02,Active,New,SAG00,2
+AG-11112,New Holland auger shear pin,Snow,232.82,377.83,Active,New,SAG05,1
+AG-11113,Case IH scraper bar,Snow,8.0,12.06,Active,New,SAG08,1
+AG-11114,Kinze deck idler pulley,Mower,36.24,56.39,Active,New,SAG11,2
+AG-11115,Case IH deck blade,Mower,38.96,62.13,Active,New,SAG02,2
+AG-11116,Kubota hydraulic filter,Tractor,22.37,38.33,Active,New,SAG04,25
+AG-11117,John Deere auger shear pin,Snow,10.26,17.41,Active,New,SAG00,1
+AG-11118,John Deere skid shoe,Snow,231.98,366.42,Active,New,SAG05,1
+AG-11119,Kubota deck blade,Mower,11.4,15.62,Active,New,SAG10,1
+AG-11120,Kubota gauge wheel arm,Planter,8.0,12.24,Active,New,SAG07,10
+AG-11121,Kubota gauge wheel arm,Planter,70.99,109.27,Active,New,SAG11,1
+AG-11122,Case IH fan belt,Tractor,13.98,21.66,Active,New,SAG00,1
+AG-11123,New Holland rasp bar,Combine,468.7,680.81,Active,New,SAG11,1
+AG-11124,New Holland deck idler pulley,Mower,837.97,1427.55,Active,New,SAG03,1
+AG-11125,Kubota hydraulic filter,Tractor,84.03,145.2,Active,New,SAG03,5
+AG-11126,John Deere air filter,Mower,9.16,12.94,Active,New,SAG05,1
+AG-11127,Kubota fan belt,Tractor,30.42,44.01,Active,New,SAG06,1
+AG-11128,Kubota meter drive chain,Planter,644.54,870.44,Active,New,SAG04,1
+AG-11129,New Holland sickle section,Combine,33.73,56.03,Active,New,SAG01,25
+AG-11130,Case IH drive belt,Snow,49.4,75.57,Active,New,SAG11,10
+AG-11131,New Holland scraper bar,Snow,131.69,211.04,Active,New,SAG10,1
+AG-11132,Toro closing wheel,Planter,424.03,722.33,Active,New,SAG07,1
+AG-11133,John Deere seed tube,Planter,114.38,182.59,Active,New,SAG04,1
+AG-11134,John Deere steering cylinder,Tractor,9.29,14.43,Active,New,SAG02,2
+AG-11135,John Deere feeder chain,Combine,237.73,354.44,Active,New,SAG07,1
+AG-11136,Toro drive belt,Snow,8.0,14.08,Active,New,SAG01,1
+AG-11137,New Holland gauge wheel arm,Planter,9.64,14.54,Active,New,SAG03,5
+AG-11138,Kinze seed disc opener,Planter,18.78,29.63,Active,New,SAG02,2
+AG-11139,Toro deck idler pulley,Mower,19.1,29.91,Active,New,SAG10,1
+AG-11140,Toro impeller,Snow,59.75,82.85,Active,New,SAG11,5
+AG-11141,Case IH deck blade,Mower,22.96,32.12,Active,New,SAG07,1
+AG-11142,John Deere rotor flight,Combine,10.97,16.2,Active,New,SAG07,2
+AG-11143,Toro drive belt,Mower,106.99,189.49,Active,New,SAG04,25
+AG-11144,New Holland deck idler pulley,Mower,885.75,1521.43,Active,New,SAG02,1
+AG-11145,John Deere closing wheel,Planter,8.0,11.21,Active,New,SAG10,1
+AG-11146,Toro sickle section,Combine,158.4,239.96,Active,New,SAG07,1
+AG-11147,Kubota deck blade,Mower,165.11,231.66,Active,New,SAG01,1
+AG-11148,New Holland rotor flight,Combine,491.61,876.04,Active,New,SAG01,1
+AG-11149,John Deere seed tube,Planter,8.0,11.81,Active,New,SAG04,1
+AG-11150,Kinze feeder chain,Combine,16.2,23.41,Active,New,SAG09,1
+AG-11151,Case IH fuel pump,Tractor,833.15,1177.31,Active,New,SAG01,1
+AG-11152,Case IH air filter,Mower,169.3,282.91,Active,New,SAG07,1
+AG-11153,Case IH rotor flight,Combine,70.66,107.42,Active,New,SAG11,1
+AG-11154,New Holland sickle section,Combine,8.0,12.71,Active,New,SAG10,1
+AG-11155,Kinze rotor flight,Combine,672.99,1095.25,Active,New,SAG10,1
+AG-11156,Kubota rasp bar,Combine,8.0,11.0,Active,New,SAG02,25
+AG-11157,New Holland drive belt,Mower,139.32,240.24,Active,New,SAG11,1
+AG-11158,Case IH scraper bar,Snow,163.98,290.35,Active,New,SAG08,1
+AG-11159,Kinze seed tube,Planter,153.81,252.53,Active,New,SAG01,1
+AG-11160,Kubota spindle assembly,Mower,569.86,854.37,Active,New,SAG07,1
+AG-11161,Case IH deck idler pulley,Mower,115.99,194.92,Active,New,SAG08,1
+AG-11162,New Holland air filter,Mower,10.56,15.51,Active,New,SAG02,1
+AG-11163,Case IH deck blade,Mower,86.1,118.04,Active,New,SAG11,5
+AG-11164,John Deere steering cylinder,Tractor,8.0,13.25,Active,New,SAG02,1
+AG-11165,New Holland feeder chain,Combine,9.57,14.25,Active,New,SAG02,25
+AG-11166,Toro deck idler pulley,Mower,852.19,1496.31,Active,New,SAG03,1
+AG-11167,Case IH deck blade,Mower,134.24,239.66,Active,New,SAG01,25
+AG-11168,New Holland fuel pump,Tractor,530.33,729.24,Active,New,SAG06,1
+AG-11169,Kinze seed tube,Planter,72.96,103.1,Active,New,SAG10,5
+AG-11170,Case IH rasp bar,Combine,176.26,254.47,Active,New,SAG00,1
+AG-11171,Kubota drive belt,Mower,316.65,551.69,Active,New,SAG04,1
+AG-11172,Kinze deck blade,Mower,86.39,146.93,Active,New,SAG05,25
+AG-11173,New Holland meter drive chain,Planter,845.45,1260.89,Active,New,SAG00,1
+AG-11174,Kubota spindle assembly,Mower,60.53,101.38,Active,New,SAG05,10
+AG-11175,Toro meter drive chain,Planter,91.54,138.96,Active,New,SAG01,2
+AG-11176,Kinze skid shoe,Snow,170.85,278.36,Active,New,SAG11,1
+AG-11177,Toro rasp bar,Combine,10.54,15.1,Active,New,SAG02,10
+AG-11178,Case IH concave,Combine,897.7,1334.71,Active,New,SAG07,1
+AG-11179,New Holland auger shear pin,Snow,769.23,1303.53,Active,New,SAG07,1
+AG-11180,Toro fuel pump,Tractor,109.35,177.21,Active,New,SAG06,1
+AG-11181,Kubota seed disc opener,Planter,56.0,87.48,Active,New,SAG06,1
+AG-11182,Kinze PTO seal kit,Tractor,583.45,925.01,Active,New,SAG02,1
+AG-11183,New Holland seed disc opener,Planter,85.23,116.04,Active,New,SAG01,1
+AG-11184,Kinze drive belt,Mower,478.02,704.04,Active,New,SAG10,1
+AG-11185,Kubota hydraulic filter,Tractor,119.48,164.76,Active,New,SAG01,25
+AG-11186,Toro auger shear pin,Snow,73.22,103.57,Active,New,SAG04,1
+AG-11187,Kinze gauge wheel arm,Planter,20.99,36.6,Active,New,SAG01,1
+AG-11188,Kubota rotor flight,Combine,33.39,59.16,Active,New,SAG04,2
+AG-11189,John Deere gauge wheel arm,Planter,419.94,606.36,Active,New,SAG11,1
+AG-11190,New Holland rasp bar,Combine,98.27,133.7,Active,New,SAG01,10
+AG-11191,New Holland sickle section,Combine,16.65,28.83,Active,New,SAG03,10
+AG-11192,Case IH gauge wheel arm,Planter,11.64,20.44,Active,New,SAG08,1
+AG-11193,New Holland scraper bar,Snow,248.12,349.22,Active,New,SAG08,1
+AG-11194,New Holland meter drive chain,Planter,35.41,55.0,Active,New,SAG07,10
+AG-11195,Toro seed disc opener,Planter,50.41,85.35,Active,New,SAG10,1
+AG-11196,New Holland impeller,Snow,104.47,178.36,Active,New,SAG01,1
+AG-11197,Case IH scraper bar,Snow,95.67,161.52,Active,New,SAG01,25
+AG-11198,Kinze rotor flight,Combine,375.79,632.79,Active,New,SAG09,1
+AG-11199,New Holland steering cylinder,Tractor,176.75,262.18,Active,New,SAG05,1
+AG-90000,Toro sickle section,Combine,15.1,26.32,Superseded,New,SAG00,5
+AG-90001,Toro skid shoe,Snow,22.89,33.52,Superseded,New,SAG04,25
+AG-90002,New Holland rotor flight,Combine,10.57,18.48,Superseded,New,SAG08,10
+AG-90003,Kubota scraper bar,Snow,18.27,28.86,Superseded,New,SAG07,1
+AG-90004,Kubota spindle assembly,Mower,255.81,458.1,Superseded,New,SAG04,1
+AG-90005,Case IH deck blade,Mower,38.96,62.13,Superseded,New,SAG02,2
+AG-90006,Kinze deck idler pulley,Mower,49.71,71.51,Superseded,New,SAG02,10
+AG-90007,Kinze feeder chain,Combine,58.01,86.78,Superseded,New,SAG03,5
+AG-90008,John Deere rotor flight,Combine,29.51,50.79,Superseded,New,SAG09,1
+AG-90009,Kubota auger shear pin,Snow,51.96,71.87,Superseded,New,SAG10,5
+AG-90010,Toro fuel pump,Tractor,167.66,227.06,Superseded,New,SAG04,1
+AG-90011,Kubota deck blade,Mower,17.95,26.87,Superseded,New,SAG05,2
+AG-90012,John Deere seed disc opener,Planter,15.97,24.99,Superseded,New,SAG06,10
+AG-90013,New Holland steering cylinder,Tractor,31.71,50.57,Superseded,New,SAG09,1
+AG-90014,Kinze concave,Combine,8.0,10.92,Superseded,New,SAG07,1
+AG-90015,Kinze gauge wheel arm,Planter,91.4,128.79,Superseded,New,SAG00,10
+AG-90016,Toro seed disc opener,Planter,50.41,85.35,Superseded,New,SAG10,1
+AG-90017,Kubota drive belt,Mower,675.34,1188.96,Superseded,New,SAG04,1
+AG-90018,Kubota fuel pump,Tractor,9.78,16.34,Superseded,New,SAG10,25
+AG-90019,New Holland concave,Combine,212.84,375.88,Superseded,New,SAG01,1
+AG-90020,Toro sickle section,Combine,26.9,40.31,Superseded,New,SAG04,1
+AG-90021,Kinze rasp bar,Combine,55.49,93.17,Superseded,New,SAG08,1
+AG-90022,New Holland drive belt,Snow,424.25,616.05,Superseded,New,SAG03,1
+AG-90023,Toro drive belt,Snow,182.49,246.86,Superseded,New,SAG07,1
+AG-90024,Toro auger shear pin,Snow,121.69,170.83,Superseded,New,SAG02,1
+AG-90025,Kinze sickle section,Combine,322.03,436.8,Superseded,New,SAG10,1
+AG-90026,Kubota steering cylinder,Tractor,49.87,86.2,Superseded,New,SAG11,2
+AG-90027,John Deere skid shoe,Snow,20.4,28.68,Superseded,New,SAG00,1
+AG-90028,Kinze drive belt,Mower,58.28,103.53,Superseded,New,SAG11,1
+AG-90029,New Holland scraper bar,Snow,504.24,788.61,Superseded,New,SAG08,1
+AG-90030,Kinze gauge wheel arm,Planter,48.85,66.63,Superseded,New,SAG03,1
+AG-90031,Kubota skid shoe,Snow,8.82,13.76,Superseded,New,SAG07,1
+AG-90032,New Holland drive belt,Mower,8.0,12.9,Superseded,New,SAG04,25
+AG-90033,Case IH gauge wheel arm,Planter,374.3,557.84,Superseded,New,SAG06,1
+AG-90034,Kinze drive belt,Snow,12.87,21.14,Superseded,New,SAG08,5
+AG-90035,Case IH scraper bar,Snow,9.51,15.67,Superseded,New,SAG05,10
+AG-U0000,Used Case IH deck blade,Snow,539.4,863.04,Active,Used,SALVAGE,1
+AG-U0001,Used Kinze gauge wheel arm,Planter,1344.55,2151.28,Active,Salvage,SALVAGE,1
+AG-U0002,Used Case IH fuel pump,Snow,672.51,1076.02,Active,Rebuilt,SALVAGE,1
+AG-U0003,Used Kinze steering cylinder,Tractor,532.55,852.08,Active,Used,SALVAGE,1
+AG-U0004,Used John Deere deck idler pulley,Tractor,1185.49,1896.78,Active,Rebuilt,SALVAGE,1
+AG-U0005,Used New Holland seed disc opener,Combine,351.95,563.12,Active,Used,SALVAGE,1
+AG-U0006,Used Toro drive belt,Mower,216.6,346.56,Active,Rebuilt,SALVAGE,1
+AG-U0007,Used Kinze concave,Mower,906.0,1449.6,Active,Salvage,SALVAGE,1
+AG-U0008,Used Kubota deck blade,Combine,1343.2,2149.12,Active,Rebuilt,SALVAGE,1
+AG-U0009,Used Kubota steering cylinder,Combine,928.25,1485.2,Active,Rebuilt,SALVAGE,1
+AG-U0010,Used New Holland scraper bar,Planter,1172.3,1875.68,Active,Used,SALVAGE,1
+AG-U0011,Used John Deere gauge wheel arm,Planter,743.45,1189.52,Active,Salvage,SALVAGE,1
+AG-U0012,Used Kubota concave,Planter,1116.59,1786.54,Active,Used,SALVAGE,1
+AG-U0013,Used Kubota hydraulic filter,Snow,1205.89,1929.42,Active,Used,SALVAGE,1
+AG-U0014,Used Toro skid shoe,Planter,1176.24,1881.98,Active,Used,SALVAGE,1
+AG-U0015,Used Case IH gauge wheel arm,Snow,824.93,1319.89,Active,Salvage,SALVAGE,1
+AG-U0016,Used Kinze seed disc opener,Combine,86.39,138.22,Active,Rebuilt,SALVAGE,1
+AG-U0017,Used Kinze seed disc opener,Combine,795.4,1272.64,Active,Used,SALVAGE,1
+AG-U0018,Used Case IH scraper bar,Planter,1258.2,2013.12,Active,Rebuilt,SALVAGE,1
+AG-U0019,Used New Holland gauge wheel arm,Combine,947.6,1516.16,Active,Salvage,SALVAGE,1
+AG-U0020,Used New Holland rasp bar,Combine,303.73,485.97,Active,Used,SALVAGE,1
+AG-U0021,Used Toro PTO seal kit,Planter,1441.44,2306.3,Active,Salvage,SALVAGE,1
+AG-U0022,Used Case IH feeder chain,Snow,617.64,988.22,Active,Rebuilt,SALVAGE,1
+AG-U0023,Used Kinze hydraulic filter,Planter,198.99,318.38,Active,Used,SALVAGE,1
+AG-U0024,Used Kinze feeder chain,Mower,1231.5,1970.4,Active,Rebuilt,SALVAGE,1
+AG-U0025,Used Kinze fuel pump,Combine,596.53,954.45,Active,Used,SALVAGE,1
+AG-U0026,Used New Holland scraper bar,Tractor,294.94,471.9,Active,Salvage,SALVAGE,1
+AG-U0027,Used John Deere steering cylinder,Snow,916.53,1466.45,Active,Used,SALVAGE,1
+AG-U0028,Used Case IH deck blade,Tractor,769.34,1230.94,Active,Rebuilt,SALVAGE,1
+AG-U0029,Used Toro spindle assembly,Mower,641.99,1027.18,Active,Used,SALVAGE,1
+AG-U0030,Used New Holland fan belt,Planter,290.27,464.43,Active,Rebuilt,SALVAGE,1
+AG-U0031,Used Toro deck idler pulley,Combine,1202.14,1923.42,Active,Used,SALVAGE,1
+AG-U0032,Used Kubota gauge wheel arm,Tractor,852.81,1364.5,Active,Rebuilt,SALVAGE,1
+AG-U0033,Used Toro PTO seal kit,Mower,522.22,835.55,Active,Used,SALVAGE,1
+AG-U0034,Used New Holland feeder chain,Tractor,1420.04,2272.06,Active,Used,SALVAGE,1
+AG-U0035,Used Kinze auger shear pin,Mower,279.85,447.76,Active,Used,SALVAGE,1
+AG-U0036,Used Kinze drive belt,Combine,635.04,1016.06,Active,Used,SALVAGE,1
+AG-U0037,Used Kubota seed disc opener,Tractor,746.61,1194.58,Active,Rebuilt,SALVAGE,1
+AG-U0038,Used John Deere scraper bar,Tractor,871.7,1394.72,Active,Used,SALVAGE,1
+AG-U0039,Used New Holland hydraulic filter,Tractor,661.38,1058.21,Active,Salvage,SALVAGE,1
+AG-U0040,Used Kinze rasp bar,Mower,514.18,822.69,Active,Rebuilt,SALVAGE,1
+AG-U0041,Used Toro concave,Planter,1308.74,2093.98,Active,Salvage,SALVAGE,1
+AG-U0042,Used Kubota drive belt,Tractor,770.9,1233.44,Active,Salvage,SALVAGE,1
+AG-U0043,Used Toro drive belt,Combine,641.84,1026.94,Active,Used,SALVAGE,1
+AG-U0044,Used Case IH auger shear pin,Mower,831.83,1330.93,Active,Salvage,SALVAGE,1
+AG-U0045,Used Toro sickle section,Planter,1424.72,2279.55,Active,Used,SALVAGE,1
+AG-U0046,Used New Holland deck idler pulley,Mower,1149.37,1838.99,Active,Salvage,SALVAGE,1
+AG-U0047,Used Toro PTO seal kit,Mower,1248.18,1997.09,Active,Used,SALVAGE,1
+AG-U0048,Used Case IH concave,Tractor,1171.09,1873.74,Active,Rebuilt,SALVAGE,1
+AG-U0049,Used New Holland PTO seal kit,Snow,1196.67,1914.67,Active,Used,SALVAGE,1
+AG-U0050,Used Kubota deck idler pulley,Mower,1289.99,2063.98,Active,Used,SALVAGE,1
+AG-U0051,Used Case IH rotor flight,Tractor,738.4,1181.44,Active,Rebuilt,SALVAGE,1
+AG-U0052,Used Kubota fan belt,Snow,1277.42,2043.87,Active,Salvage,SALVAGE,1
+AG-U0053,Used John Deere auger shear pin,Combine,1299.82,2079.71,Active,Salvage,SALVAGE,1
+AG-U0054,Used Case IH auger shear pin,Snow,309.86,495.78,Active,Salvage,SALVAGE,1
+AG-U0055,Used Kubota drive belt,Snow,1493.76,2390.02,Active,Used,SALVAGE,1
+AG-U0056,Used Kinze seed tube,Snow,643.18,1029.09,Active,Rebuilt,SALVAGE,1
+AG-U0057,Used John Deere meter drive chain,Combine,567.43,907.89,Active,Used,SALVAGE,1
+AG-U0058,Used Case IH rotor flight,Tractor,1254.75,2007.6,Active,Salvage,SALVAGE,1
+AG-U0059,Used Kinze closing wheel,Snow,656.09,1049.74,Active,Salvage,SALVAGE,1

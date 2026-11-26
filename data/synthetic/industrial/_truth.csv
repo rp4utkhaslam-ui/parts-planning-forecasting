@@ -1,0 +1,1001 @@
+category,true_pattern,seasonal,season_peak_week,item_id
+Belts and sheaves,intermittent,False,0,IN-10000
+Belts and sheaves,lumpy,False,0,IN-10001
+Gearboxes,intermittent,False,0,IN-10002
+Seals,intermittent,True,5,IN-10003
+Hydraulic valves,smooth,False,0,IN-10004
+Bearings,intermittent,False,0,IN-10005
+Hydraulic valves,intermittent,False,0,IN-10006
+Gearboxes,intermittent,False,0,IN-10007
+Belts and sheaves,intermittent,False,0,IN-10008
+Bearings,intermittent,False,0,IN-10009
+Belts and sheaves,erratic,False,0,IN-10010
+Bearings,intermittent,False,0,IN-10011
+Gearboxes,intermittent,False,0,IN-10012
+Belts and sheaves,intermittent,False,0,IN-10013
+Belts and sheaves,intermittent,False,0,IN-10014
+Bearings,intermittent,False,0,IN-10015
+Belts and sheaves,intermittent,False,0,IN-10016
+Seals,erratic,True,36,IN-10017
+Gearboxes,intermittent,False,0,IN-10018
+Belts and sheaves,intermittent,False,0,IN-10019
+Gearboxes,intermittent,False,0,IN-10020
+Bearings,intermittent,False,0,IN-10021
+Hydraulic valves,smooth,False,0,IN-10022
+Seals,smooth,True,5,IN-10023
+Gearboxes,intermittent,False,0,IN-10024
+Bearings,smooth,False,0,IN-10025
+Hydraulic valves,intermittent,False,0,IN-10026
+Belts and sheaves,intermittent,False,0,IN-10027
+Seals,intermittent,True,2,IN-10028
+Belts and sheaves,intermittent,False,0,IN-10029
+Seals,erratic,False,0,IN-10030
+Belts and sheaves,intermittent,False,0,IN-10031
+Hydraulic valves,intermittent,False,0,IN-10032
+Bearings,intermittent,False,0,IN-10033
+Gearboxes,lumpy,False,0,IN-10034
+Hydraulic valves,intermittent,False,0,IN-10035
+Seals,smooth,False,0,IN-10036
+Gearboxes,lumpy,False,0,IN-10037
+Bearings,lumpy,False,0,IN-10038
+Gearboxes,smooth,False,0,IN-10039
+Hydraulic valves,intermittent,True,23,IN-10040
+Hydraulic valves,erratic,False,0,IN-10041
+Seals,intermittent,False,0,IN-10042
+Hydraulic valves,intermittent,False,0,IN-10043
+Hydraulic valves,smooth,False,0,IN-10044
+Bearings,intermittent,False,0,IN-10045
+Seals,erratic,False,0,IN-10046
+Bearings,intermittent,False,0,IN-10047
+Bearings,lumpy,False,0,IN-10048
+Belts and sheaves,intermittent,False,0,IN-10049
+Belts and sheaves,erratic,False,0,IN-10050
+Gearboxes,intermittent,False,0,IN-10051
+Hydraulic valves,intermittent,False,0,IN-10052
+Seals,smooth,True,16,IN-10053
+Hydraulic valves,intermittent,False,0,IN-10054
+Bearings,intermittent,False,0,IN-10055
+Gearboxes,lumpy,False,0,IN-10056
+Bearings,intermittent,False,0,IN-10057
+Bearings,intermittent,False,0,IN-10058
+Belts and sheaves,intermittent,False,0,IN-10059
+Bearings,intermittent,False,0,IN-10060
+Bearings,smooth,False,0,IN-10061
+Hydraulic valves,erratic,False,0,IN-10062
+Bearings,intermittent,False,0,IN-10063
+Bearings,intermittent,False,0,IN-10064
+Belts and sheaves,erratic,False,0,IN-10065
+Hydraulic valves,intermittent,False,0,IN-10066
+Bearings,intermittent,False,0,IN-10067
+Hydraulic valves,intermittent,True,49,IN-10068
+Seals,intermittent,False,0,IN-10069
+Bearings,intermittent,False,0,IN-10070
+Hydraulic valves,intermittent,False,0,IN-10071
+Gearboxes,intermittent,False,0,IN-10072
+Belts and sheaves,intermittent,False,0,IN-10073
+Belts and sheaves,intermittent,False,0,IN-10074
+Gearboxes,intermittent,False,0,IN-10075
+Belts and sheaves,intermittent,False,0,IN-10076
+Seals,intermittent,False,0,IN-10077
+Belts and sheaves,intermittent,False,0,IN-10078
+Bearings,intermittent,False,0,IN-10079
+Hydraulic valves,erratic,False,0,IN-10080
+Hydraulic valves,erratic,False,0,IN-10081
+Hydraulic valves,smooth,False,0,IN-10082
+Seals,erratic,True,37,IN-10083
+Hydraulic valves,intermittent,False,0,IN-10084
+Hydraulic valves,intermittent,False,0,IN-10085
+Belts and sheaves,intermittent,False,0,IN-10086
+Gearboxes,smooth,False,0,IN-10087
+Seals,lumpy,False,0,IN-10088
+Seals,intermittent,False,0,IN-10089
+Hydraulic valves,intermittent,False,0,IN-10090
+Seals,intermittent,False,0,IN-10091
+Belts and sheaves,lumpy,False,0,IN-10092
+Belts and sheaves,smooth,False,0,IN-10093
+Bearings,intermittent,False,0,IN-10094
+Belts and sheaves,intermittent,True,29,IN-10095
+Belts and sheaves,intermittent,False,0,IN-10096
+Seals,intermittent,False,0,IN-10097
+Hydraulic valves,intermittent,False,0,IN-10098
+Bearings,lumpy,False,0,IN-10099
+Seals,intermittent,False,0,IN-10100
+Belts and sheaves,intermittent,True,26,IN-10101
+Gearboxes,smooth,False,0,IN-10102
+Hydraulic valves,intermittent,False,0,IN-10103
+Bearings,erratic,False,0,IN-10104
+Belts and sheaves,intermittent,False,0,IN-10105
+Belts and sheaves,intermittent,False,0,IN-10106
+Hydraulic valves,erratic,False,0,IN-10107
+Hydraulic valves,erratic,False,0,IN-10108
+Hydraulic valves,intermittent,False,0,IN-10109
+Belts and sheaves,intermittent,False,0,IN-10110
+Belts and sheaves,intermittent,False,0,IN-10111
+Belts and sheaves,intermittent,False,0,IN-10112
+Belts and sheaves,smooth,True,23,IN-10113
+Bearings,intermittent,False,0,IN-10114
+Bearings,erratic,False,0,IN-10115
+Bearings,intermittent,True,35,IN-10116
+Gearboxes,smooth,False,0,IN-10117
+Hydraulic valves,intermittent,False,0,IN-10118
+Bearings,smooth,False,0,IN-10119
+Seals,intermittent,False,0,IN-10120
+Seals,erratic,False,0,IN-10121
+Gearboxes,intermittent,False,0,IN-10122
+Belts and sheaves,erratic,False,0,IN-10123
+Seals,intermittent,False,0,IN-10124
+Belts and sheaves,intermittent,False,0,IN-10125
+Bearings,intermittent,False,0,IN-10126
+Hydraulic valves,erratic,False,0,IN-10127
+Seals,lumpy,False,0,IN-10128
+Gearboxes,intermittent,False,0,IN-10129
+Hydraulic valves,intermittent,False,0,IN-10130
+Bearings,smooth,False,0,IN-10131
+Seals,intermittent,False,0,IN-10132
+Belts and sheaves,intermittent,False,0,IN-10133
+Seals,intermittent,False,0,IN-10134
+Bearings,lumpy,False,0,IN-10135
+Bearings,intermittent,False,0,IN-10136
+Belts and sheaves,intermittent,True,21,IN-10137
+Hydraulic valves,intermittent,False,0,IN-10138
+Bearings,smooth,True,10,IN-10139
+Hydraulic valves,intermittent,False,0,IN-10140
+Seals,erratic,False,0,IN-10141
+Bearings,intermittent,False,0,IN-10142
+Bearings,smooth,False,0,IN-10143
+Hydraulic valves,erratic,False,0,IN-10144
+Bearings,intermittent,False,0,IN-10145
+Bearings,intermittent,False,0,IN-10146
+Seals,lumpy,False,0,IN-10147
+Belts and sheaves,intermittent,False,0,IN-10148
+Bearings,erratic,False,0,IN-10149
+Seals,intermittent,False,0,IN-10150
+Bearings,intermittent,False,0,IN-10151
+Belts and sheaves,lumpy,False,0,IN-10152
+Bearings,intermittent,False,0,IN-10153
+Seals,erratic,False,0,IN-10154
+Bearings,smooth,False,0,IN-10155
+Gearboxes,lumpy,False,0,IN-10156
+Belts and sheaves,smooth,False,0,IN-10157
+Belts and sheaves,erratic,False,0,IN-10158
+Belts and sheaves,intermittent,False,0,IN-10159
+Belts and sheaves,erratic,False,0,IN-10160
+Hydraulic valves,intermittent,False,0,IN-10161
+Seals,lumpy,False,0,IN-10162
+Belts and sheaves,intermittent,False,0,IN-10163
+Gearboxes,intermittent,False,0,IN-10164
+Seals,intermittent,False,0,IN-10165
+Seals,lumpy,False,0,IN-10166
+Bearings,intermittent,False,0,IN-10167
+Bearings,erratic,False,0,IN-10168
+Gearboxes,intermittent,False,0,IN-10169
+Belts and sheaves,erratic,False,0,IN-10170
+Hydraulic valves,intermittent,False,0,IN-10171
+Seals,intermittent,False,0,IN-10172
+Hydraulic valves,smooth,False,0,IN-10173
+Seals,intermittent,False,0,IN-10174
+Gearboxes,lumpy,True,3,IN-10175
+Belts and sheaves,lumpy,False,0,IN-10176
+Gearboxes,intermittent,False,0,IN-10177
+Belts and sheaves,intermittent,False,0,IN-10178
+Seals,erratic,False,0,IN-10179
+Seals,intermittent,False,0,IN-10180
+Bearings,intermittent,False,0,IN-10181
+Belts and sheaves,intermittent,False,0,IN-10182
+Gearboxes,erratic,False,0,IN-10183
+Seals,intermittent,False,0,IN-10184
+Bearings,lumpy,False,0,IN-10185
+Hydraulic valves,smooth,False,0,IN-10186
+Bearings,erratic,False,0,IN-10187
+Seals,intermittent,False,0,IN-10188
+Belts and sheaves,erratic,False,0,IN-10189
+Gearboxes,erratic,False,0,IN-10190
+Bearings,intermittent,False,0,IN-10191
+Bearings,intermittent,False,0,IN-10192
+Hydraulic valves,erratic,False,0,IN-10193
+Belts and sheaves,intermittent,False,0,IN-10194
+Gearboxes,lumpy,False,0,IN-10195
+Belts and sheaves,lumpy,False,0,IN-10196
+Hydraulic valves,lumpy,False,0,IN-10197
+Belts and sheaves,intermittent,False,0,IN-10198
+Gearboxes,intermittent,False,0,IN-10199
+Belts and sheaves,erratic,False,0,IN-10200
+Belts and sheaves,intermittent,False,0,IN-10201
+Hydraulic valves,smooth,False,0,IN-10202
+Hydraulic valves,intermittent,False,0,IN-10203
+Gearboxes,erratic,False,0,IN-10204
+Hydraulic valves,intermittent,True,26,IN-10205
+Hydraulic valves,intermittent,True,19,IN-10206
+Seals,erratic,False,0,IN-10207
+Hydraulic valves,intermittent,False,0,IN-10208
+Belts and sheaves,intermittent,False,0,IN-10209
+Seals,intermittent,True,2,IN-10210
+Bearings,intermittent,False,0,IN-10211
+Gearboxes,intermittent,False,0,IN-10212
+Hydraulic valves,intermittent,False,0,IN-10213
+Gearboxes,intermittent,True,16,IN-10214
+Gearboxes,intermittent,False,0,IN-10215
+Bearings,intermittent,False,0,IN-10216
+Seals,intermittent,False,0,IN-10217
+Gearboxes,intermittent,False,0,IN-10218
+Seals,smooth,False,0,IN-10219
+Seals,smooth,False,0,IN-10220
+Belts and sheaves,intermittent,False,0,IN-10221
+Hydraulic valves,intermittent,False,0,IN-10222
+Hydraulic valves,intermittent,False,0,IN-10223
+Belts and sheaves,erratic,False,0,IN-10224
+Hydraulic valves,erratic,False,0,IN-10225
+Hydraulic valves,intermittent,False,0,IN-10226
+Gearboxes,intermittent,False,0,IN-10227
+Gearboxes,intermittent,False,0,IN-10228
+Hydraulic valves,lumpy,False,0,IN-10229
+Seals,intermittent,False,0,IN-10230
+Bearings,erratic,False,0,IN-10231
+Seals,lumpy,False,0,IN-10232
+Belts and sheaves,intermittent,False,0,IN-10233
+Bearings,intermittent,False,0,IN-10234
+Bearings,lumpy,False,0,IN-10235
+Belts and sheaves,intermittent,False,0,IN-10236
+Gearboxes,intermittent,True,47,IN-10237
+Bearings,intermittent,False,0,IN-10238
+Bearings,lumpy,False,0,IN-10239
+Hydraulic valves,lumpy,False,0,IN-10240
+Gearboxes,intermittent,False,0,IN-10241
+Gearboxes,intermittent,False,0,IN-10242
+Bearings,intermittent,False,0,IN-10243
+Hydraulic valves,erratic,False,0,IN-10244
+Belts and sheaves,lumpy,False,0,IN-10245
+Hydraulic valves,intermittent,False,0,IN-10246
+Hydraulic valves,intermittent,False,0,IN-10247
+Hydraulic valves,intermittent,False,0,IN-10248
+Seals,lumpy,False,0,IN-10249
+Gearboxes,smooth,False,0,IN-10250
+Hydraulic valves,intermittent,False,0,IN-10251
+Bearings,intermittent,False,0,IN-10252
+Gearboxes,erratic,True,24,IN-10253
+Belts and sheaves,intermittent,False,0,IN-10254
+Hydraulic valves,erratic,False,0,IN-10255
+Hydraulic valves,intermittent,False,0,IN-10256
+Belts and sheaves,intermittent,False,0,IN-10257
+Gearboxes,erratic,False,0,IN-10258
+Gearboxes,smooth,False,0,IN-10259
+Seals,smooth,False,0,IN-10260
+Bearings,intermittent,False,0,IN-10261
+Seals,intermittent,False,0,IN-10262
+Seals,lumpy,False,0,IN-10263
+Hydraulic valves,lumpy,False,0,IN-10264
+Seals,lumpy,False,0,IN-10265
+Bearings,intermittent,False,0,IN-10266
+Bearings,intermittent,False,0,IN-10267
+Gearboxes,intermittent,False,0,IN-10268
+Gearboxes,intermittent,False,0,IN-10269
+Gearboxes,intermittent,False,0,IN-10270
+Bearings,intermittent,False,0,IN-10271
+Hydraulic valves,intermittent,False,0,IN-10272
+Bearings,erratic,False,0,IN-10273
+Seals,intermittent,False,0,IN-10274
+Seals,smooth,True,46,IN-10275
+Seals,intermittent,False,0,IN-10276
+Hydraulic valves,lumpy,False,0,IN-10277
+Gearboxes,intermittent,False,0,IN-10278
+Hydraulic valves,intermittent,False,0,IN-10279
+Gearboxes,intermittent,True,35,IN-10280
+Seals,lumpy,False,0,IN-10281
+Bearings,intermittent,False,0,IN-10282
+Bearings,intermittent,True,2,IN-10283
+Hydraulic valves,intermittent,False,0,IN-10284
+Bearings,intermittent,False,0,IN-10285
+Seals,lumpy,False,0,IN-10286
+Hydraulic valves,intermittent,False,0,IN-10287
+Bearings,intermittent,False,0,IN-10288
+Hydraulic valves,lumpy,False,0,IN-10289
+Belts and sheaves,smooth,False,0,IN-10290
+Bearings,intermittent,False,0,IN-10291
+Belts and sheaves,intermittent,False,0,IN-10292
+Belts and sheaves,erratic,False,0,IN-10293
+Gearboxes,intermittent,False,0,IN-10294
+Gearboxes,intermittent,False,0,IN-10295
+Belts and sheaves,intermittent,False,0,IN-10296
+Belts and sheaves,lumpy,False,0,IN-10297
+Hydraulic valves,erratic,False,0,IN-10298
+Gearboxes,smooth,False,0,IN-10299
+Seals,smooth,False,0,IN-10300
+Bearings,erratic,False,0,IN-10301
+Gearboxes,smooth,False,0,IN-10302
+Belts and sheaves,intermittent,False,0,IN-10303
+Seals,intermittent,False,0,IN-10304
+Gearboxes,lumpy,False,0,IN-10305
+Gearboxes,erratic,True,3,IN-10306
+Seals,intermittent,False,0,IN-10307
+Bearings,lumpy,False,0,IN-10308
+Seals,intermittent,False,0,IN-10309
+Gearboxes,intermittent,False,0,IN-10310
+Hydraulic valves,lumpy,False,0,IN-10311
+Seals,intermittent,False,0,IN-10312
+Seals,smooth,False,0,IN-10313
+Hydraulic valves,lumpy,False,0,IN-10314
+Seals,smooth,False,0,IN-10315
+Gearboxes,lumpy,False,0,IN-10316
+Gearboxes,intermittent,False,0,IN-10317
+Belts and sheaves,lumpy,False,0,IN-10318
+Seals,intermittent,False,0,IN-10319
+Belts and sheaves,intermittent,False,0,IN-10320
+Bearings,intermittent,False,0,IN-10321
+Belts and sheaves,smooth,False,0,IN-10322
+Seals,intermittent,False,0,IN-10323
+Hydraulic valves,erratic,False,0,IN-10324
+Bearings,lumpy,False,0,IN-10325
+Hydraulic valves,erratic,False,0,IN-10326
+Seals,intermittent,False,0,IN-10327
+Gearboxes,intermittent,False,0,IN-10328
+Seals,lumpy,False,0,IN-10329
+Gearboxes,intermittent,False,0,IN-10330
+Seals,erratic,False,0,IN-10331
+Seals,lumpy,False,0,IN-10332
+Hydraulic valves,intermittent,False,0,IN-10333
+Hydraulic valves,lumpy,False,0,IN-10334
+Gearboxes,lumpy,False,0,IN-10335
+Belts and sheaves,intermittent,False,0,IN-10336
+Bearings,intermittent,True,37,IN-10337
+Hydraulic valves,smooth,False,0,IN-10338
+Hydraulic valves,smooth,False,0,IN-10339
+Belts and sheaves,erratic,False,0,IN-10340
+Hydraulic valves,lumpy,False,0,IN-10341
+Gearboxes,erratic,False,0,IN-10342
+Bearings,intermittent,False,0,IN-10343
+Belts and sheaves,intermittent,False,0,IN-10344
+Seals,intermittent,False,0,IN-10345
+Seals,intermittent,False,0,IN-10346
+Seals,lumpy,False,0,IN-10347
+Hydraulic valves,intermittent,False,0,IN-10348
+Seals,smooth,False,0,IN-10349
+Hydraulic valves,lumpy,False,0,IN-10350
+Seals,intermittent,False,0,IN-10351
+Gearboxes,intermittent,True,47,IN-10352
+Bearings,intermittent,False,0,IN-10353
+Seals,intermittent,False,0,IN-10354
+Belts and sheaves,intermittent,False,0,IN-10355
+Belts and sheaves,erratic,False,0,IN-10356
+Belts and sheaves,erratic,False,0,IN-10357
+Belts and sheaves,intermittent,False,0,IN-10358
+Hydraulic valves,lumpy,False,0,IN-10359
+Seals,lumpy,False,0,IN-10360
+Bearings,intermittent,False,0,IN-10361
+Gearboxes,intermittent,False,0,IN-10362
+Bearings,intermittent,False,0,IN-10363
+Hydraulic valves,intermittent,False,0,IN-10364
+Gearboxes,erratic,False,0,IN-10365
+Seals,intermittent,False,0,IN-10366
+Belts and sheaves,intermittent,False,0,IN-10367
+Hydraulic valves,intermittent,False,0,IN-10368
+Belts and sheaves,erratic,False,0,IN-10369
+Bearings,intermittent,False,0,IN-10370
+Hydraulic valves,intermittent,False,0,IN-10371
+Gearboxes,lumpy,False,0,IN-10372
+Gearboxes,intermittent,False,0,IN-10373
+Gearboxes,erratic,False,0,IN-10374
+Hydraulic valves,lumpy,False,0,IN-10375
+Bearings,intermittent,False,0,IN-10376
+Seals,intermittent,False,0,IN-10377
+Bearings,intermittent,False,0,IN-10378
+Belts and sheaves,lumpy,False,0,IN-10379
+Bearings,intermittent,False,0,IN-10380
+Bearings,intermittent,False,0,IN-10381
+Bearings,erratic,False,0,IN-10382
+Seals,lumpy,False,0,IN-10383
+Seals,intermittent,False,0,IN-10384
+Seals,lumpy,False,0,IN-10385
+Gearboxes,intermittent,False,0,IN-10386
+Belts and sheaves,intermittent,False,0,IN-10387
+Bearings,erratic,False,0,IN-10388
+Bearings,intermittent,False,0,IN-10389
+Bearings,intermittent,False,0,IN-10390
+Hydraulic valves,intermittent,False,0,IN-10391
+Seals,intermittent,False,0,IN-10392
+Seals,intermittent,False,0,IN-10393
+Gearboxes,smooth,False,0,IN-10394
+Gearboxes,erratic,False,0,IN-10395
+Seals,intermittent,False,0,IN-10396
+Bearings,intermittent,False,0,IN-10397
+Gearboxes,erratic,False,0,IN-10398
+Seals,intermittent,False,0,IN-10399
+Seals,intermittent,False,0,IN-10400
+Gearboxes,intermittent,False,0,IN-10401
+Belts and sheaves,intermittent,False,0,IN-10402
+Seals,intermittent,False,0,IN-10403
+Gearboxes,lumpy,True,24,IN-10404
+Bearings,lumpy,True,23,IN-10405
+Gearboxes,intermittent,False,0,IN-10406
+Seals,intermittent,False,0,IN-10407
+Gearboxes,erratic,False,0,IN-10408
+Belts and sheaves,lumpy,False,0,IN-10409
+Hydraulic valves,erratic,False,0,IN-10410
+Belts and sheaves,intermittent,False,0,IN-10411
+Belts and sheaves,smooth,False,0,IN-10412
+Belts and sheaves,intermittent,False,0,IN-10413
+Gearboxes,intermittent,False,0,IN-10414
+Hydraulic valves,intermittent,False,0,IN-10415
+Gearboxes,erratic,False,0,IN-10416
+Seals,intermittent,False,0,IN-10417
+Belts and sheaves,smooth,False,0,IN-10418
+Bearings,lumpy,False,0,IN-10419
+Seals,intermittent,False,0,IN-10420
+Seals,intermittent,False,0,IN-10421
+Hydraulic valves,erratic,False,0,IN-10422
+Seals,intermittent,False,0,IN-10423
+Bearings,intermittent,False,0,IN-10424
+Belts and sheaves,intermittent,False,0,IN-10425
+Gearboxes,intermittent,False,0,IN-10426
+Hydraulic valves,erratic,False,0,IN-10427
+Seals,smooth,False,0,IN-10428
+Seals,intermittent,False,0,IN-10429
+Gearboxes,intermittent,False,0,IN-10430
+Hydraulic valves,erratic,False,0,IN-10431
+Hydraulic valves,intermittent,False,0,IN-10432
+Seals,intermittent,False,0,IN-10433
+Gearboxes,intermittent,False,0,IN-10434
+Gearboxes,smooth,False,0,IN-10435
+Gearboxes,intermittent,False,0,IN-10436
+Belts and sheaves,intermittent,False,0,IN-10437
+Belts and sheaves,intermittent,False,0,IN-10438
+Seals,intermittent,False,0,IN-10439
+Bearings,lumpy,False,0,IN-10440
+Seals,smooth,False,0,IN-10441
+Gearboxes,intermittent,False,0,IN-10442
+Bearings,intermittent,False,0,IN-10443
+Belts and sheaves,intermittent,False,0,IN-10444
+Hydraulic valves,lumpy,False,0,IN-10445
+Bearings,intermittent,False,0,IN-10446
+Gearboxes,lumpy,False,0,IN-10447
+Bearings,smooth,False,0,IN-10448
+Belts and sheaves,intermittent,False,0,IN-10449
+Bearings,intermittent,False,0,IN-10450
+Belts and sheaves,lumpy,False,0,IN-10451
+Seals,intermittent,False,0,IN-10452
+Gearboxes,intermittent,False,0,IN-10453
+Hydraulic valves,lumpy,False,0,IN-10454
+Seals,lumpy,False,0,IN-10455
+Belts and sheaves,intermittent,False,0,IN-10456
+Belts and sheaves,intermittent,False,0,IN-10457
+Bearings,intermittent,False,0,IN-10458
+Bearings,lumpy,False,0,IN-10459
+Gearboxes,erratic,False,0,IN-10460
+Seals,smooth,False,0,IN-10461
+Hydraulic valves,erratic,False,0,IN-10462
+Bearings,intermittent,False,0,IN-10463
+Hydraulic valves,intermittent,False,0,IN-10464
+Hydraulic valves,intermittent,False,0,IN-10465
+Hydraulic valves,smooth,False,0,IN-10466
+Belts and sheaves,intermittent,False,0,IN-10467
+Belts and sheaves,lumpy,False,0,IN-10468
+Hydraulic valves,intermittent,False,0,IN-10469
+Belts and sheaves,smooth,False,0,IN-10470
+Hydraulic valves,intermittent,False,0,IN-10471
+Belts and sheaves,smooth,False,0,IN-10472
+Hydraulic valves,intermittent,False,0,IN-10473
+Bearings,intermittent,False,0,IN-10474
+Seals,erratic,False,0,IN-10475
+Seals,intermittent,False,0,IN-10476
+Seals,intermittent,False,0,IN-10477
+Hydraulic valves,intermittent,False,0,IN-10478
+Seals,intermittent,True,42,IN-10479
+Seals,intermittent,False,0,IN-10480
+Hydraulic valves,intermittent,False,0,IN-10481
+Gearboxes,smooth,False,0,IN-10482
+Seals,intermittent,False,0,IN-10483
+Bearings,intermittent,False,0,IN-10484
+Hydraulic valves,lumpy,False,0,IN-10485
+Belts and sheaves,erratic,False,0,IN-10486
+Hydraulic valves,intermittent,False,0,IN-10487
+Bearings,smooth,False,0,IN-10488
+Belts and sheaves,lumpy,False,0,IN-10489
+Hydraulic valves,lumpy,False,0,IN-10490
+Gearboxes,lumpy,True,5,IN-10491
+Hydraulic valves,smooth,False,0,IN-10492
+Seals,erratic,False,0,IN-10493
+Gearboxes,intermittent,False,0,IN-10494
+Seals,intermittent,False,0,IN-10495
+Bearings,intermittent,False,0,IN-10496
+Hydraulic valves,lumpy,False,0,IN-10497
+Hydraulic valves,intermittent,False,0,IN-10498
+Hydraulic valves,erratic,False,0,IN-10499
+Seals,smooth,False,0,IN-10500
+Bearings,smooth,False,0,IN-10501
+Seals,intermittent,False,0,IN-10502
+Bearings,lumpy,False,0,IN-10503
+Belts and sheaves,lumpy,False,0,IN-10504
+Gearboxes,intermittent,False,0,IN-10505
+Bearings,intermittent,False,0,IN-10506
+Belts and sheaves,intermittent,False,0,IN-10507
+Bearings,lumpy,False,0,IN-10508
+Gearboxes,intermittent,False,0,IN-10509
+Seals,erratic,False,0,IN-10510
+Hydraulic valves,intermittent,False,0,IN-10511
+Hydraulic valves,intermittent,False,0,IN-10512
+Bearings,erratic,False,0,IN-10513
+Belts and sheaves,intermittent,False,0,IN-10514
+Bearings,intermittent,False,0,IN-10515
+Hydraulic valves,smooth,False,0,IN-10516
+Seals,intermittent,True,38,IN-10517
+Bearings,erratic,False,0,IN-10518
+Bearings,intermittent,True,52,IN-10519
+Gearboxes,lumpy,False,0,IN-10520
+Belts and sheaves,erratic,False,0,IN-10521
+Belts and sheaves,intermittent,False,0,IN-10522
+Seals,intermittent,False,0,IN-10523
+Gearboxes,lumpy,False,0,IN-10524
+Gearboxes,lumpy,False,0,IN-10525
+Bearings,intermittent,False,0,IN-10526
+Hydraulic valves,intermittent,False,0,IN-10527
+Hydraulic valves,intermittent,True,21,IN-10528
+Gearboxes,lumpy,False,0,IN-10529
+Belts and sheaves,intermittent,False,0,IN-10530
+Seals,intermittent,False,0,IN-10531
+Bearings,intermittent,False,0,IN-10532
+Gearboxes,intermittent,False,0,IN-10533
+Gearboxes,intermittent,False,0,IN-10534
+Seals,intermittent,False,0,IN-10535
+Belts and sheaves,intermittent,False,0,IN-10536
+Bearings,erratic,False,0,IN-10537
+Belts and sheaves,smooth,False,0,IN-10538
+Seals,intermittent,False,0,IN-10539
+Bearings,lumpy,False,0,IN-10540
+Gearboxes,smooth,False,0,IN-10541
+Belts and sheaves,intermittent,False,0,IN-10542
+Hydraulic valves,intermittent,False,0,IN-10543
+Belts and sheaves,lumpy,False,0,IN-10544
+Bearings,erratic,False,0,IN-10545
+Seals,smooth,False,0,IN-10546
+Gearboxes,lumpy,False,0,IN-10547
+Gearboxes,erratic,False,0,IN-10548
+Seals,intermittent,False,0,IN-10549
+Bearings,intermittent,False,0,IN-10550
+Gearboxes,intermittent,False,0,IN-10551
+Belts and sheaves,intermittent,False,0,IN-10552
+Bearings,intermittent,False,0,IN-10553
+Bearings,intermittent,False,0,IN-10554
+Gearboxes,smooth,False,0,IN-10555
+Seals,smooth,False,0,IN-10556
+Gearboxes,erratic,False,0,IN-10557
+Bearings,intermittent,False,0,IN-10558
+Gearboxes,intermittent,False,0,IN-10559
+Gearboxes,smooth,False,0,IN-10560
+Gearboxes,smooth,False,0,IN-10561
+Belts and sheaves,intermittent,False,0,IN-10562
+Bearings,intermittent,False,0,IN-10563
+Belts and sheaves,intermittent,False,0,IN-10564
+Hydraulic valves,intermittent,False,0,IN-10565
+Seals,smooth,False,0,IN-10566
+Belts and sheaves,smooth,False,0,IN-10567
+Hydraulic valves,erratic,False,0,IN-10568
+Hydraulic valves,intermittent,False,0,IN-10569
+Bearings,intermittent,False,0,IN-10570
+Belts and sheaves,smooth,False,0,IN-10571
+Seals,erratic,False,0,IN-10572
+Seals,intermittent,False,0,IN-10573
+Seals,intermittent,False,0,IN-10574
+Gearboxes,intermittent,False,0,IN-10575
+Belts and sheaves,erratic,False,0,IN-10576
+Bearings,erratic,False,0,IN-10577
+Bearings,intermittent,False,0,IN-10578
+Seals,intermittent,False,0,IN-10579
+Belts and sheaves,intermittent,False,0,IN-10580
+Seals,lumpy,False,0,IN-10581
+Belts and sheaves,erratic,False,0,IN-10582
+Belts and sheaves,erratic,False,0,IN-10583
+Bearings,intermittent,False,0,IN-10584
+Belts and sheaves,intermittent,False,0,IN-10585
+Bearings,smooth,False,0,IN-10586
+Seals,erratic,False,0,IN-10587
+Seals,lumpy,False,0,IN-10588
+Gearboxes,intermittent,False,0,IN-10589
+Gearboxes,intermittent,False,0,IN-10590
+Bearings,intermittent,False,0,IN-10591
+Belts and sheaves,intermittent,False,0,IN-10592
+Bearings,intermittent,False,0,IN-10593
+Gearboxes,intermittent,False,0,IN-10594
+Bearings,intermittent,False,0,IN-10595
+Bearings,intermittent,False,0,IN-10596
+Belts and sheaves,lumpy,False,0,IN-10597
+Bearings,intermittent,False,0,IN-10598
+Seals,intermittent,False,0,IN-10599
+Hydraulic valves,intermittent,False,0,IN-10600
+Hydraulic valves,intermittent,False,0,IN-10601
+Gearboxes,erratic,False,0,IN-10602
+Seals,lumpy,False,0,IN-10603
+Seals,erratic,False,0,IN-10604
+Seals,erratic,False,0,IN-10605
+Bearings,lumpy,False,0,IN-10606
+Seals,smooth,True,2,IN-10607
+Gearboxes,intermittent,False,0,IN-10608
+Belts and sheaves,intermittent,False,0,IN-10609
+Bearings,intermittent,False,0,IN-10610
+Gearboxes,lumpy,False,0,IN-10611
+Bearings,intermittent,False,0,IN-10612
+Seals,smooth,False,0,IN-10613
+Bearings,intermittent,False,0,IN-10614
+Seals,erratic,False,0,IN-10615
+Seals,intermittent,False,0,IN-10616
+Belts and sheaves,smooth,False,0,IN-10617
+Bearings,intermittent,False,0,IN-10618
+Bearings,intermittent,False,0,IN-10619
+Belts and sheaves,intermittent,False,0,IN-10620
+Belts and sheaves,intermittent,False,0,IN-10621
+Seals,intermittent,False,0,IN-10622
+Belts and sheaves,intermittent,False,0,IN-10623
+Gearboxes,intermittent,False,0,IN-10624
+Gearboxes,intermittent,False,0,IN-10625
+Seals,intermittent,False,0,IN-10626
+Seals,erratic,False,0,IN-10627
+Bearings,intermittent,False,0,IN-10628
+Gearboxes,erratic,False,0,IN-10629
+Seals,intermittent,False,0,IN-10630
+Seals,lumpy,False,0,IN-10631
+Hydraulic valves,erratic,False,0,IN-10632
+Bearings,intermittent,False,0,IN-10633
+Belts and sheaves,intermittent,False,0,IN-10634
+Seals,intermittent,False,0,IN-10635
+Belts and sheaves,lumpy,True,15,IN-10636
+Gearboxes,intermittent,False,0,IN-10637
+Bearings,erratic,False,0,IN-10638
+Hydraulic valves,intermittent,False,0,IN-10639
+Hydraulic valves,erratic,False,0,IN-10640
+Belts and sheaves,intermittent,False,0,IN-10641
+Seals,intermittent,False,0,IN-10642
+Belts and sheaves,intermittent,False,0,IN-10643
+Belts and sheaves,intermittent,False,0,IN-10644
+Hydraulic valves,smooth,False,0,IN-10645
+Seals,intermittent,False,0,IN-10646
+Bearings,smooth,False,0,IN-10647
+Hydraulic valves,intermittent,False,0,IN-10648
+Hydraulic valves,intermittent,False,0,IN-10649
+Bearings,lumpy,False,0,IN-10650
+Seals,lumpy,False,0,IN-10651
+Bearings,erratic,False,0,IN-10652
+Belts and sheaves,intermittent,False,0,IN-10653
+Seals,erratic,False,0,IN-10654
+Belts and sheaves,lumpy,False,0,IN-10655
+Bearings,intermittent,False,0,IN-10656
+Gearboxes,smooth,False,0,IN-10657
+Gearboxes,erratic,False,0,IN-10658
+Belts and sheaves,smooth,False,0,IN-10659
+Belts and sheaves,intermittent,False,0,IN-10660
+Gearboxes,intermittent,False,0,IN-10661
+Gearboxes,smooth,False,0,IN-10662
+Gearboxes,intermittent,False,0,IN-10663
+Hydraulic valves,intermittent,False,0,IN-10664
+Hydraulic valves,intermittent,True,12,IN-10665
+Gearboxes,intermittent,False,0,IN-10666
+Seals,intermittent,False,0,IN-10667
+Gearboxes,lumpy,False,0,IN-10668
+Belts and sheaves,intermittent,True,15,IN-10669
+Hydraulic valves,intermittent,False,0,IN-10670
+Belts and sheaves,intermittent,False,0,IN-10671
+Gearboxes,lumpy,False,0,IN-10672
+Gearboxes,intermittent,False,0,IN-10673
+Seals,erratic,False,0,IN-10674
+Seals,intermittent,False,0,IN-10675
+Hydraulic valves,erratic,False,0,IN-10676
+Seals,erratic,True,41,IN-10677
+Bearings,smooth,False,0,IN-10678
+Bearings,intermittent,False,0,IN-10679
+Seals,intermittent,False,0,IN-10680
+Seals,lumpy,False,0,IN-10681
+Hydraulic valves,erratic,False,0,IN-10682
+Bearings,erratic,False,0,IN-10683
+Seals,smooth,False,0,IN-10684
+Seals,intermittent,False,0,IN-10685
+Hydraulic valves,intermittent,False,0,IN-10686
+Seals,intermittent,False,0,IN-10687
+Hydraulic valves,intermittent,False,0,IN-10688
+Belts and sheaves,lumpy,False,0,IN-10689
+Seals,erratic,False,0,IN-10690
+Hydraulic valves,lumpy,False,0,IN-10691
+Gearboxes,intermittent,False,0,IN-10692
+Belts and sheaves,intermittent,False,0,IN-10693
+Belts and sheaves,intermittent,False,0,IN-10694
+Belts and sheaves,intermittent,False,0,IN-10695
+Bearings,erratic,True,18,IN-10696
+Hydraulic valves,erratic,False,0,IN-10697
+Bearings,lumpy,False,0,IN-10698
+Gearboxes,erratic,True,11,IN-10699
+Hydraulic valves,intermittent,False,0,IN-10700
+Bearings,lumpy,False,0,IN-10701
+Belts and sheaves,lumpy,False,0,IN-10702
+Bearings,erratic,False,0,IN-10703
+Bearings,lumpy,False,0,IN-10704
+Belts and sheaves,intermittent,False,0,IN-10705
+Bearings,intermittent,False,0,IN-10706
+Hydraulic valves,intermittent,False,0,IN-10707
+Belts and sheaves,intermittent,False,0,IN-10708
+Seals,smooth,False,0,IN-10709
+Bearings,intermittent,False,0,IN-10710
+Gearboxes,intermittent,False,0,IN-10711
+Hydraulic valves,intermittent,False,0,IN-10712
+Belts and sheaves,intermittent,False,0,IN-10713
+Belts and sheaves,intermittent,True,16,IN-10714
+Seals,intermittent,False,0,IN-10715
+Gearboxes,intermittent,False,0,IN-10716
+Hydraulic valves,intermittent,False,0,IN-10717
+Seals,erratic,False,0,IN-10718
+Belts and sheaves,lumpy,False,0,IN-10719
+Hydraulic valves,lumpy,True,25,IN-10720
+Seals,erratic,False,0,IN-10721
+Seals,erratic,False,0,IN-10722
+Bearings,erratic,False,0,IN-10723
+Belts and sheaves,intermittent,False,0,IN-10724
+Belts and sheaves,intermittent,False,0,IN-10725
+Hydraulic valves,intermittent,False,0,IN-10726
+Belts and sheaves,lumpy,False,0,IN-10727
+Bearings,intermittent,True,34,IN-10728
+Hydraulic valves,intermittent,False,0,IN-10729
+Bearings,smooth,False,0,IN-10730
+Seals,intermittent,False,0,IN-10731
+Hydraulic valves,intermittent,False,0,IN-10732
+Belts and sheaves,intermittent,False,0,IN-10733
+Hydraulic valves,intermittent,False,0,IN-10734
+Bearings,intermittent,False,0,IN-10735
+Belts and sheaves,lumpy,False,0,IN-10736
+Belts and sheaves,erratic,False,0,IN-10737
+Bearings,intermittent,False,0,IN-10738
+Bearings,intermittent,False,0,IN-10739
+Bearings,intermittent,False,0,IN-10740
+Seals,smooth,False,0,IN-10741
+Seals,intermittent,False,0,IN-10742
+Hydraulic valves,lumpy,False,0,IN-10743
+Belts and sheaves,lumpy,False,0,IN-10744
+Gearboxes,erratic,False,0,IN-10745
+Belts and sheaves,intermittent,False,0,IN-10746
+Bearings,erratic,False,0,IN-10747
+Seals,intermittent,True,41,IN-10748
+Seals,lumpy,False,0,IN-10749
+Belts and sheaves,lumpy,False,0,IN-10750
+Seals,intermittent,False,0,IN-10751
+Hydraulic valves,lumpy,False,0,IN-10752
+Gearboxes,lumpy,False,0,IN-10753
+Seals,lumpy,False,0,IN-10754
+Seals,lumpy,False,0,IN-10755
+Hydraulic valves,intermittent,True,31,IN-10756
+Gearboxes,intermittent,False,0,IN-10757
+Seals,intermittent,False,0,IN-10758
+Bearings,intermittent,False,0,IN-10759
+Belts and sheaves,intermittent,False,0,IN-10760
+Belts and sheaves,smooth,False,0,IN-10761
+Hydraulic valves,intermittent,True,15,IN-10762
+Bearings,intermittent,False,0,IN-10763
+Belts and sheaves,erratic,False,0,IN-10764
+Bearings,intermittent,False,0,IN-10765
+Bearings,intermittent,False,0,IN-10766
+Hydraulic valves,smooth,True,42,IN-10767
+Gearboxes,erratic,False,0,IN-10768
+Belts and sheaves,lumpy,False,0,IN-10769
+Bearings,erratic,False,0,IN-10770
+Bearings,lumpy,False,0,IN-10771
+Gearboxes,intermittent,False,0,IN-10772
+Belts and sheaves,intermittent,False,0,IN-10773
+Gearboxes,intermittent,False,0,IN-10774
+Seals,intermittent,False,0,IN-10775
+Belts and sheaves,intermittent,False,0,IN-10776
+Belts and sheaves,intermittent,False,0,IN-10777
+Belts and sheaves,lumpy,False,0,IN-10778
+Bearings,intermittent,False,0,IN-10779
+Seals,intermittent,False,0,IN-10780
+Gearboxes,intermittent,False,0,IN-10781
+Bearings,intermittent,False,0,IN-10782
+Belts and sheaves,intermittent,False,0,IN-10783
+Belts and sheaves,intermittent,False,0,IN-10784
+Hydraulic valves,lumpy,False,0,IN-10785
+Hydraulic valves,intermittent,False,0,IN-10786
+Belts and sheaves,intermittent,False,0,IN-10787
+Hydraulic valves,intermittent,False,0,IN-10788
+Hydraulic valves,smooth,False,0,IN-10789
+Seals,intermittent,False,0,IN-10790
+Seals,intermittent,False,0,IN-10791
+Belts and sheaves,intermittent,False,0,IN-10792
+Hydraulic valves,erratic,False,0,IN-10793
+Belts and sheaves,intermittent,False,0,IN-10794
+Belts and sheaves,intermittent,False,0,IN-10795
+Belts and sheaves,intermittent,False,0,IN-10796
+Hydraulic valves,intermittent,False,0,IN-10797
+Belts and sheaves,smooth,False,0,IN-10798
+Gearboxes,intermittent,False,0,IN-10799
+Belts and sheaves,intermittent,False,0,IN-10800
+Seals,intermittent,False,0,IN-10801
+Belts and sheaves,lumpy,False,0,IN-10802
+Gearboxes,intermittent,False,0,IN-10803
+Hydraulic valves,lumpy,False,0,IN-10804
+Belts and sheaves,intermittent,False,0,IN-10805
+Gearboxes,intermittent,False,0,IN-10806
+Belts and sheaves,lumpy,False,0,IN-10807
+Gearboxes,intermittent,False,0,IN-10808
+Hydraulic valves,intermittent,False,0,IN-10809
+Gearboxes,intermittent,False,0,IN-10810
+Belts and sheaves,lumpy,True,45,IN-10811
+Gearboxes,intermittent,False,0,IN-10812
+Bearings,erratic,False,0,IN-10813
+Bearings,erratic,True,48,IN-10814
+Hydraulic valves,intermittent,False,0,IN-10815
+Seals,intermittent,False,0,IN-10816
+Bearings,intermittent,False,0,IN-10817
+Bearings,intermittent,False,0,IN-10818
+Gearboxes,intermittent,False,0,IN-10819
+Bearings,intermittent,False,0,IN-10820
+Bearings,intermittent,False,0,IN-10821
+Belts and sheaves,lumpy,False,0,IN-10822
+Belts and sheaves,smooth,False,0,IN-10823
+Gearboxes,intermittent,False,0,IN-10824
+Seals,intermittent,False,0,IN-10825
+Hydraulic valves,erratic,False,0,IN-10826
+Bearings,erratic,False,0,IN-10827
+Seals,intermittent,False,0,IN-10828
+Seals,erratic,False,0,IN-10829
+Belts and sheaves,smooth,False,0,IN-10830
+Hydraulic valves,lumpy,False,0,IN-10831
+Gearboxes,lumpy,False,0,IN-10832
+Bearings,intermittent,True,28,IN-10833
+Bearings,intermittent,False,0,IN-10834
+Bearings,intermittent,False,0,IN-10835
+Belts and sheaves,intermittent,False,0,IN-10836
+Belts and sheaves,intermittent,False,0,IN-10837
+Hydraulic valves,smooth,False,0,IN-10838
+Seals,intermittent,False,0,IN-10839
+Bearings,intermittent,True,39,IN-10840
+Bearings,intermittent,False,0,IN-10841
+Hydraulic valves,lumpy,False,0,IN-10842
+Seals,intermittent,False,0,IN-10843
+Bearings,intermittent,False,0,IN-10844
+Hydraulic valves,erratic,False,0,IN-10845
+Seals,erratic,False,0,IN-10846
+Seals,intermittent,False,0,IN-10847
+Seals,intermittent,False,0,IN-10848
+Seals,intermittent,False,0,IN-10849
+Seals,erratic,False,0,IN-10850
+Seals,lumpy,False,0,IN-10851
+Hydraulic valves,intermittent,False,0,IN-10852
+Bearings,intermittent,False,0,IN-10853
+Hydraulic valves,intermittent,False,0,IN-10854
+Hydraulic valves,intermittent,False,0,IN-10855
+Gearboxes,intermittent,False,0,IN-10856
+Gearboxes,intermittent,False,0,IN-10857
+Belts and sheaves,intermittent,False,0,IN-10858
+Gearboxes,erratic,False,0,IN-10859
+Seals,erratic,False,0,IN-10860
+Bearings,intermittent,False,0,IN-10861
+Seals,intermittent,False,0,IN-10862
+Bearings,intermittent,False,0,IN-10863
+Belts and sheaves,intermittent,False,0,IN-10864
+Bearings,smooth,False,0,IN-10865
+Hydraulic valves,smooth,False,0,IN-10866
+Hydraulic valves,intermittent,False,0,IN-10867
+Gearboxes,intermittent,False,0,IN-10868
+Belts and sheaves,intermittent,False,0,IN-10869
+Seals,erratic,False,0,IN-10870
+Bearings,intermittent,False,0,IN-10871
+Hydraulic valves,smooth,False,0,IN-10872
+Hydraulic valves,lumpy,False,0,IN-10873
+Belts and sheaves,erratic,False,0,IN-10874
+Belts and sheaves,intermittent,False,0,IN-10875
+Gearboxes,smooth,False,0,IN-10876
+Hydraulic valves,lumpy,False,0,IN-10877
+Gearboxes,intermittent,False,0,IN-10878
+Gearboxes,erratic,False,0,IN-10879
+Seals,lumpy,False,0,IN-10880
+Seals,lumpy,False,0,IN-10881
+Hydraulic valves,lumpy,False,0,IN-10882
+Seals,lumpy,False,0,IN-10883
+Belts and sheaves,smooth,False,0,IN-10884
+Seals,intermittent,False,0,IN-10885
+Bearings,intermittent,False,0,IN-10886
+Belts and sheaves,intermittent,False,0,IN-10887
+Seals,lumpy,False,0,IN-10888
+Hydraulic valves,intermittent,False,0,IN-10889
+Belts and sheaves,lumpy,False,0,IN-10890
+Seals,lumpy,False,0,IN-10891
+Hydraulic valves,intermittent,True,9,IN-10892
+Seals,intermittent,False,0,IN-10893
+Bearings,intermittent,False,0,IN-10894
+Gearboxes,intermittent,False,0,IN-10895
+Gearboxes,erratic,False,0,IN-10896
+Seals,intermittent,False,0,IN-10897
+Belts and sheaves,smooth,False,0,IN-10898
+Bearings,lumpy,False,0,IN-10899
+Belts and sheaves,lumpy,False,0,IN-10900
+Belts and sheaves,intermittent,False,0,IN-10901
+Gearboxes,intermittent,False,0,IN-10902
+Hydraulic valves,smooth,False,0,IN-10903
+Bearings,intermittent,False,0,IN-10904
+Bearings,intermittent,False,0,IN-10905
+Bearings,intermittent,False,0,IN-10906
+Gearboxes,lumpy,False,0,IN-10907
+Bearings,smooth,False,0,IN-10908
+Seals,intermittent,False,0,IN-10909
+Seals,smooth,False,0,IN-10910
+Seals,intermittent,False,0,IN-10911
+Bearings,intermittent,False,0,IN-10912
+Gearboxes,lumpy,False,0,IN-10913
+Belts and sheaves,intermittent,False,0,IN-10914
+Seals,intermittent,False,0,IN-10915
+Hydraulic valves,intermittent,False,0,IN-10916
+Belts and sheaves,intermittent,False,0,IN-10917
+Bearings,intermittent,False,0,IN-10918
+Gearboxes,intermittent,False,0,IN-10919
+Hydraulic valves,lumpy,False,0,IN-10920
+Hydraulic valves,erratic,False,0,IN-10921
+Gearboxes,lumpy,False,0,IN-10922
+Hydraulic valves,intermittent,False,0,IN-10923
+Seals,intermittent,False,0,IN-10924
+Gearboxes,intermittent,False,0,IN-10925
+Bearings,lumpy,False,0,IN-10926
+Seals,intermittent,False,0,IN-10927
+Hydraulic valves,intermittent,False,0,IN-10928
+Hydraulic valves,erratic,False,0,IN-10929
+Seals,lumpy,False,0,IN-10930
+Hydraulic valves,intermittent,False,0,IN-10931
+Bearings,lumpy,False,0,IN-10932
+Hydraulic valves,intermittent,False,0,IN-10933
+Belts and sheaves,intermittent,False,0,IN-10934
+Gearboxes,lumpy,False,0,IN-10935
+Bearings,lumpy,False,0,IN-10936
+Hydraulic valves,erratic,False,0,IN-10937
+Gearboxes,intermittent,False,0,IN-10938
+Bearings,lumpy,False,0,IN-10939
+Bearings,smooth,False,0,IN-10940
+Belts and sheaves,intermittent,True,19,IN-10941
+Bearings,intermittent,False,0,IN-10942
+Belts and sheaves,intermittent,False,0,IN-10943
+Seals,intermittent,False,0,IN-10944
+Gearboxes,lumpy,False,0,IN-10945
+Belts and sheaves,intermittent,False,0,IN-10946
+Seals,intermittent,False,0,IN-10947
+Gearboxes,intermittent,False,0,IN-10948
+Belts and sheaves,intermittent,False,0,IN-10949
+Gearboxes,lumpy,False,0,IN-10950
+Bearings,lumpy,False,0,IN-10951
+Seals,intermittent,False,0,IN-10952
+Bearings,intermittent,False,0,IN-10953
+Hydraulic valves,smooth,False,0,IN-10954
+Seals,intermittent,False,0,IN-10955
+Seals,intermittent,False,0,IN-10956
+Hydraulic valves,erratic,False,0,IN-10957
+Hydraulic valves,lumpy,False,0,IN-10958
+Seals,intermittent,False,0,IN-10959
+Bearings,smooth,False,0,IN-10960
+Hydraulic valves,intermittent,False,0,IN-10961
+Bearings,smooth,False,0,IN-10962
+Hydraulic valves,intermittent,False,0,IN-10963
+Hydraulic valves,lumpy,False,0,IN-10964
+Gearboxes,intermittent,False,0,IN-10965
+Bearings,smooth,False,0,IN-10966
+Seals,intermittent,False,0,IN-10967
+Seals,intermittent,True,29,IN-10968
+Gearboxes,intermittent,False,0,IN-10969
+Hydraulic valves,intermittent,False,0,IN-10970
+Bearings,smooth,False,0,IN-10971
+Gearboxes,lumpy,False,0,IN-10972
+Bearings,erratic,False,0,IN-10973
+Hydraulic valves,erratic,False,0,IN-10974
+Belts and sheaves,lumpy,False,0,IN-10975
+Hydraulic valves,intermittent,False,0,IN-10976
+Bearings,intermittent,False,0,IN-10977
+Seals,erratic,False,0,IN-10978
+Seals,intermittent,False,0,IN-10979
+Belts and sheaves,intermittent,False,0,IN-10980
+Gearboxes,smooth,False,0,IN-10981
+Belts and sheaves,intermittent,False,0,IN-10982
+Bearings,intermittent,False,0,IN-10983
+Seals,intermittent,False,0,IN-10984
+Belts and sheaves,intermittent,False,0,IN-10985
+Hydraulic valves,intermittent,False,0,IN-10986
+Gearboxes,lumpy,False,0,IN-10987
+Belts and sheaves,intermittent,False,0,IN-10988
+Bearings,lumpy,False,0,IN-10989
+Belts and sheaves,intermittent,False,0,IN-10990
+Belts and sheaves,intermittent,False,0,IN-10991
+Hydraulic valves,lumpy,False,0,IN-10992
+Hydraulic valves,intermittent,False,0,IN-10993
+Bearings,intermittent,False,0,IN-10994
+Belts and sheaves,intermittent,False,0,IN-10995
+Bearings,smooth,True,39,IN-10996
+Hydraulic valves,erratic,False,0,IN-10997
+Seals,intermittent,False,0,IN-10998
+Seals,erratic,False,0,IN-10999

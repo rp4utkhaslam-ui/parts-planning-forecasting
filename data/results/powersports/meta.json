@@ -1,0 +1,15 @@
+{
+  "vertical": "powersports",
+  "label": "Powersports parts",
+  "source": "data/synthetic/powersports",
+  "uploaded": false,
+  "first_week": "2023-11-27",
+  "last_week": "2026-11-16",
+  "backtest_start": "2026-02-23",
+  "horizon": 13,
+  "windows": 3,
+  "forecast_start": "2026-11-23",
+  "eligible_series": 1957,
+  "series": 2000,
+  "runtime_seconds": 13
+}

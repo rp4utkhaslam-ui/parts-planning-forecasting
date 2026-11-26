@@ -1,0 +1,13 @@
+supplier_id,name,lead_time_weeks,lead_time_sd_weeks,min_order_value
+SAG00,Overseas supplier 1,13,5.0,0
+SAG01,Overseas supplier 2,11,4.1,1000
+SAG02,Domestic supplier 3,4,1.5,500
+SAG03,Overseas supplier 4,13,3.0,1000
+SAG04,Domestic supplier 5,7,2.6,250
+SAG05,Domestic supplier 6,2,0.3,250
+SAG06,Domestic supplier 7,6,1.4,500
+SAG07,Overseas supplier 8,10,2.3,500
+SAG08,Domestic supplier 9,7,2.6,250
+SAG09,Overseas supplier 10,11,3.2,1000
+SAG10,Domestic supplier 11,3,1.0,1000
+SAG11,Domestic supplier 12,6,2.3,1000

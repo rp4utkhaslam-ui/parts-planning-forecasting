@@ -1,0 +1,5 @@
+location_id,name,location_type,parent_warehouse
+DC,Central warehouse,warehouse,
+DBN,Dearborn branch,branch,DC
+LNP,Lincoln Park branch,branch,DC
+WAR,Warren branch,branch,DC

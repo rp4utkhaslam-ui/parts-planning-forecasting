@@ -1,0 +1,15 @@
+{
+  "vertical": "auto_hd",
+  "label": "Auto and heavy-duty WD",
+  "source": "data/synthetic/auto_hd",
+  "uploaded": false,
+  "first_week": "2023-11-27",
+  "last_week": "2026-11-16",
+  "backtest_start": "2026-02-23",
+  "horizon": 13,
+  "windows": 3,
+  "forecast_start": "2026-11-23",
+  "eligible_series": 4246,
+  "series": 4800,
+  "runtime_seconds": 25
+}

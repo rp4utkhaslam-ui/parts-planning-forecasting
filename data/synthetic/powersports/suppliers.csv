@@ -1,0 +1,13 @@
+supplier_id,name,lead_time_weeks,lead_time_sd_weeks,min_order_value
+SPO00,Overseas supplier 1,16,4.1,0
+SPO01,Overseas supplier 2,14,5.5,250
+SPO02,Overseas supplier 3,15,5.0,250
+SPO03,Domestic supplier 4,2,0.7,0
+SPO04,Overseas supplier 5,16,4.5,0
+SPO05,Domestic supplier 6,2,0.7,1000
+SPO06,Domestic supplier 7,2,0.4,1000
+SPO07,Domestic supplier 8,6,1.7,250
+SPO08,Overseas supplier 9,14,4.4,250
+SPO09,Domestic supplier 10,4,1.0,1000
+SPO10,Domestic supplier 11,4,1.6,500
+SPO11,Domestic supplier 12,3,0.5,0

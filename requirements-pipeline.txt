@@ -1,0 +1,2 @@
+# Kept for older instructions; requirements.txt now includes everything.
+-r requirements.txt

@@ -1,0 +1,15 @@
+{
+  "vertical": "ag_ope",
+  "label": "Ag and outdoor power equipment",
+  "source": "data/synthetic/ag_ope",
+  "uploaded": false,
+  "first_week": "2023-11-27",
+  "last_week": "2026-11-16",
+  "backtest_start": "2026-02-23",
+  "horizon": 13,
+  "windows": 3,
+  "forecast_start": "2026-11-23",
+  "eligible_series": 3442,
+  "series": 3600,
+  "runtime_seconds": 27
+}

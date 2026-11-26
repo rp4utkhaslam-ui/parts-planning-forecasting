@@ -1,0 +1,1237 @@
+item_id,description,category,unit_cost,price,status,condition,supplier_id,pack_size
+HD-10000,Ford S-cam bushing kit,Brakes,30.32,52.78,Active,New,SAU11,1
+HD-10001,Kenworth kingpin kit,Suspension,173.67,267.16,Active,New,SAU07,1
+HD-10002,Freightliner air dryer cartridge,Air system,16.31,25.62,Active,New,SAU09,1
+HD-10003,Ford kingpin kit,Suspension,16.83,28.74,Active,New,SAU08,1
+HD-10004,Freightliner brake shoe kit,Brakes,5.0,8.04,Active,New,SAU00,2
+HD-10005,Kenworth water pump,Cooling,3.55,5.79,Active,New,SAU08,25
+HD-10006,Kenworth brake shoe kit,Brakes,400.13,670.62,Active,New,SAU02,1
+HD-10007,Kenworth glad hand seal,Air system,9.56,14.07,Active,New,SAU07,2
+HD-10008,International brake shoe kit,Brakes,343.53,479.39,Active,New,SAU09,1
+HD-10009,Freightliner mirror head,Lighting,196.97,274.84,Active,New,SAU02,1
+HD-10010,GM air spring,Suspension,28.92,43.68,Active,New,SAU07,5
+HD-10011,International shock absorber,Suspension,3.71,5.97,Active,New,SAU05,1
+HD-10012,Peterbilt switch,Electrical,11.97,20.82,Active,New,SAU05,2
+HD-10013,Kenworth brake shoe kit,Brakes,18.24,29.3,Active,New,SAU01,1
+HD-10014,Kenworth marker lamp,Lighting,225.44,337.37,Active,New,SAU11,1
+HD-10015,Kenworth brake shoe kit,Brakes,425.4,661.48,Active,New,SAU04,1
+HD-10016,Kenworth trailer cord,Electrical,15.39,25.8,Active,New,SAU05,1
+HD-10017,Ford kingpin kit,Suspension,211.75,294.21,Active,New,SAU09,1
+HD-10018,International kingpin kit,Suspension,3.0,5.0,Active,New,SAU09,1
+HD-10019,Peterbilt mirror head,Lighting,117.0,165.34,Active,New,SAU01,1
+HD-10020,Ford battery,Electrical,7.47,12.53,Active,New,SAU09,2
+HD-10021,Freightliner brake chamber,Brakes,4.6,7.39,Active,New,SAU00,1
+HD-10022,Kenworth marker lamp,Lighting,40.3,66.97,Active,New,SAU04,1
+HD-10023,Freightliner air compressor,Air system,17.52,25.79,Active,New,SAU04,1
+HD-10024,Ford torque rod,Suspension,164.17,239.71,Active,New,SAU02,1
+HD-10025,Ford thermostat,Cooling,26.33,42.41,Active,New,SAU07,5
+HD-10026,Ford starter,Electrical,92.4,127.43,Active,New,SAU09,1
+HD-10027,Kenworth S-cam bushing kit,Brakes,132.58,236.69,Active,New,SAU04,10
+HD-10028,International starter,Electrical,25.33,39.06,Active,New,SAU01,10
+HD-10029,Freightliner radiator,Cooling,11.09,19.7,Active,New,SAU09,1
+HD-10030,Volvo mirror head,Lighting,6.22,9.52,Active,New,SAU07,10
+HD-10031,GM thermostat,Cooling,4.9,8.52,Active,New,SAU01,5
+HD-10032,Ford relay valve,Air system,22.06,31.06,Active,New,SAU00,5
+HD-10033,Ford S-cam bushing kit,Brakes,93.32,126.16,Active,New,SAU04,1
+HD-10034,Volvo tail lamp,Lighting,243.0,368.22,Active,New,SAU01,1
+HD-10035,Ford torque rod,Suspension,238.02,397.36,Active,New,SAU04,1
+HD-10036,Freightliner kingpin kit,Suspension,50.25,70.65,Active,New,SAU05,25
+HD-10037,GM LED headlamp,Lighting,12.62,18.31,Active,New,SAU02,2
+HD-10038,GM starter,Electrical,18.49,29.51,Active,New,SAU01,10
+HD-10039,Kenworth water pump,Cooling,11.78,20.78,Active,New,SAU00,5
+HD-10040,Freightliner turn signal,Lighting,30.11,40.66,Active,New,SAU06,5
+HD-10041,Volvo air spring,Suspension,17.82,24.14,Active,New,SAU04,1
+HD-10042,Freightliner coolant hose,Cooling,14.54,22.74,Active,New,SAU00,1
+HD-10043,Freightliner air dryer cartridge,Air system,370.5,605.57,Active,New,SAU11,1
+HD-10044,GM S-cam bushing kit,Brakes,30.47,54.09,Active,New,SAU00,5
+HD-10045,Ford tail lamp,Lighting,8.36,11.47,Active,New,SAU03,1
+HD-10046,International brake shoe kit,Brakes,26.79,37.25,Active,New,SAU11,5
+HD-10047,Kenworth leaf spring,Suspension,83.95,138.31,Active,New,SAU07,1
+HD-10048,Kenworth trailer cord,Electrical,115.03,172.09,Active,New,SAU04,1
+HD-10049,Ford coolant hose,Cooling,3.0,4.35,Active,New,SAU11,25
+HD-10050,Kenworth glad hand seal,Air system,76.45,110.48,Active,New,SAU00,2
+HD-10051,Ford slack adjuster,Brakes,12.51,17.14,Active,New,SAU11,1
+HD-10052,GM air spring,Suspension,79.04,113.27,Active,New,SAU06,1
+HD-10053,Freightliner battery,Electrical,37.01,54.45,Active,New,SAU00,5
+HD-10054,International glad hand seal,Air system,242.27,365.91,Active,New,SAU04,1
+HD-10055,GM mirror head,Lighting,176.96,263.92,Active,New,SAU03,1
+HD-10056,Ford slack adjuster,Brakes,62.32,110.19,Active,New,SAU09,5
+HD-10057,International relay valve,Air system,53.1,84.29,Active,New,SAU04,1
+HD-10058,GM relay valve,Air system,59.31,97.69,Active,New,SAU03,1
+HD-10059,GM S-cam bushing kit,Brakes,20.3,34.64,Active,New,SAU04,1
+HD-10060,International glad hand seal,Air system,70.3,103.67,Active,New,SAU03,25
+HD-10061,Peterbilt governor,Air system,4.71,7.24,Active,New,SAU06,1
+HD-10062,GM tail lamp,Lighting,392.56,544.76,Active,New,SAU10,1
+HD-10063,Peterbilt starter,Electrical,26.51,41.95,Active,New,SAU07,2
+HD-10064,Volvo governor,Air system,282.64,440.1,Active,New,SAU06,1
+HD-10065,Peterbilt alternator,Electrical,180.76,251.34,Active,New,SAU01,1
+HD-10066,Volvo relay valve,Air system,32.5,44.99,Active,New,SAU01,1
+HD-10067,Kenworth brake drum,Brakes,13.92,20.41,Active,New,SAU11,1
+HD-10068,Volvo turn signal,Lighting,13.4,23.46,Active,New,SAU02,1
+HD-10069,GM thermostat,Cooling,18.77,33.05,Active,New,SAU11,2
+HD-10070,Freightliner LED headlamp,Lighting,555.03,853.74,Active,New,SAU09,1
+HD-10071,Peterbilt S-cam bushing kit,Brakes,50.07,84.87,Active,New,SAU02,1
+HD-10072,International water pump,Cooling,11.33,18.03,Active,New,SAU06,1
+HD-10073,Freightliner battery,Electrical,54.22,88.77,Active,New,SAU09,2
+HD-10074,Volvo radiator,Cooling,107.74,189.01,Active,New,SAU10,5
+HD-10075,International air spring,Suspension,3.0,4.86,Active,New,SAU10,5
+HD-10076,International starter,Electrical,524.89,751.77,Active,New,SAU02,1
+HD-10077,Volvo air spring,Suspension,10.94,17.57,Active,New,SAU06,1
+HD-10078,Ford starter,Electrical,74.88,127.01,Active,New,SAU06,1
+HD-10079,Peterbilt mirror head,Lighting,33.59,49.31,Active,New,SAU08,25
+HD-10080,Peterbilt air spring,Suspension,235.75,382.43,Active,New,SAU08,1
+HD-10081,Volvo leaf spring,Suspension,17.61,24.55,Active,New,SAU09,1
+HD-10082,Ford fan clutch,Cooling,385.55,568.3,Active,New,SAU05,1
+HD-10083,Ford water pump,Cooling,4.71,7.91,Active,New,SAU01,1
+HD-10084,International water pump,Cooling,3.0,4.62,Active,New,SAU03,10
+HD-10085,Ford air compressor,Air system,42.43,73.89,Active,New,SAU01,2
+HD-10086,Kenworth slack adjuster,Brakes,136.05,221.32,Active,New,SAU07,25
+HD-10087,GM trailer cord,Electrical,5.69,8.07,Active,New,SAU07,1
+HD-10088,Peterbilt governor,Air system,28.98,44.88,Active,New,SAU10,2
+HD-10089,Kenworth brake drum,Brakes,251.74,425.53,Active,New,SAU04,1
+HD-10090,International starter,Electrical,111.33,172.38,Active,New,SAU06,1
+HD-10091,Kenworth S-cam bushing kit,Brakes,3.04,4.63,Active,New,SAU05,25
+HD-10092,Volvo governor,Air system,166.49,246.08,Active,New,SAU04,1
+HD-10093,Volvo fan clutch,Cooling,18.15,27.31,Active,New,SAU02,1
+HD-10094,Kenworth trailer cord,Electrical,308.72,527.54,Active,New,SAU03,1
+HD-10095,Freightliner glad hand seal,Air system,6.14,10.73,Active,New,SAU05,25
+HD-10096,Freightliner trailer cord,Electrical,4.58,6.78,Active,New,SAU00,2
+HD-10097,Kenworth battery,Electrical,20.25,35.25,Active,New,SAU06,25
+HD-10098,Peterbilt fan clutch,Cooling,139.47,191.95,Active,New,SAU10,10
+HD-10099,Freightliner glad hand seal,Air system,24.63,37.66,Active,New,SAU10,1
+HD-10100,Ford brake shoe kit,Brakes,3.0,4.25,Active,New,SAU05,1
+HD-10101,International S-cam bushing kit,Brakes,9.07,15.28,Active,New,SAU06,5
+HD-10102,Volvo fan clutch,Cooling,3.7,5.94,Active,New,SAU06,25
+HD-10103,GM starter,Electrical,7.79,11.72,Active,New,SAU07,5
+HD-10104,International fan clutch,Cooling,22.89,35.46,Active,New,SAU08,25
+HD-10105,Ford slack adjuster,Brakes,4.18,5.93,Active,New,SAU06,1
+HD-10106,Ford battery,Electrical,83.41,148.39,Active,New,SAU00,1
+HD-10107,Volvo shock absorber,Suspension,255.74,351.09,Active,New,SAU00,1
+HD-10108,Peterbilt water pump,Cooling,461.87,670.03,Active,New,SAU05,1
+HD-10109,Volvo fan clutch,Cooling,4.29,6.78,Active,New,SAU02,2
+HD-10110,Ford radiator,Cooling,9.68,14.36,Active,New,SAU07,2
+HD-10111,Kenworth relay valve,Air system,33.05,50.62,Active,New,SAU01,25
+HD-10112,International coolant hose,Cooling,5.29,7.24,Active,New,SAU11,10
+HD-10113,Kenworth marker lamp,Lighting,11.03,18.61,Active,New,SAU07,1
+HD-10114,Volvo water pump,Cooling,9.74,13.52,Active,New,SAU05,1
+HD-10115,Volvo marker lamp,Lighting,19.66,34.83,Active,New,SAU06,10
+HD-10116,Volvo air compressor,Air system,323.8,551.26,Active,New,SAU09,1
+HD-10117,International battery,Electrical,22.66,38.95,Active,New,SAU08,1
+HD-10118,Ford turn signal,Lighting,3.97,6.86,Active,New,SAU07,5
+HD-10119,Kenworth tail lamp,Lighting,67.07,93.96,Active,New,SAU03,1
+HD-10120,International slack adjuster,Brakes,50.82,68.72,Active,New,SAU02,2
+HD-10121,Freightliner coolant hose,Cooling,3.0,5.01,Active,New,SAU08,25
+HD-10122,GM LED headlamp,Lighting,81.08,116.87,Active,New,SAU01,1
+HD-10123,International air spring,Suspension,118.98,194.3,Active,New,SAU03,1
+HD-10124,International starter,Electrical,9.18,14.41,Active,New,SAU11,1
+HD-10125,GM glad hand seal,Air system,34.1,57.93,Active,New,SAU01,10
+HD-10126,GM starter,Electrical,31.3,48.38,Active,New,SAU08,1
+HD-10127,Volvo air dryer cartridge,Air system,418.93,637.47,Active,New,SAU07,1
+HD-10128,Peterbilt alternator,Electrical,4.11,5.7,Active,New,SAU00,1
+HD-10129,International air compressor,Air system,17.35,28.76,Active,New,SAU01,5
+HD-10130,Volvo coolant hose,Cooling,37.33,52.11,Active,New,SAU05,1
+HD-10131,Freightliner shock absorber,Suspension,46.74,76.9,Active,New,SAU04,25
+HD-10132,Freightliner battery,Electrical,231.14,324.08,Active,New,SAU10,1
+HD-10133,Ford air compressor,Air system,234.73,321.92,Active,New,SAU10,1
+HD-10134,Peterbilt slack adjuster,Brakes,3.0,5.11,Active,New,SAU06,1
+HD-10135,Kenworth tail lamp,Lighting,3.0,5.23,Active,New,SAU06,2
+HD-10136,Peterbilt mirror head,Lighting,87.82,132.93,Active,New,SAU01,1
+HD-10137,Volvo torque rod,Suspension,4.94,8.47,Active,New,SAU11,25
+HD-10138,Kenworth air compressor,Air system,7.23,12.9,Active,New,SAU06,10
+HD-10139,Freightliner tail lamp,Lighting,61.47,95.6,Active,New,SAU09,10
+HD-10140,Peterbilt trailer cord,Electrical,85.47,125.7,Active,New,SAU06,2
+HD-10141,GM switch,Electrical,161.71,223.61,Active,New,SAU01,1
+HD-10142,Peterbilt LED headlamp,Lighting,3.12,4.22,Active,New,SAU08,1
+HD-10143,Kenworth torque rod,Suspension,429.66,723.85,Active,New,SAU07,1
+HD-10144,GM slack adjuster,Brakes,3.92,5.89,Active,New,SAU00,25
+HD-10145,International brake drum,Brakes,6.53,11.46,Active,New,SAU00,10
+HD-10146,Kenworth turn signal,Lighting,19.83,35.04,Active,New,SAU01,5
+HD-10147,International brake chamber,Brakes,10.67,16.44,Active,New,SAU11,25
+HD-10148,Kenworth brake drum,Brakes,52.99,78.7,Active,New,SAU09,25
+HD-10149,Ford trailer cord,Electrical,59.88,103.74,Active,New,SAU08,1
+HD-10150,International glad hand seal,Air system,17.1,30.04,Active,New,SAU04,10
+HD-10151,Kenworth starter,Electrical,3.0,4.38,Active,New,SAU11,10
+HD-10152,GM air compressor,Air system,6.44,9.11,Active,New,SAU05,25
+HD-10153,Ford trailer cord,Electrical,65.67,113.36,Active,New,SAU08,1
+HD-10154,Volvo brake shoe kit,Brakes,3.0,5.21,Active,New,SAU06,2
+HD-10155,GM battery,Electrical,3.0,5.28,Active,New,SAU04,2
+HD-10156,Peterbilt turn signal,Lighting,293.61,429.33,Active,New,SAU11,1
+HD-10157,Peterbilt switch,Electrical,594.33,859.81,Active,New,SAU10,1
+HD-10158,Ford turn signal,Lighting,7.59,12.15,Active,New,SAU11,25
+HD-10159,Peterbilt S-cam bushing kit,Brakes,39.16,63.03,Active,New,SAU11,5
+HD-10160,Volvo brake shoe kit,Brakes,10.56,15.18,Active,New,SAU08,1
+HD-10161,Peterbilt switch,Electrical,19.45,29.07,Active,New,SAU06,1
+HD-10162,Volvo shock absorber,Suspension,21.56,33.65,Active,New,SAU09,5
+HD-10163,Freightliner marker lamp,Lighting,309.85,539.24,Active,New,SAU05,1
+HD-10164,Ford turn signal,Lighting,3.0,5.09,Active,New,SAU04,25
+HD-10165,Kenworth kingpin kit,Suspension,4.41,6.69,Active,New,SAU11,10
+HD-10166,Kenworth radiator,Cooling,375.29,572.8,Active,New,SAU05,1
+HD-10167,International brake shoe kit,Brakes,22.83,36.97,Active,New,SAU05,5
+HD-10168,Peterbilt starter,Electrical,4.37,5.96,Active,New,SAU09,1
+HD-10169,GM air spring,Suspension,121.3,190.1,Active,New,SAU10,1
+HD-10170,International trailer cord,Electrical,21.45,31.78,Active,New,SAU05,10
+HD-10171,Peterbilt LED headlamp,Lighting,69.32,116.21,Active,New,SAU11,25
+HD-10172,Kenworth kingpin kit,Suspension,3.0,4.25,Active,New,SAU00,5
+HD-10173,GM relay valve,Air system,3.11,5.4,Active,New,SAU04,1
+HD-10174,Peterbilt marker lamp,Lighting,159.99,255.82,Active,New,SAU08,1
+HD-10175,International marker lamp,Lighting,20.9,34.89,Active,New,SAU02,1
+HD-10176,Kenworth relay valve,Air system,3.0,4.83,Active,New,SAU00,1
+HD-10177,Volvo relay valve,Air system,7.41,10.52,Active,New,SAU10,1
+HD-10178,Peterbilt slack adjuster,Brakes,15.77,24.08,Active,New,SAU09,1
+HD-10179,Kenworth alternator,Electrical,44.76,63.57,Active,New,SAU11,25
+HD-10180,Freightliner switch,Electrical,4.04,7.04,Active,New,SAU11,25
+HD-10181,Peterbilt thermostat,Cooling,25.74,35.94,Active,New,SAU00,1
+HD-10182,Volvo brake drum,Brakes,4.05,6.6,Active,New,SAU07,1
+HD-10183,Ford S-cam bushing kit,Brakes,14.7,19.89,Active,New,SAU01,1
+HD-10184,GM water pump,Cooling,100.9,165.68,Active,New,SAU02,25
+HD-10185,Ford alternator,Electrical,25.46,43.24,Active,New,SAU02,1
+HD-10186,Freightliner starter,Electrical,411.62,577.77,Active,New,SAU10,1
+HD-10187,International leaf spring,Suspension,7.38,10.35,Active,New,SAU09,1
+HD-10188,GM turn signal,Lighting,3.0,4.22,Active,New,SAU01,2
+HD-10189,Ford air dryer cartridge,Air system,4.63,7.87,Active,New,SAU05,1
+HD-10190,Ford radiator,Cooling,37.74,62.64,Active,New,SAU08,10
+HD-10191,Ford air compressor,Air system,85.21,129.95,Active,New,SAU00,5
+HD-10192,Ford radiator,Cooling,81.68,123.07,Active,New,SAU02,25
+HD-10193,Volvo S-cam bushing kit,Brakes,3.0,4.81,Active,New,SAU10,1
+HD-10194,Kenworth coolant hose,Cooling,3.0,4.08,Active,New,SAU10,1
+HD-10195,Kenworth governor,Air system,99.08,154.19,Active,New,SAU03,2
+HD-10196,GM S-cam bushing kit,Brakes,3.0,4.66,Active,New,SAU04,1
+HD-10197,GM turn signal,Lighting,11.59,20.47,Active,New,SAU05,1
+HD-10198,Volvo relay valve,Air system,192.18,326.74,Active,New,SAU09,1
+HD-10199,Ford air spring,Suspension,202.21,317.33,Active,New,SAU08,1
+HD-10200,Ford alternator,Electrical,3.33,5.05,Active,New,SAU03,5
+HD-10201,Kenworth coolant hose,Cooling,8.87,12.9,Active,New,SAU01,25
+HD-10202,Peterbilt S-cam bushing kit,Brakes,29.76,44.15,Active,New,SAU07,1
+HD-10203,Volvo relay valve,Air system,4.99,8.06,Active,New,SAU11,5
+HD-10204,International relay valve,Air system,38.51,61.48,Active,New,SAU01,1
+HD-10205,Peterbilt radiator,Cooling,3.0,4.13,Active,New,SAU11,1
+HD-10206,Peterbilt brake shoe kit,Brakes,487.29,846.85,Active,New,SAU04,1
+HD-10207,International leaf spring,Suspension,5.72,7.86,Active,New,SAU07,1
+HD-10208,Volvo slack adjuster,Brakes,11.11,16.19,Active,New,SAU01,2
+HD-10209,Freightliner air spring,Suspension,47.97,85.07,Active,New,SAU00,1
+HD-10210,Ford shock absorber,Suspension,24.52,39.25,Active,New,SAU02,2
+HD-10211,Freightliner slack adjuster,Brakes,3.07,4.46,Active,New,SAU03,2
+HD-10212,GM S-cam bushing kit,Brakes,260.8,381.58,Active,New,SAU01,1
+HD-10213,Kenworth marker lamp,Lighting,7.15,10.19,Active,New,SAU10,5
+HD-10214,Ford torque rod,Suspension,5.4,8.48,Active,New,SAU02,25
+HD-10215,Peterbilt water pump,Cooling,453.54,668.56,Active,New,SAU08,1
+HD-10216,GM fan clutch,Cooling,448.85,621.55,Active,New,SAU05,1
+HD-10217,Ford trailer cord,Electrical,3.16,5.57,Active,New,SAU09,5
+HD-10218,GM brake drum,Brakes,342.64,519.65,Active,New,SAU00,1
+HD-10219,Peterbilt glad hand seal,Air system,21.13,37.3,Active,New,SAU03,25
+HD-10220,Peterbilt switch,Electrical,29.45,40.36,Active,New,SAU07,1
+HD-10221,Ford turn signal,Lighting,3.75,6.01,Active,New,SAU08,1
+HD-10222,Volvo switch,Electrical,187.35,319.38,Active,New,SAU06,1
+HD-10223,Freightliner governor,Air system,97.72,146.94,Active,New,SAU06,10
+HD-10224,Freightliner radiator,Cooling,4.23,6.55,Active,New,SAU01,1
+HD-10225,Volvo relay valve,Air system,4.21,6.05,Active,New,SAU03,10
+HD-10226,Volvo water pump,Cooling,157.52,218.61,Active,New,SAU02,1
+HD-10227,Kenworth brake drum,Brakes,26.64,46.63,Active,New,SAU11,2
+HD-10228,Freightliner leaf spring,Suspension,4.69,6.83,Active,New,SAU00,25
+HD-10229,GM air compressor,Air system,14.29,21.37,Active,New,SAU09,25
+HD-10230,Ford turn signal,Lighting,504.51,900.34,Active,New,SAU03,1
+HD-10231,Kenworth air spring,Suspension,72.33,119.95,Active,New,SAU01,5
+HD-10232,Volvo starter,Electrical,18.97,33.92,Active,New,SAU01,10
+HD-10233,Volvo air dryer cartridge,Air system,7.82,13.55,Active,New,SAU08,10
+HD-10234,Peterbilt kingpin kit,Suspension,25.74,41.71,Active,New,SAU10,5
+HD-10235,Volvo brake drum,Brakes,3.0,5.4,Active,New,SAU05,10
+HD-10236,Peterbilt alternator,Electrical,77.61,109.81,Active,New,SAU01,1
+HD-10237,International brake shoe kit,Brakes,82.31,139.71,Active,New,SAU11,1
+HD-10238,Ford coolant hose,Cooling,3.0,5.13,Active,New,SAU00,5
+HD-10239,Ford shock absorber,Suspension,51.55,82.36,Active,New,SAU09,2
+HD-10240,International governor,Air system,70.82,110.94,Active,New,SAU07,2
+HD-10241,Freightliner S-cam bushing kit,Brakes,3.0,4.82,Active,New,SAU06,1
+HD-10242,GM kingpin kit,Suspension,501.33,874.23,Active,New,SAU09,1
+HD-10243,International turn signal,Lighting,3.0,4.58,Active,New,SAU10,2
+HD-10244,GM brake drum,Brakes,24.69,41.06,Active,New,SAU01,2
+HD-10245,Volvo brake shoe kit,Brakes,46.87,68.29,Active,New,SAU08,1
+HD-10246,Volvo turn signal,Lighting,3.08,4.34,Active,New,SAU04,1
+HD-10247,Peterbilt shock absorber,Suspension,445.48,737.31,Active,New,SAU08,1
+HD-10248,International S-cam bushing kit,Brakes,151.73,237.19,Active,New,SAU08,1
+HD-10249,GM slack adjuster,Brakes,22.57,40.31,Active,New,SAU02,25
+HD-10250,GM turn signal,Lighting,101.54,167.24,Active,New,SAU00,1
+HD-10251,International shock absorber,Suspension,567.16,819.5,Active,New,SAU03,1
+HD-10252,Freightliner brake drum,Brakes,320.72,563.29,Active,New,SAU07,1
+HD-10253,Ford air spring,Suspension,232.44,400.4,Active,New,SAU02,1
+HD-10254,International kingpin kit,Suspension,6.0,9.28,Active,New,SAU03,25
+HD-10255,Peterbilt mirror head,Lighting,88.13,150.16,Active,New,SAU09,10
+HD-10256,Freightliner glad hand seal,Air system,88.81,125.45,Active,New,SAU03,2
+HD-10257,Freightliner air spring,Suspension,7.7,13.38,Active,New,SAU11,1
+HD-10258,GM mirror head,Lighting,256.9,387.77,Active,New,SAU00,1
+HD-10259,Peterbilt tail lamp,Lighting,105.42,164.04,Active,New,SAU08,25
+HD-10260,Freightliner leaf spring,Suspension,31.94,47.19,Active,New,SAU06,1
+HD-10261,Freightliner shock absorber,Suspension,55.83,87.91,Active,New,SAU04,1
+HD-10262,Freightliner mirror head,Lighting,3.0,5.3,Active,New,SAU08,5
+HD-10263,GM radiator,Cooling,5.75,8.38,Active,New,SAU00,5
+HD-10264,International water pump,Cooling,7.1,12.2,Active,New,SAU09,1
+HD-10265,Freightliner battery,Electrical,555.36,978.04,Active,New,SAU01,1
+HD-10266,Kenworth air compressor,Air system,17.83,31.21,Active,New,SAU09,5
+HD-10267,Freightliner S-cam bushing kit,Brakes,91.17,124.88,Active,New,SAU06,1
+HD-10268,Peterbilt governor,Air system,102.87,161.32,Active,New,SAU07,2
+HD-10269,Peterbilt battery,Electrical,423.59,740.2,Active,New,SAU06,1
+HD-10270,Kenworth relay valve,Air system,10.04,15.74,Active,New,SAU03,10
+HD-10271,International torque rod,Suspension,3.0,4.29,Active,New,SAU02,1
+HD-10272,International LED headlamp,Lighting,59.56,101.49,Active,New,SAU08,25
+HD-10273,Kenworth air spring,Suspension,18.05,29.1,Active,New,SAU09,1
+HD-10274,GM mirror head,Lighting,19.77,27.55,Active,New,SAU01,25
+HD-10275,GM slack adjuster,Brakes,22.52,35.25,Active,New,SAU09,5
+HD-10276,Peterbilt brake shoe kit,Brakes,75.38,122.33,Active,New,SAU11,1
+HD-10277,Freightliner trailer cord,Electrical,3.0,4.38,Active,New,SAU07,5
+HD-10278,Ford marker lamp,Lighting,107.65,169.55,Active,New,SAU06,1
+HD-10279,Kenworth switch,Electrical,53.18,75.55,Active,New,SAU11,5
+HD-10280,International brake chamber,Brakes,3.0,4.8,Active,New,SAU04,1
+HD-10281,International battery,Electrical,4.68,8.18,Active,New,SAU09,1
+HD-10282,Kenworth air compressor,Air system,17.41,26.03,Active,New,SAU00,1
+HD-10283,Freightliner alternator,Electrical,7.0,11.97,Active,New,SAU04,25
+HD-10284,GM air compressor,Air system,33.47,51.13,Active,New,SAU10,1
+HD-10285,Freightliner governor,Air system,3.12,4.64,Active,New,SAU01,2
+HD-10286,Freightliner S-cam bushing kit,Brakes,3.0,4.3,Active,New,SAU02,25
+HD-10287,Kenworth fan clutch,Cooling,90.67,162.4,Active,New,SAU02,25
+HD-10288,Volvo air spring,Suspension,84.01,132.17,Active,New,SAU07,1
+HD-10289,Volvo shock absorber,Suspension,192.14,271.68,Active,New,SAU06,1
+HD-10290,Freightliner marker lamp,Lighting,42.3,68.35,Active,New,SAU06,10
+HD-10291,Ford radiator,Cooling,63.58,99.15,Active,New,SAU05,10
+HD-10292,Volvo brake shoe kit,Brakes,4.52,7.38,Active,New,SAU07,1
+HD-10293,International torque rod,Suspension,4.44,7.79,Active,New,SAU03,10
+HD-10294,Volvo brake shoe kit,Brakes,136.14,183.91,Active,New,SAU10,10
+HD-10295,Freightliner slack adjuster,Brakes,10.74,15.01,Active,New,SAU03,5
+HD-10296,GM S-cam bushing kit,Brakes,8.85,12.42,Active,New,SAU06,25
+HD-10297,Kenworth mirror head,Lighting,3.0,4.75,Active,New,SAU10,10
+HD-10298,GM slack adjuster,Brakes,101.46,149.7,Active,New,SAU02,25
+HD-10299,International air dryer cartridge,Air system,4.32,5.87,Active,New,SAU00,2
+HD-10300,Ford thermostat,Cooling,9.0,13.31,Active,New,SAU04,25
+HD-10301,Kenworth brake chamber,Brakes,4.87,7.57,Active,New,SAU09,25
+HD-10302,Ford switch,Electrical,7.76,11.81,Active,New,SAU09,1
+HD-10303,International air compressor,Air system,35.53,50.2,Active,New,SAU01,2
+HD-10304,International glad hand seal,Air system,13.21,19.9,Active,New,SAU05,10
+HD-10305,Freightliner governor,Air system,5.63,8.62,Active,New,SAU02,2
+HD-10306,Volvo water pump,Cooling,11.08,17.72,Active,New,SAU06,10
+HD-10307,Peterbilt relay valve,Air system,29.87,51.23,Active,New,SAU05,25
+HD-10308,GM governor,Air system,5.04,8.39,Active,New,SAU04,2
+HD-10309,Kenworth relay valve,Air system,41.85,66.39,Active,New,SAU10,1
+HD-10310,Volvo glad hand seal,Air system,148.53,262.91,Active,New,SAU11,10
+HD-10311,Ford torque rod,Suspension,4.4,7.56,Active,New,SAU04,10
+HD-10312,Ford torque rod,Suspension,3.0,5.34,Active,New,SAU07,1
+HD-10313,Peterbilt fan clutch,Cooling,536.06,927.03,Active,New,SAU10,1
+HD-10314,Kenworth water pump,Cooling,9.06,15.67,Active,New,SAU05,2
+HD-10315,Volvo alternator,Electrical,61.9,83.57,Active,New,SAU00,2
+HD-10316,International S-cam bushing kit,Brakes,29.58,44.12,Active,New,SAU01,1
+HD-10317,GM governor,Air system,318.04,502.58,Active,New,SAU07,1
+HD-10318,Kenworth starter,Electrical,43.18,64.99,Active,New,SAU06,1
+HD-10319,GM leaf spring,Suspension,41.51,63.98,Active,New,SAU07,1
+HD-10320,Peterbilt tail lamp,Lighting,153.47,237.31,Active,New,SAU02,1
+HD-10321,Kenworth fan clutch,Cooling,5.25,8.25,Active,New,SAU07,2
+HD-10322,Kenworth governor,Air system,276.92,424.08,Active,New,SAU05,1
+HD-10323,Ford switch,Electrical,3.73,5.61,Active,New,SAU09,1
+HD-10324,International leaf spring,Suspension,27.07,43.81,Active,New,SAU07,1
+HD-10325,GM air dryer cartridge,Air system,30.42,50.83,Active,New,SAU07,5
+HD-10326,Ford marker lamp,Lighting,40.56,58.32,Active,New,SAU08,1
+HD-10327,Kenworth marker lamp,Lighting,48.04,82.92,Active,New,SAU03,1
+HD-10328,Kenworth battery,Electrical,4.65,6.44,Active,New,SAU07,1
+HD-10329,Kenworth marker lamp,Lighting,5.51,9.46,Active,New,SAU07,1
+HD-10330,Peterbilt tail lamp,Lighting,18.85,32.3,Active,New,SAU07,25
+HD-10331,Volvo slack adjuster,Brakes,5.39,7.49,Active,New,SAU09,25
+HD-10332,Ford air dryer cartridge,Air system,401.34,632.27,Active,New,SAU00,1
+HD-10333,Freightliner slack adjuster,Brakes,3.0,5.31,Active,New,SAU03,2
+HD-10334,Ford fan clutch,Cooling,110.32,177.57,Active,New,SAU03,2
+HD-10335,Ford alternator,Electrical,3.0,4.47,Active,New,SAU07,1
+HD-10336,GM air dryer cartridge,Air system,116.69,195.55,Active,New,SAU04,5
+HD-10337,Peterbilt leaf spring,Suspension,3.31,4.79,Active,New,SAU08,10
+HD-10338,Peterbilt turn signal,Lighting,3.23,4.75,Active,New,SAU04,25
+HD-10339,Kenworth radiator,Cooling,3.36,5.34,Active,New,SAU04,5
+HD-10340,International relay valve,Air system,7.81,12.03,Active,New,SAU07,2
+HD-10341,Volvo marker lamp,Lighting,35.86,59.47,Active,New,SAU11,25
+HD-10342,Ford air spring,Suspension,4.04,5.61,Active,New,SAU10,25
+HD-10343,International mirror head,Lighting,82.68,122.43,Active,New,SAU09,1
+HD-10344,Freightliner starter,Electrical,3.0,4.89,Active,New,SAU01,5
+HD-10345,GM mirror head,Lighting,12.67,17.43,Active,New,SAU10,2
+HD-10346,Freightliner brake shoe kit,Brakes,8.05,12.13,Active,New,SAU04,2
+HD-10347,International radiator,Cooling,37.58,55.89,Active,New,SAU10,1
+HD-10348,GM torque rod,Suspension,6.75,10.37,Active,New,SAU05,10
+HD-10349,Peterbilt trailer cord,Electrical,152.7,248.78,Active,New,SAU05,1
+HD-10350,International air spring,Suspension,61.43,104.88,Active,New,SAU11,25
+HD-10351,Volvo radiator,Cooling,63.97,107.81,Active,New,SAU02,10
+HD-10352,Ford LED headlamp,Lighting,5.51,9.13,Active,New,SAU01,25
+HD-10353,Peterbilt S-cam bushing kit,Brakes,83.14,148.97,Active,New,SAU09,10
+HD-10354,Peterbilt air dryer cartridge,Air system,5.6,8.17,Active,New,SAU06,5
+HD-10355,GM air spring,Suspension,112.47,177.0,Active,New,SAU00,2
+HD-10356,Kenworth governor,Air system,32.46,45.78,Active,New,SAU09,10
+HD-10357,International radiator,Cooling,63.8,101.74,Active,New,SAU11,1
+HD-10358,Peterbilt switch,Electrical,83.74,142.24,Active,New,SAU06,1
+HD-10359,International air dryer cartridge,Air system,15.01,26.62,Active,New,SAU05,10
+HD-10360,Volvo starter,Electrical,327.64,460.63,Active,New,SAU06,1
+HD-10361,GM switch,Electrical,121.32,166.25,Active,New,SAU07,1
+HD-10362,Kenworth switch,Electrical,13.78,24.17,Active,New,SAU02,1
+HD-10363,Kenworth alternator,Electrical,24.45,38.58,Active,New,SAU09,5
+HD-10364,International radiator,Cooling,247.36,337.11,Active,New,SAU08,1
+HD-10365,International radiator,Cooling,5.2,8.29,Active,New,SAU06,5
+HD-10366,Ford water pump,Cooling,199.87,317.95,Active,New,SAU11,1
+HD-10367,Peterbilt mirror head,Lighting,3.46,5.68,Active,New,SAU04,5
+HD-10368,Ford air dryer cartridge,Air system,4.72,6.76,Active,New,SAU08,2
+HD-10369,Peterbilt coolant hose,Cooling,67.54,92.42,Active,New,SAU10,5
+HD-10370,Peterbilt governor,Air system,29.77,41.12,Active,New,SAU09,10
+HD-10371,Peterbilt air spring,Suspension,19.94,30.43,Active,New,SAU08,10
+HD-10372,Peterbilt leaf spring,Suspension,29.49,44.22,Active,New,SAU08,1
+HD-10373,Volvo trailer cord,Electrical,11.01,18.4,Active,New,SAU11,5
+HD-10374,Peterbilt torque rod,Suspension,29.97,47.64,Active,New,SAU04,25
+HD-10375,Peterbilt slack adjuster,Brakes,3.0,5.16,Active,New,SAU02,1
+HD-10376,Peterbilt water pump,Cooling,21.18,32.63,Active,New,SAU10,5
+HD-10377,Ford kingpin kit,Suspension,41.93,68.04,Active,New,SAU04,25
+HD-10378,Peterbilt kingpin kit,Suspension,83.99,135.59,Active,New,SAU01,5
+HD-10379,Freightliner trailer cord,Electrical,19.21,29.56,Active,New,SAU00,25
+HD-10380,Kenworth S-cam bushing kit,Brakes,11.99,18.66,Active,New,SAU01,1
+HD-10381,Volvo kingpin kit,Suspension,11.67,18.02,Active,New,SAU02,1
+HD-10382,Kenworth kingpin kit,Suspension,14.95,26.5,Active,New,SAU10,10
+HD-10383,Volvo air compressor,Air system,24.15,32.97,Active,New,SAU10,10
+HD-10384,Ford alternator,Electrical,180.23,309.27,Active,New,SAU00,1
+HD-10385,GM slack adjuster,Brakes,3.76,5.57,Active,New,SAU06,5
+HD-10386,GM relay valve,Air system,92.94,158.79,Active,New,SAU06,10
+HD-10387,Freightliner shock absorber,Suspension,120.44,204.73,Active,New,SAU00,1
+HD-10388,Peterbilt torque rod,Suspension,3.01,4.86,Active,New,SAU07,25
+HD-10389,Volvo air compressor,Air system,5.2,8.1,Active,New,SAU01,5
+HD-10390,Freightliner S-cam bushing kit,Brakes,82.54,122.03,Active,New,SAU04,25
+HD-10391,Peterbilt water pump,Cooling,18.02,29.34,Active,New,SAU08,5
+HD-10392,Kenworth thermostat,Cooling,3.0,4.67,Active,New,SAU08,5
+HD-10393,Freightliner marker lamp,Lighting,12.38,18.58,Active,New,SAU02,1
+HD-10394,Ford air spring,Suspension,83.01,123.35,Active,New,SAU02,1
+HD-10395,Volvo air dryer cartridge,Air system,154.47,265.45,Active,New,SAU01,1
+HD-10396,International leaf spring,Suspension,505.29,814.83,Active,New,SAU00,1
+HD-10397,Volvo leaf spring,Suspension,3.06,5.5,Active,New,SAU02,1
+HD-10398,Ford turn signal,Lighting,13.33,20.38,Active,New,SAU08,1
+HD-10399,Volvo relay valve,Air system,12.99,18.75,Active,New,SAU05,5
+HD-10400,Peterbilt brake chamber,Brakes,10.6,14.45,Active,New,SAU01,2
+HD-10401,Kenworth mirror head,Lighting,320.79,523.21,Active,New,SAU08,1
+HD-10402,GM mirror head,Lighting,5.37,9.4,Active,New,SAU08,25
+HD-10403,GM switch,Electrical,240.11,348.59,Active,New,SAU06,1
+HD-10404,International turn signal,Lighting,29.9,51.16,Active,New,SAU00,5
+HD-10405,GM kingpin kit,Suspension,41.46,69.93,Active,New,SAU10,10
+HD-10406,Kenworth brake shoe kit,Brakes,3.0,4.36,Active,New,SAU10,10
+HD-10407,GM LED headlamp,Lighting,244.14,389.0,Active,New,SAU05,1
+HD-10408,International alternator,Electrical,356.45,624.23,Active,New,SAU03,1
+HD-10409,Freightliner leaf spring,Suspension,13.86,21.09,Active,New,SAU10,1
+HD-10410,Ford mirror head,Lighting,17.5,29.84,Active,New,SAU00,2
+HD-10411,GM relay valve,Air system,61.1,91.58,Active,New,SAU04,5
+HD-10412,Volvo brake drum,Brakes,8.94,12.27,Active,New,SAU11,5
+HD-10413,Ford coolant hose,Cooling,4.5,7.57,Active,New,SAU04,5
+HD-10414,Peterbilt LED headlamp,Lighting,28.33,44.6,Active,New,SAU10,1
+HD-10415,Peterbilt trailer cord,Electrical,271.79,484.91,Active,New,SAU10,1
+HD-10416,Ford alternator,Electrical,22.65,32.13,Active,New,SAU03,10
+HD-10417,GM glad hand seal,Air system,5.5,9.78,Active,New,SAU11,5
+HD-10418,Freightliner shock absorber,Suspension,29.98,48.64,Active,New,SAU05,1
+HD-10419,International brake shoe kit,Brakes,7.46,12.0,Active,New,SAU03,10
+HD-10420,GM air compressor,Air system,104.48,163.1,Active,New,SAU01,25
+HD-10421,Freightliner slack adjuster,Brakes,12.31,21.97,Active,New,SAU10,2
+HD-10422,Ford radiator,Cooling,71.1,119.39,Active,New,SAU05,25
+HD-10423,Kenworth governor,Air system,325.53,440.72,Active,New,SAU11,1
+HD-10424,Volvo mirror head,Lighting,234.39,367.47,Active,New,SAU06,1
+HD-10425,International brake drum,Brakes,50.05,81.4,Active,New,SAU02,1
+HD-10426,Volvo leaf spring,Suspension,3.74,5.42,Active,New,SAU02,10
+HD-10427,International trailer cord,Electrical,3.0,5.05,Active,New,SAU03,1
+HD-10428,Freightliner leaf spring,Suspension,136.06,237.76,Active,New,SAU03,1
+HD-10429,International marker lamp,Lighting,61.93,92.9,Active,New,SAU02,10
+HD-10430,Peterbilt brake chamber,Brakes,5.79,10.07,Active,New,SAU01,25
+HD-10431,Volvo air dryer cartridge,Air system,31.88,51.47,Active,New,SAU02,25
+HD-10432,Peterbilt starter,Electrical,3.84,6.85,Active,New,SAU05,1
+HD-10433,Freightliner torque rod,Suspension,3.0,4.78,Active,New,SAU06,1
+HD-10434,Ford air compressor,Air system,29.57,48.4,Active,New,SAU01,10
+HD-10435,GM thermostat,Cooling,148.98,217.22,Active,New,SAU08,1
+HD-10436,Ford trailer cord,Electrical,46.87,71.34,Active,New,SAU06,2
+HD-10437,Freightliner shock absorber,Suspension,14.95,22.26,Active,New,SAU11,1
+HD-10438,GM glad hand seal,Air system,61.25,98.57,Active,New,SAU09,10
+HD-10439,Ford S-cam bushing kit,Brakes,115.08,200.55,Active,New,SAU10,2
+HD-10440,Volvo air dryer cartridge,Air system,3.0,4.49,Active,New,SAU05,10
+HD-10441,Volvo coolant hose,Cooling,30.79,44.63,Active,New,SAU02,5
+HD-10442,Volvo slack adjuster,Brakes,6.17,9.19,Active,New,SAU11,10
+HD-10443,Ford leaf spring,Suspension,16.26,22.81,Active,New,SAU05,2
+HD-10444,International coolant hose,Cooling,18.29,25.18,Active,New,SAU00,5
+HD-10445,Ford turn signal,Lighting,46.83,74.99,Active,New,SAU00,25
+HD-10446,Kenworth turn signal,Lighting,3.0,5.16,Active,New,SAU07,2
+HD-10447,International tail lamp,Lighting,34.14,59.59,Active,New,SAU10,25
+HD-10448,International radiator,Cooling,39.05,67.12,Active,New,SAU00,10
+HD-10449,GM switch,Electrical,205.02,325.96,Active,New,SAU05,1
+HD-10450,Peterbilt glad hand seal,Air system,3.73,5.44,Active,New,SAU05,1
+HD-10451,Peterbilt air dryer cartridge,Air system,10.01,17.35,Active,New,SAU07,5
+HD-10452,Ford relay valve,Air system,3.0,4.06,Active,New,SAU10,2
+HD-10453,Volvo leaf spring,Suspension,10.63,18.3,Active,New,SAU08,1
+HD-10454,Freightliner radiator,Cooling,52.79,90.91,Active,New,SAU09,10
+HD-10455,Volvo thermostat,Cooling,7.42,12.47,Active,New,SAU04,1
+HD-10456,Peterbilt leaf spring,Suspension,8.81,15.44,Active,New,SAU07,1
+HD-10457,International switch,Electrical,91.51,146.94,Active,New,SAU10,25
+HD-10458,Peterbilt alternator,Electrical,8.12,13.42,Active,New,SAU08,1
+HD-10459,International trailer cord,Electrical,39.33,64.41,Active,New,SAU01,1
+HD-10460,Freightliner switch,Electrical,20.46,34.41,Active,New,SAU03,25
+HD-10461,GM brake shoe kit,Brakes,5.72,8.16,Active,New,SAU03,10
+HD-10462,Kenworth marker lamp,Lighting,78.29,119.84,Active,New,SAU08,1
+HD-10463,International battery,Electrical,30.43,52.36,Active,New,SAU11,1
+HD-10464,Kenworth leaf spring,Suspension,169.67,240.15,Active,New,SAU04,1
+HD-10465,Peterbilt trailer cord,Electrical,499.47,756.03,Active,New,SAU05,1
+HD-10466,Volvo air spring,Suspension,12.5,18.5,Active,New,SAU10,1
+HD-10467,Peterbilt kingpin kit,Suspension,273.08,491.36,Active,New,SAU07,1
+HD-10468,GM air compressor,Air system,163.85,235.62,Active,New,SAU04,1
+HD-10469,Kenworth brake chamber,Brakes,3.0,5.1,Active,New,SAU10,1
+HD-10470,Ford marker lamp,Lighting,151.05,218.6,Active,New,SAU09,1
+HD-10471,GM coolant hose,Cooling,81.58,119.36,Active,New,SAU05,1
+HD-10472,International switch,Electrical,50.86,86.48,Active,New,SAU01,1
+HD-10473,Freightliner brake shoe kit,Brakes,3.0,4.61,Active,New,SAU10,25
+HD-10474,Freightliner air spring,Suspension,86.92,144.44,Active,New,SAU01,25
+HD-10475,Peterbilt torque rod,Suspension,247.41,349.09,Active,New,SAU06,1
+HD-10476,Ford battery,Electrical,31.64,45.6,Active,New,SAU09,2
+HD-10477,GM thermostat,Cooling,16.38,24.48,Active,New,SAU08,2
+HD-10478,Kenworth torque rod,Suspension,3.0,4.56,Active,New,SAU05,1
+HD-10479,Ford LED headlamp,Lighting,375.55,565.56,Active,New,SAU00,1
+HD-10480,Volvo torque rod,Suspension,38.61,55.5,Active,New,SAU04,10
+HD-10481,GM coolant hose,Cooling,151.74,261.2,Active,New,SAU07,1
+HD-10482,Kenworth leaf spring,Suspension,231.31,407.88,Active,New,SAU06,1
+HD-10483,Peterbilt battery,Electrical,24.72,36.75,Active,New,SAU11,1
+HD-10484,Ford mirror head,Lighting,7.91,13.87,Active,New,SAU11,1
+HD-10485,Volvo LED headlamp,Lighting,3.0,5.23,Active,New,SAU09,1
+HD-10486,Freightliner S-cam bushing kit,Brakes,6.45,9.2,Active,New,SAU03,1
+HD-10487,Freightliner shock absorber,Suspension,34.91,61.73,Active,New,SAU04,5
+HD-10488,International brake drum,Brakes,536.91,935.89,Active,New,SAU08,1
+HD-10489,Volvo relay valve,Air system,73.78,107.7,Active,New,SAU10,25
+HD-10490,Kenworth coolant hose,Cooling,3.0,4.98,Active,New,SAU10,1
+HD-10491,Peterbilt brake drum,Brakes,449.21,785.45,Active,New,SAU10,1
+HD-10492,International leaf spring,Suspension,94.29,161.29,Active,New,SAU03,1
+HD-10493,International battery,Electrical,4.89,6.7,Active,New,SAU00,2
+HD-10494,International kingpin kit,Suspension,590.36,974.91,Active,New,SAU11,1
+HD-10495,International marker lamp,Lighting,75.01,129.57,Active,New,SAU09,2
+HD-10496,Freightliner switch,Electrical,17.82,24.76,Active,New,SAU10,10
+HD-10497,International shock absorber,Suspension,18.05,27.83,Active,New,SAU00,1
+HD-10498,Ford alternator,Electrical,5.22,7.74,Active,New,SAU11,5
+HD-10499,Volvo air compressor,Air system,135.6,187.83,Active,New,SAU10,1
+HD-10500,Kenworth marker lamp,Lighting,447.77,728.04,Active,New,SAU06,1
+HD-10501,Freightliner leaf spring,Suspension,7.67,11.2,Active,New,SAU10,1
+HD-10502,Freightliner shock absorber,Suspension,84.61,123.38,Active,New,SAU06,1
+HD-10503,GM air dryer cartridge,Air system,3.14,4.28,Active,New,SAU10,25
+HD-10504,Ford battery,Electrical,12.43,21.45,Active,New,SAU10,2
+HD-10505,GM starter,Electrical,12.24,16.87,Active,New,SAU09,10
+HD-10506,Volvo torque rod,Suspension,3.47,5.53,Active,New,SAU02,5
+HD-10507,International relay valve,Air system,11.96,20.41,Active,New,SAU00,1
+HD-10508,GM brake chamber,Brakes,59.63,89.55,Active,New,SAU08,1
+HD-10509,GM brake shoe kit,Brakes,35.64,54.29,Active,New,SAU00,1
+HD-10510,Freightliner battery,Electrical,58.71,88.28,Active,New,SAU01,1
+HD-10511,Peterbilt battery,Electrical,3.0,5.32,Active,New,SAU09,25
+HD-10512,Volvo air compressor,Air system,158.26,264.28,Active,New,SAU10,1
+HD-10513,Volvo battery,Electrical,6.66,9.45,Active,New,SAU01,1
+HD-10514,International leaf spring,Suspension,40.97,65.19,Active,New,SAU10,1
+HD-10515,Peterbilt thermostat,Cooling,4.41,7.08,Active,New,SAU05,1
+HD-10516,Ford glad hand seal,Air system,54.88,89.78,Active,New,SAU10,10
+HD-10517,GM alternator,Electrical,43.53,62.86,Active,New,SAU09,1
+HD-10518,GM glad hand seal,Air system,56.87,79.16,Active,New,SAU00,10
+HD-10519,GM LED headlamp,Lighting,14.71,20.29,Active,New,SAU05,1
+HD-10520,International S-cam bushing kit,Brakes,131.43,197.97,Active,New,SAU06,10
+HD-10521,GM leaf spring,Suspension,118.26,210.3,Active,New,SAU11,5
+HD-10522,GM air compressor,Air system,48.63,81.74,Active,New,SAU07,1
+HD-10523,Kenworth starter,Electrical,246.33,436.15,Active,New,SAU09,1
+HD-10524,Volvo mirror head,Lighting,9.43,15.56,Active,New,SAU09,10
+HD-10525,GM alternator,Electrical,65.48,110.53,Active,New,SAU03,5
+HD-10526,Peterbilt alternator,Electrical,92.89,147.08,Active,New,SAU03,1
+HD-10527,Freightliner coolant hose,Cooling,350.51,573.4,Active,New,SAU04,1
+HD-10528,Peterbilt turn signal,Lighting,106.41,160.6,Active,New,SAU02,1
+HD-10529,Freightliner leaf spring,Suspension,190.32,277.68,Active,New,SAU02,1
+HD-10530,International air dryer cartridge,Air system,6.79,9.89,Active,New,SAU11,25
+HD-10531,Kenworth radiator,Cooling,3.0,4.55,Active,New,SAU01,2
+HD-10532,Freightliner switch,Electrical,32.93,57.57,Active,New,SAU10,25
+HD-10533,Freightliner air compressor,Air system,15.51,21.98,Active,New,SAU08,1
+HD-10534,Volvo air dryer cartridge,Air system,79.81,110.58,Active,New,SAU01,5
+HD-10535,GM alternator,Electrical,34.91,57.94,Active,New,SAU11,1
+HD-10536,Kenworth turn signal,Lighting,46.47,71.76,Active,New,SAU07,10
+HD-10537,Volvo tail lamp,Lighting,172.09,281.01,Active,New,SAU11,1
+HD-10538,Kenworth thermostat,Cooling,10.97,15.03,Active,New,SAU01,25
+HD-10539,Peterbilt starter,Electrical,17.34,29.16,Active,New,SAU05,10
+HD-10540,Ford leaf spring,Suspension,58.18,88.98,Active,New,SAU02,2
+HD-10541,Volvo mirror head,Lighting,7.33,11.94,Active,New,SAU10,5
+HD-10542,Ford tail lamp,Lighting,9.98,17.42,Active,New,SAU01,25
+HD-10543,Ford brake shoe kit,Brakes,23.41,40.49,Active,New,SAU00,25
+HD-10544,Kenworth relay valve,Air system,395.47,660.03,Active,New,SAU01,1
+HD-10545,GM trailer cord,Electrical,30.18,52.46,Active,New,SAU02,1
+HD-10546,International air dryer cartridge,Air system,9.09,15.72,Active,New,SAU02,5
+HD-10547,Volvo turn signal,Lighting,12.24,20.55,Active,New,SAU03,10
+HD-10548,Volvo radiator,Cooling,26.31,39.89,Active,New,SAU03,1
+HD-10549,Volvo marker lamp,Lighting,5.44,9.39,Active,New,SAU06,10
+HD-10550,Peterbilt trailer cord,Electrical,15.64,21.89,Active,New,SAU04,10
+HD-10551,Volvo slack adjuster,Brakes,4.22,5.93,Active,New,SAU11,1
+HD-10552,Volvo water pump,Cooling,197.03,281.78,Active,New,SAU08,1
+HD-10553,Volvo trailer cord,Electrical,3.86,5.49,Active,New,SAU03,1
+HD-10554,Kenworth leaf spring,Suspension,21.51,36.72,Active,New,SAU03,25
+HD-10555,Kenworth shock absorber,Suspension,171.18,267.9,Active,New,SAU09,1
+HD-10556,Kenworth starter,Electrical,428.44,611.53,Active,New,SAU06,1
+HD-10557,Kenworth S-cam bushing kit,Brakes,4.12,6.61,Active,New,SAU08,10
+HD-10558,Freightliner governor,Air system,170.85,297.31,Active,New,SAU01,1
+HD-10559,Peterbilt air dryer cartridge,Air system,4.35,7.43,Active,New,SAU11,1
+HD-10560,Kenworth governor,Air system,50.09,79.69,Active,New,SAU05,1
+HD-10561,Ford glad hand seal,Air system,239.07,401.28,Active,New,SAU02,1
+HD-10562,Peterbilt water pump,Cooling,9.9,15.69,Active,New,SAU03,10
+HD-10563,International mirror head,Lighting,524.01,847.17,Active,New,SAU06,1
+HD-10564,Peterbilt slack adjuster,Brakes,27.95,41.17,Active,New,SAU11,2
+HD-10565,Freightliner battery,Electrical,90.78,157.3,Active,New,SAU03,10
+HD-10566,GM battery,Electrical,8.28,14.89,Active,New,SAU05,1
+HD-10567,Kenworth tail lamp,Lighting,3.0,4.52,Active,New,SAU11,1
+HD-10568,Volvo tail lamp,Lighting,28.42,49.41,Active,New,SAU03,10
+HD-10569,GM shock absorber,Suspension,3.0,4.46,Active,New,SAU04,2
+HD-10570,Peterbilt brake chamber,Brakes,160.42,232.16,Active,New,SAU00,1
+HD-10571,Ford S-cam bushing kit,Brakes,4.85,7.32,Active,New,SAU05,10
+HD-10572,Kenworth air dryer cartridge,Air system,34.69,58.15,Active,New,SAU11,10
+HD-10573,Volvo mirror head,Lighting,50.04,69.08,Active,New,SAU02,1
+HD-10574,Volvo air spring,Suspension,44.89,76.6,Active,New,SAU03,2
+HD-10575,Peterbilt kingpin kit,Suspension,6.49,11.28,Active,New,SAU05,5
+HD-10576,GM slack adjuster,Brakes,8.5,13.52,Active,New,SAU11,1
+HD-10577,Freightliner leaf spring,Suspension,16.52,29.34,Active,New,SAU01,1
+HD-10578,GM brake chamber,Brakes,3.48,4.88,Active,New,SAU01,5
+HD-10579,Volvo water pump,Cooling,29.75,47.96,Active,New,SAU02,1
+HD-10580,Ford brake chamber,Brakes,39.3,68.66,Active,New,SAU01,1
+HD-10581,Kenworth leaf spring,Suspension,73.4,105.67,Active,New,SAU07,25
+HD-10582,International mirror head,Lighting,534.31,821.08,Active,New,SAU02,1
+HD-10583,International brake drum,Brakes,3.98,6.32,Active,New,SAU04,1
+HD-10584,Peterbilt fan clutch,Cooling,114.97,182.41,Active,New,SAU10,1
+HD-10585,Kenworth brake chamber,Brakes,23.2,32.1,Active,New,SAU08,25
+HD-10586,Volvo brake drum,Brakes,116.37,206.11,Active,New,SAU08,1
+HD-10587,International alternator,Electrical,15.06,21.29,Active,New,SAU04,1
+HD-10588,International fan clutch,Cooling,266.62,432.72,Active,New,SAU00,1
+HD-10589,Ford switch,Electrical,247.51,347.06,Active,New,SAU09,1
+HD-10590,International starter,Electrical,3.0,4.36,Active,New,SAU02,10
+HD-10591,Volvo tail lamp,Lighting,28.94,49.22,Active,New,SAU02,2
+HD-10592,GM air compressor,Air system,85.07,143.72,Active,New,SAU07,1
+HD-10593,Freightliner air spring,Suspension,10.98,18.78,Active,New,SAU02,25
+HD-10594,Kenworth marker lamp,Lighting,4.46,6.28,Active,New,SAU11,25
+HD-10595,Freightliner S-cam bushing kit,Brakes,3.0,4.77,Active,New,SAU00,2
+HD-10596,Volvo starter,Electrical,18.11,27.17,Active,New,SAU08,1
+HD-10597,Freightliner marker lamp,Lighting,199.96,352.53,Active,New,SAU04,1
+HD-10598,Volvo coolant hose,Cooling,92.42,124.95,Active,New,SAU09,10
+HD-10599,Volvo starter,Electrical,3.21,5.49,Active,New,SAU05,1
+HD-10600,Freightliner slack adjuster,Brakes,3.0,4.81,Active,New,SAU01,1
+HD-10601,Kenworth relay valve,Air system,95.82,152.54,Active,New,SAU00,1
+HD-10602,Volvo water pump,Cooling,221.98,378.16,Active,New,SAU03,1
+HD-10603,International brake chamber,Brakes,3.0,4.88,Active,New,SAU03,2
+HD-10604,Volvo brake chamber,Brakes,31.03,43.53,Active,New,SAU05,10
+HD-10605,International alternator,Electrical,157.07,220.85,Active,New,SAU06,1
+HD-10606,Ford torque rod,Suspension,205.69,313.5,Active,New,SAU09,1
+HD-10607,Ford shock absorber,Suspension,162.68,261.38,Active,New,SAU11,1
+HD-10608,Peterbilt shock absorber,Suspension,282.5,492.58,Active,New,SAU00,1
+HD-10609,Ford coolant hose,Cooling,590.25,1012.82,Active,New,SAU00,1
+HD-10610,Volvo brake chamber,Brakes,41.62,60.38,Active,New,SAU10,5
+HD-10611,Freightliner slack adjuster,Brakes,36.18,51.0,Active,New,SAU04,2
+HD-10612,International kingpin kit,Suspension,96.42,144.87,Active,New,SAU01,1
+HD-10613,Volvo air dryer cartridge,Air system,101.57,137.16,Active,New,SAU08,1
+HD-10614,Peterbilt fan clutch,Cooling,344.56,563.5,Active,New,SAU08,1
+HD-10615,GM water pump,Cooling,182.48,291.39,Active,New,SAU05,1
+HD-10616,Peterbilt battery,Electrical,149.24,215.52,Active,New,SAU06,1
+HD-10617,Peterbilt battery,Electrical,29.52,51.97,Active,New,SAU03,1
+HD-10618,Ford coolant hose,Cooling,3.0,4.33,Active,New,SAU10,1
+HD-10619,Ford relay valve,Air system,68.49,121.72,Active,New,SAU00,1
+HD-10620,Kenworth coolant hose,Cooling,25.07,40.38,Active,New,SAU02,25
+HD-10621,Kenworth switch,Electrical,3.96,5.95,Active,New,SAU11,5
+HD-10622,Peterbilt turn signal,Lighting,3.0,4.19,Active,New,SAU04,2
+HD-10623,Peterbilt leaf spring,Suspension,466.96,832.91,Active,New,SAU10,1
+HD-10624,International tail lamp,Lighting,9.94,16.76,Active,New,SAU08,1
+HD-10625,International thermostat,Cooling,42.61,65.71,Active,New,SAU03,2
+HD-10626,Freightliner battery,Electrical,117.4,167.23,Active,New,SAU04,1
+HD-10627,Ford shock absorber,Suspension,13.53,20.88,Active,New,SAU00,10
+HD-10628,Kenworth brake chamber,Brakes,23.79,40.83,Active,New,SAU08,1
+HD-10629,Freightliner battery,Electrical,19.88,27.18,Active,New,SAU07,1
+HD-10630,Freightliner kingpin kit,Suspension,73.91,109.75,Active,New,SAU05,1
+HD-10631,Ford coolant hose,Cooling,8.27,13.6,Active,New,SAU11,1
+HD-10632,Peterbilt battery,Electrical,427.25,657.48,Active,New,SAU02,1
+HD-10633,Freightliner brake chamber,Brakes,18.78,25.84,Active,New,SAU10,1
+HD-10634,Peterbilt LED headlamp,Lighting,48.8,79.76,Active,New,SAU11,1
+HD-10635,Volvo marker lamp,Lighting,3.65,5.06,Active,New,SAU07,5
+HD-10636,Peterbilt kingpin kit,Suspension,3.59,5.85,Active,New,SAU04,5
+HD-10637,Peterbilt battery,Electrical,48.72,68.38,Active,New,SAU10,25
+HD-10638,Kenworth brake shoe kit,Brakes,79.07,116.39,Active,New,SAU05,1
+HD-10639,GM brake drum,Brakes,530.84,929.68,Active,New,SAU07,1
+HD-10640,Ford S-cam bushing kit,Brakes,282.6,391.66,Active,New,SAU07,1
+HD-10641,International starter,Electrical,23.83,32.44,Active,New,SAU02,1
+HD-10642,International air compressor,Air system,6.86,9.64,Active,New,SAU01,1
+HD-10643,Kenworth coolant hose,Cooling,46.02,81.38,Active,New,SAU03,2
+HD-10644,International air dryer cartridge,Air system,22.67,38.31,Active,New,SAU08,25
+HD-10645,GM LED headlamp,Lighting,96.07,164.44,Active,New,SAU01,1
+HD-10646,Kenworth air dryer cartridge,Air system,37.79,62.91,Active,New,SAU01,2
+HD-10647,Volvo brake shoe kit,Brakes,11.52,20.36,Active,New,SAU08,1
+HD-10648,Volvo brake chamber,Brakes,28.97,42.49,Active,New,SAU05,2
+HD-10649,Peterbilt thermostat,Cooling,3.57,5.05,Active,New,SAU09,1
+HD-10650,Freightliner battery,Electrical,385.51,583.19,Active,New,SAU08,1
+HD-10651,Peterbilt mirror head,Lighting,12.57,18.29,Active,New,SAU04,5
+HD-10652,Kenworth slack adjuster,Brakes,61.06,98.45,Active,New,SAU10,25
+HD-10653,Freightliner marker lamp,Lighting,7.5,12.54,Active,New,SAU01,1
+HD-10654,Freightliner tail lamp,Lighting,22.55,36.8,Active,New,SAU05,25
+HD-10655,GM torque rod,Suspension,56.48,78.33,Active,New,SAU10,2
+HD-10656,Ford mirror head,Lighting,20.35,28.48,Active,New,SAU08,2
+HD-10657,Volvo coolant hose,Cooling,3.0,4.86,Active,New,SAU05,1
+HD-10658,Volvo battery,Electrical,117.73,181.74,Active,New,SAU10,5
+HD-10659,International turn signal,Lighting,109.38,179.97,Active,New,SAU07,2
+HD-10660,Ford brake chamber,Brakes,4.57,6.23,Active,New,SAU07,1
+HD-10661,Peterbilt turn signal,Lighting,4.2,7.54,Active,New,SAU07,5
+HD-10662,Kenworth relay valve,Air system,440.26,786.53,Active,New,SAU02,1
+HD-10663,Volvo radiator,Cooling,8.59,15.4,Active,New,SAU02,1
+HD-10664,Peterbilt water pump,Cooling,31.29,52.42,Active,New,SAU08,1
+HD-10665,GM radiator,Cooling,65.01,105.44,Active,New,SAU10,1
+HD-10666,Kenworth trailer cord,Electrical,23.45,42.06,Active,New,SAU09,5
+HD-10667,International air spring,Suspension,67.98,113.13,Active,New,SAU01,1
+HD-10668,Volvo leaf spring,Suspension,8.39,13.01,Active,New,SAU03,1
+HD-10669,GM trailer cord,Electrical,47.25,82.01,Active,New,SAU01,1
+HD-10670,Peterbilt air compressor,Air system,13.69,23.09,Active,New,SAU10,1
+HD-10671,Ford S-cam bushing kit,Brakes,4.5,7.59,Active,New,SAU07,1
+HD-10672,International governor,Air system,3.0,5.21,Active,New,SAU10,1
+HD-10673,Kenworth air dryer cartridge,Air system,179.63,261.62,Active,New,SAU00,1
+HD-10674,Volvo alternator,Electrical,96.84,172.88,Active,New,SAU04,2
+HD-10675,Peterbilt marker lamp,Lighting,78.16,109.14,Active,New,SAU00,5
+HD-10676,Freightliner alternator,Electrical,26.23,43.32,Active,New,SAU03,25
+HD-10677,International brake chamber,Brakes,52.44,74.22,Active,New,SAU03,5
+HD-10678,Freightliner shock absorber,Suspension,3.76,5.82,Active,New,SAU00,1
+HD-10679,Peterbilt air compressor,Air system,35.08,49.18,Active,New,SAU03,1
+HD-10680,International brake drum,Brakes,3.49,5.04,Active,New,SAU11,25
+HD-10681,Peterbilt switch,Electrical,3.0,5.36,Active,New,SAU07,1
+HD-10682,Freightliner switch,Electrical,107.43,151.58,Active,New,SAU01,1
+HD-10683,Volvo tail lamp,Lighting,9.26,14.32,Active,New,SAU07,1
+HD-10684,Kenworth battery,Electrical,15.23,24.08,Active,New,SAU05,2
+HD-10685,Ford S-cam bushing kit,Brakes,353.78,510.36,Active,New,SAU01,1
+HD-10686,Ford starter,Electrical,361.12,624.62,Active,New,SAU09,1
+HD-10687,GM fan clutch,Cooling,5.72,9.5,Active,New,SAU01,1
+HD-10688,International tail lamp,Lighting,73.86,114.25,Active,New,SAU00,1
+HD-10689,Volvo starter,Electrical,11.67,20.87,Active,New,SAU09,1
+HD-10690,Freightliner starter,Electrical,3.0,4.6,Active,New,SAU01,1
+HD-10691,Freightliner tail lamp,Lighting,177.87,243.03,Active,New,SAU09,1
+HD-10692,International brake chamber,Brakes,207.74,354.15,Active,New,SAU07,1
+HD-10693,Ford water pump,Cooling,173.93,250.66,Active,New,SAU03,1
+HD-10694,Ford S-cam bushing kit,Brakes,13.67,20.93,Active,New,SAU07,1
+HD-10695,GM brake drum,Brakes,263.27,417.2,Active,New,SAU08,1
+HD-10696,Kenworth air dryer cartridge,Air system,31.05,46.1,Active,New,SAU03,25
+HD-10697,Freightliner starter,Electrical,5.59,9.62,Active,New,SAU08,5
+HD-10698,International marker lamp,Lighting,4.06,6.92,Active,New,SAU09,1
+HD-10699,Ford air compressor,Air system,43.73,63.83,Active,New,SAU08,1
+HD-10700,Freightliner brake shoe kit,Brakes,3.84,5.99,Active,New,SAU01,1
+HD-10701,Peterbilt trailer cord,Electrical,4.74,6.44,Active,New,SAU10,1
+HD-10702,Kenworth switch,Electrical,153.83,270.26,Active,New,SAU04,1
+HD-10703,Peterbilt brake chamber,Brakes,130.38,198.86,Active,New,SAU01,1
+HD-10704,Peterbilt mirror head,Lighting,5.39,8.75,Active,New,SAU03,25
+HD-10705,Peterbilt coolant hose,Cooling,3.0,5.3,Active,New,SAU04,1
+HD-10706,International leaf spring,Suspension,19.53,28.56,Active,New,SAU00,1
+HD-10707,GM brake shoe kit,Brakes,7.16,10.38,Active,New,SAU04,10
+HD-10708,International kingpin kit,Suspension,5.4,8.3,Active,New,SAU06,25
+HD-10709,Ford shock absorber,Suspension,5.71,8.57,Active,New,SAU01,1
+HD-10710,Freightliner alternator,Electrical,128.32,219.98,Active,New,SAU07,5
+HD-10711,GM radiator,Cooling,19.07,31.95,Active,New,SAU05,2
+HD-10712,Volvo leaf spring,Suspension,187.99,306.11,Active,New,SAU11,1
+HD-10713,Volvo glad hand seal,Air system,14.34,23.12,Active,New,SAU01,25
+HD-10714,Peterbilt glad hand seal,Air system,40.27,54.86,Active,New,SAU01,1
+HD-10715,Volvo battery,Electrical,69.52,124.1,Active,New,SAU10,25
+HD-10716,Ford switch,Electrical,3.0,4.34,Active,New,SAU08,2
+HD-10717,Kenworth air dryer cartridge,Air system,9.64,15.32,Active,New,SAU04,5
+HD-10718,Freightliner leaf spring,Suspension,63.47,95.81,Active,New,SAU06,1
+HD-10719,Kenworth kingpin kit,Suspension,65.83,98.58,Active,New,SAU04,1
+HD-10720,Freightliner air spring,Suspension,17.64,30.15,Active,New,SAU10,1
+HD-10721,Kenworth trailer cord,Electrical,331.32,456.01,Active,New,SAU02,1
+HD-10722,GM governor,Air system,16.99,27.99,Active,New,SAU04,2
+HD-10723,Ford kingpin kit,Suspension,38.27,63.59,Active,New,SAU03,25
+HD-10724,International battery,Electrical,51.83,78.61,Active,New,SAU10,5
+HD-10725,Kenworth brake drum,Brakes,584.68,900.63,Active,New,SAU03,1
+HD-10726,Peterbilt starter,Electrical,5.74,7.86,Active,New,SAU10,10
+HD-10727,International alternator,Electrical,5.23,8.77,Active,New,SAU08,25
+HD-10728,Kenworth coolant hose,Cooling,84.43,115.45,Active,New,SAU03,10
+HD-10729,Ford mirror head,Lighting,24.2,37.28,Active,New,SAU01,2
+HD-10730,GM torque rod,Suspension,86.76,120.67,Active,New,SAU11,1
+HD-10731,International glad hand seal,Air system,6.84,10.05,Active,New,SAU10,1
+HD-10732,International relay valve,Air system,5.0,7.16,Active,New,SAU11,5
+HD-10733,Volvo relay valve,Air system,5.36,7.81,Active,New,SAU06,25
+HD-10734,Peterbilt brake chamber,Brakes,13.15,23.18,Active,New,SAU00,1
+HD-10735,Kenworth air compressor,Air system,6.81,11.07,Active,New,SAU05,2
+HD-10736,Peterbilt thermostat,Cooling,24.95,40.85,Active,New,SAU01,5
+HD-10737,Freightliner fan clutch,Cooling,17.54,30.56,Active,New,SAU09,2
+HD-10738,Peterbilt thermostat,Cooling,10.11,17.75,Active,New,SAU07,5
+HD-10739,International marker lamp,Lighting,11.54,18.62,Active,New,SAU06,5
+HD-10740,Peterbilt mirror head,Lighting,403.41,567.32,Active,New,SAU07,1
+HD-10741,Volvo fan clutch,Cooling,3.0,4.07,Active,New,SAU03,25
+HD-10742,Peterbilt relay valve,Air system,17.21,30.4,Active,New,SAU00,1
+HD-10743,Freightliner alternator,Electrical,8.04,13.05,Active,New,SAU10,5
+HD-10744,GM leaf spring,Suspension,349.85,627.33,Active,New,SAU05,1
+HD-10745,International battery,Electrical,5.24,8.12,Active,New,SAU05,10
+HD-10746,Peterbilt air spring,Suspension,14.56,21.38,Active,New,SAU10,1
+HD-10747,Kenworth shock absorber,Suspension,3.87,6.2,Active,New,SAU05,1
+HD-10748,Volvo air compressor,Air system,51.65,75.19,Active,New,SAU10,10
+HD-10749,Volvo air spring,Suspension,3.39,4.95,Active,New,SAU06,2
+HD-10750,Volvo shock absorber,Suspension,4.88,8.03,Active,New,SAU06,25
+HD-10751,Peterbilt fan clutch,Cooling,301.84,492.68,Active,New,SAU05,1
+HD-10752,Ford governor,Air system,16.81,28.12,Active,New,SAU00,25
+HD-10753,Freightliner trailer cord,Electrical,12.54,19.69,Active,New,SAU11,1
+HD-10754,International mirror head,Lighting,11.86,16.53,Active,New,SAU10,1
+HD-10755,Freightliner fan clutch,Cooling,3.0,4.23,Active,New,SAU09,5
+HD-10756,International leaf spring,Suspension,35.25,54.28,Active,New,SAU05,2
+HD-10757,Kenworth slack adjuster,Brakes,379.01,600.74,Active,New,SAU01,1
+HD-10758,Kenworth kingpin kit,Suspension,449.13,797.36,Active,New,SAU08,1
+HD-10759,GM turn signal,Lighting,39.06,63.93,Active,New,SAU08,5
+HD-10760,Freightliner tail lamp,Lighting,43.4,65.57,Active,New,SAU07,1
+HD-10761,International LED headlamp,Lighting,11.53,19.79,Active,New,SAU01,1
+HD-10762,International glad hand seal,Air system,4.82,6.53,Active,New,SAU09,2
+HD-10763,International relay valve,Air system,16.37,22.89,Active,New,SAU09,5
+HD-10764,GM torque rod,Suspension,30.07,48.32,Active,New,SAU09,2
+HD-10765,Kenworth tail lamp,Lighting,9.23,13.61,Active,New,SAU03,5
+HD-10766,Kenworth air spring,Suspension,71.56,115.85,Active,New,SAU04,25
+HD-10767,Freightliner leaf spring,Suspension,178.77,246.45,Active,New,SAU02,1
+HD-10768,Freightliner brake shoe kit,Brakes,5.63,9.97,Active,New,SAU10,5
+HD-10769,Ford slack adjuster,Brakes,76.32,129.79,Active,New,SAU05,5
+HD-10770,Volvo torque rod,Suspension,27.65,49.01,Active,New,SAU11,25
+HD-10771,Volvo relay valve,Air system,3.69,5.28,Active,New,SAU07,1
+HD-10772,GM LED headlamp,Lighting,492.25,733.34,Active,New,SAU04,1
+HD-10773,International air compressor,Air system,67.52,104.7,Active,New,SAU05,5
+HD-10774,Peterbilt marker lamp,Lighting,21.85,36.2,Active,New,SAU04,5
+HD-10775,Peterbilt brake drum,Brakes,5.82,7.96,Active,New,SAU05,1
+HD-10776,International battery,Electrical,18.33,26.5,Active,New,SAU03,1
+HD-10777,Freightliner battery,Electrical,60.73,92.61,Active,New,SAU05,5
+HD-10778,GM air dryer cartridge,Air system,174.08,258.34,Active,New,SAU08,1
+HD-10779,GM brake chamber,Brakes,226.48,350.72,Active,New,SAU05,1
+HD-10780,Freightliner relay valve,Air system,54.43,80.7,Active,New,SAU07,10
+HD-10781,International radiator,Cooling,44.21,69.22,Active,New,SAU04,2
+HD-10782,Freightliner alternator,Electrical,368.14,540.5,Active,New,SAU08,1
+HD-10783,Volvo battery,Electrical,411.18,619.81,Active,New,SAU01,1
+HD-10784,Volvo glad hand seal,Air system,309.44,457.98,Active,New,SAU04,1
+HD-10785,Kenworth torque rod,Suspension,121.37,166.08,Active,New,SAU08,25
+HD-10786,Freightliner marker lamp,Lighting,9.84,14.63,Active,New,SAU03,10
+HD-10787,Freightliner LED headlamp,Lighting,3.0,5.03,Active,New,SAU03,1
+HD-10788,Peterbilt brake shoe kit,Brakes,3.0,4.85,Active,New,SAU01,2
+HD-10789,Ford slack adjuster,Brakes,8.14,11.0,Active,New,SAU11,1
+HD-10790,International trailer cord,Electrical,3.0,4.13,Active,New,SAU06,1
+HD-10791,Kenworth fan clutch,Cooling,3.67,5.88,Active,New,SAU09,2
+HD-10792,International mirror head,Lighting,36.14,54.12,Active,New,SAU11,25
+HD-10793,GM starter,Electrical,484.34,768.98,Active,New,SAU08,1
+HD-10794,International brake drum,Brakes,537.95,757.59,Active,New,SAU08,1
+HD-10795,Volvo brake shoe kit,Brakes,11.71,16.83,Active,New,SAU10,5
+HD-10796,Freightliner air spring,Suspension,35.02,53.17,Active,New,SAU05,1
+HD-10797,Peterbilt marker lamp,Lighting,15.21,24.62,Active,New,SAU00,1
+HD-10798,Ford governor,Air system,30.45,43.9,Active,New,SAU07,25
+HD-10799,Freightliner thermostat,Cooling,24.23,34.26,Active,New,SAU09,5
+HD-10800,Peterbilt slack adjuster,Brakes,131.82,211.49,Active,New,SAU05,5
+HD-10801,Peterbilt mirror head,Lighting,6.37,9.68,Active,New,SAU06,1
+HD-10802,Ford thermostat,Cooling,4.42,6.67,Active,New,SAU01,5
+HD-10803,Freightliner trailer cord,Electrical,3.97,6.03,Active,New,SAU06,5
+HD-10804,Freightliner trailer cord,Electrical,435.49,692.85,Active,New,SAU08,1
+HD-10805,Volvo leaf spring,Suspension,20.05,31.26,Active,New,SAU08,2
+HD-10806,Freightliner glad hand seal,Air system,3.0,4.64,Active,New,SAU00,1
+HD-10807,Freightliner starter,Electrical,16.6,28.08,Active,New,SAU03,5
+HD-10808,Peterbilt S-cam bushing kit,Brakes,13.56,19.86,Active,New,SAU10,10
+HD-10809,GM glad hand seal,Air system,273.11,404.62,Active,New,SAU00,1
+HD-10810,International air spring,Suspension,4.57,8.04,Active,New,SAU10,5
+HD-10811,Volvo tail lamp,Lighting,14.01,19.86,Active,New,SAU11,1
+HD-10812,GM governor,Air system,3.0,4.3,Active,New,SAU08,1
+HD-10813,Peterbilt alternator,Electrical,54.91,98.09,Active,New,SAU06,1
+HD-10814,Ford starter,Electrical,3.0,4.97,Active,New,SAU11,25
+HD-10815,Volvo water pump,Cooling,69.73,107.76,Active,New,SAU07,25
+HD-10816,Peterbilt relay valve,Air system,5.16,9.22,Active,New,SAU02,1
+HD-10817,Peterbilt trailer cord,Electrical,483.18,659.11,Active,New,SAU01,1
+HD-10818,Freightliner brake drum,Brakes,15.49,25.31,Active,New,SAU07,5
+HD-10819,Ford turn signal,Lighting,3.52,5.31,Active,New,SAU03,10
+HD-10820,Freightliner fan clutch,Cooling,327.66,569.42,Active,New,SAU06,1
+HD-10821,Kenworth starter,Electrical,41.82,71.14,Active,New,SAU02,25
+HD-10822,Freightliner brake chamber,Brakes,76.64,133.43,Active,New,SAU06,25
+HD-10823,Kenworth switch,Electrical,44.0,74.69,Active,New,SAU02,25
+HD-10824,Kenworth kingpin kit,Suspension,3.0,5.26,Active,New,SAU02,2
+HD-10825,Volvo slack adjuster,Brakes,388.14,685.02,Active,New,SAU07,1
+HD-10826,International trailer cord,Electrical,180.07,284.52,Active,New,SAU04,1
+HD-10827,Volvo switch,Electrical,394.26,647.99,Active,New,SAU00,1
+HD-10828,Ford LED headlamp,Lighting,9.65,13.93,Active,New,SAU11,2
+HD-10829,Ford governor,Air system,41.95,58.81,Active,New,SAU04,10
+HD-10830,Kenworth switch,Electrical,3.0,4.97,Active,New,SAU01,2
+HD-10831,Ford LED headlamp,Lighting,306.61,511.7,Active,New,SAU09,1
+HD-10832,Kenworth air compressor,Air system,168.46,234.07,Active,New,SAU07,1
+HD-10833,Freightliner brake chamber,Brakes,6.92,10.33,Active,New,SAU01,2
+HD-10834,Peterbilt brake chamber,Brakes,3.0,5.17,Active,New,SAU07,1
+HD-10835,Kenworth glad hand seal,Air system,3.0,4.58,Active,New,SAU07,2
+HD-10836,Volvo glad hand seal,Air system,3.0,5.36,Active,New,SAU10,1
+HD-10837,International kingpin kit,Suspension,4.55,6.53,Active,New,SAU04,2
+HD-10838,Volvo alternator,Electrical,244.82,333.85,Active,New,SAU08,1
+HD-10839,Peterbilt alternator,Electrical,28.25,46.35,Active,New,SAU00,1
+HD-10840,GM brake chamber,Brakes,22.6,35.59,Active,New,SAU07,2
+HD-10841,Volvo air dryer cartridge,Air system,197.29,302.66,Active,New,SAU01,1
+HD-10842,International relay valve,Air system,7.22,10.95,Active,New,SAU10,2
+HD-10843,International glad hand seal,Air system,3.0,4.84,Active,New,SAU03,1
+HD-10844,Freightliner battery,Electrical,10.97,18.89,Active,New,SAU00,5
+HD-10845,Ford switch,Electrical,13.29,21.19,Active,New,SAU09,5
+HD-10846,Peterbilt water pump,Cooling,3.0,4.28,Active,New,SAU04,1
+HD-10847,GM relay valve,Air system,125.09,212.65,Active,New,SAU00,1
+HD-10848,Freightliner brake shoe kit,Brakes,135.51,186.13,Active,New,SAU08,1
+HD-10849,GM mirror head,Lighting,7.54,13.19,Active,New,SAU06,10
+HD-10850,Freightliner LED headlamp,Lighting,190.67,326.32,Active,New,SAU06,1
+HD-10851,Ford torque rod,Suspension,8.38,13.64,Active,New,SAU06,10
+HD-10852,GM radiator,Cooling,19.5,34.21,Active,New,SAU02,2
+HD-10853,Volvo brake drum,Brakes,5.03,7.47,Active,New,SAU09,5
+HD-10854,GM LED headlamp,Lighting,4.69,8.3,Active,New,SAU11,1
+HD-10855,Freightliner air spring,Suspension,3.0,4.05,Active,New,SAU06,2
+HD-10856,International water pump,Cooling,266.87,409.79,Active,New,SAU09,1
+HD-10857,Freightliner air spring,Suspension,16.97,22.93,Active,New,SAU08,1
+HD-10858,Kenworth tail lamp,Lighting,3.0,4.34,Active,New,SAU00,5
+HD-10859,GM slack adjuster,Brakes,11.65,16.12,Active,New,SAU11,1
+HD-10860,Ford alternator,Electrical,28.16,41.98,Active,New,SAU03,1
+HD-10861,Kenworth kingpin kit,Suspension,86.27,122.84,Active,New,SAU05,1
+HD-10862,Freightliner air dryer cartridge,Air system,3.79,6.33,Active,New,SAU09,1
+HD-10863,Ford marker lamp,Lighting,596.01,1045.79,Active,New,SAU11,1
+HD-10864,GM governor,Air system,3.0,4.54,Active,New,SAU11,10
+HD-10865,Ford trailer cord,Electrical,127.4,207.96,Active,New,SAU01,25
+HD-10866,Volvo brake shoe kit,Brakes,7.43,12.3,Active,New,SAU00,25
+HD-10867,Ford coolant hose,Cooling,3.0,4.98,Active,New,SAU02,5
+HD-10868,Kenworth kingpin kit,Suspension,55.49,77.35,Active,New,SAU02,1
+HD-10869,Ford tail lamp,Lighting,7.48,11.7,Active,New,SAU07,5
+HD-10870,Ford air dryer cartridge,Air system,7.8,11.73,Active,New,SAU09,2
+HD-10871,Kenworth torque rod,Suspension,46.33,82.33,Active,New,SAU03,1
+HD-10872,Peterbilt water pump,Cooling,205.29,357.76,Active,New,SAU09,1
+HD-10873,Peterbilt leaf spring,Suspension,5.83,9.48,Active,New,SAU01,25
+HD-10874,Peterbilt alternator,Electrical,140.53,237.81,Active,New,SAU10,5
+HD-10875,Peterbilt governor,Air system,38.05,67.24,Active,New,SAU04,25
+HD-10876,Ford tail lamp,Lighting,359.82,504.29,Active,New,SAU05,1
+HD-10877,Kenworth radiator,Cooling,397.37,659.96,Active,New,SAU11,1
+HD-10878,Volvo air compressor,Air system,18.47,26.24,Active,New,SAU03,25
+HD-10879,Peterbilt slack adjuster,Brakes,5.22,8.3,Active,New,SAU06,1
+HD-10880,Kenworth relay valve,Air system,36.01,61.9,Active,New,SAU00,5
+HD-10881,Peterbilt water pump,Cooling,25.35,37.48,Active,New,SAU07,1
+HD-10882,International tail lamp,Lighting,87.14,149.17,Active,New,SAU02,1
+HD-10883,Ford tail lamp,Lighting,13.29,20.37,Active,New,SAU07,1
+HD-10884,International trailer cord,Electrical,126.16,183.3,Active,New,SAU08,25
+HD-10885,Freightliner air spring,Suspension,428.44,739.11,Active,New,SAU01,1
+HD-10886,Freightliner air compressor,Air system,40.16,57.95,Active,New,SAU03,10
+HD-10887,International battery,Electrical,52.54,92.67,Active,New,SAU03,25
+HD-10888,Volvo brake drum,Brakes,7.41,11.2,Active,New,SAU00,10
+HD-10889,Peterbilt S-cam bushing kit,Brakes,15.68,21.63,Active,New,SAU08,5
+HD-10890,Ford switch,Electrical,85.64,138.57,Active,New,SAU01,1
+HD-10891,International marker lamp,Lighting,57.25,98.97,Active,New,SAU01,2
+HD-10892,Ford air compressor,Air system,20.75,30.55,Active,New,SAU07,1
+HD-10893,Volvo kingpin kit,Suspension,156.15,275.65,Active,New,SAU08,1
+HD-10894,Volvo fan clutch,Cooling,33.16,49.35,Active,New,SAU10,5
+HD-10895,Freightliner marker lamp,Lighting,148.65,265.21,Active,New,SAU05,5
+HD-10896,International tail lamp,Lighting,31.76,50.36,Active,New,SAU03,2
+HD-10897,Ford slack adjuster,Brakes,7.4,10.64,Active,New,SAU05,2
+HD-10898,International shock absorber,Suspension,4.37,7.35,Active,New,SAU01,10
+HD-10899,Freightliner slack adjuster,Brakes,65.07,110.74,Active,New,SAU04,25
+HD-10900,Ford leaf spring,Suspension,15.07,23.68,Active,New,SAU05,5
+HD-10901,Volvo switch,Electrical,8.35,14.07,Active,New,SAU03,5
+HD-10902,Freightliner torque rod,Suspension,28.7,40.43,Active,New,SAU05,1
+HD-10903,Kenworth air spring,Suspension,58.03,98.61,Active,New,SAU03,1
+HD-10904,Freightliner marker lamp,Lighting,3.0,5.08,Active,New,SAU09,1
+HD-10905,Ford air dryer cartridge,Air system,14.95,23.46,Active,New,SAU05,25
+HD-10906,Kenworth switch,Electrical,80.32,119.79,Active,New,SAU06,1
+HD-10907,Freightliner fan clutch,Cooling,25.1,40.44,Active,New,SAU04,1
+HD-10908,International kingpin kit,Suspension,6.26,10.82,Active,New,SAU01,1
+HD-10909,GM governor,Air system,6.31,9.05,Active,New,SAU04,1
+HD-10910,Kenworth brake chamber,Brakes,304.88,488.46,Active,New,SAU04,1
+HD-10911,Ford S-cam bushing kit,Brakes,276.59,401.9,Active,New,SAU02,1
+HD-10912,Volvo mirror head,Lighting,87.9,120.1,Active,New,SAU08,5
+HD-10913,Ford brake drum,Brakes,8.28,12.16,Active,New,SAU07,1
+HD-10914,Ford coolant hose,Cooling,251.22,340.41,Active,New,SAU07,1
+HD-10915,International marker lamp,Lighting,7.98,13.72,Active,New,SAU06,25
+HD-10916,Ford air compressor,Air system,52.18,87.63,Active,New,SAU06,25
+HD-10917,GM trailer cord,Electrical,3.07,4.69,Active,New,SAU05,2
+HD-10918,Peterbilt trailer cord,Electrical,10.65,14.79,Active,New,SAU03,2
+HD-10919,Peterbilt S-cam bushing kit,Brakes,20.43,31.32,Active,New,SAU10,1
+HD-10920,Peterbilt kingpin kit,Suspension,3.41,5.16,Active,New,SAU04,5
+HD-10921,Freightliner alternator,Electrical,14.73,25.35,Active,New,SAU06,25
+HD-10922,Freightliner coolant hose,Cooling,3.0,4.28,Active,New,SAU04,1
+HD-10923,Volvo alternator,Electrical,3.0,4.94,Active,New,SAU09,25
+HD-10924,Freightliner thermostat,Cooling,52.36,71.49,Active,New,SAU09,1
+HD-10925,GM fan clutch,Cooling,3.33,4.87,Active,New,SAU05,1
+HD-10926,Volvo governor,Air system,12.3,21.66,Active,New,SAU11,5
+HD-10927,Peterbilt glad hand seal,Air system,3.0,4.12,Active,New,SAU06,1
+HD-10928,Freightliner thermostat,Cooling,137.78,236.63,Active,New,SAU01,25
+HD-10929,Freightliner coolant hose,Cooling,4.21,6.88,Active,New,SAU09,25
+HD-10930,GM brake drum,Brakes,256.54,400.53,Active,New,SAU04,1
+HD-10931,Peterbilt kingpin kit,Suspension,193.96,315.22,Active,New,SAU07,1
+HD-10932,Freightliner air compressor,Air system,17.93,30.76,Active,New,SAU08,5
+HD-10933,Freightliner switch,Electrical,7.74,11.38,Active,New,SAU06,10
+HD-10934,GM slack adjuster,Brakes,3.0,5.14,Active,New,SAU09,1
+HD-10935,Freightliner slack adjuster,Brakes,196.95,300.69,Active,New,SAU06,1
+HD-10936,International leaf spring,Suspension,35.21,62.1,Active,New,SAU04,2
+HD-10937,Ford switch,Electrical,95.96,164.22,Active,New,SAU06,10
+HD-10938,International air compressor,Air system,20.55,28.06,Active,New,SAU04,1
+HD-10939,Peterbilt governor,Air system,10.76,16.55,Active,New,SAU04,1
+HD-10940,Volvo trailer cord,Electrical,62.24,98.76,Active,New,SAU10,10
+HD-10941,Volvo LED headlamp,Lighting,17.79,25.49,Active,New,SAU08,2
+HD-10942,International mirror head,Lighting,103.72,154.59,Active,New,SAU08,5
+HD-10943,International kingpin kit,Suspension,54.98,79.28,Active,New,SAU06,1
+HD-10944,Volvo tail lamp,Lighting,21.14,35.63,Active,New,SAU11,5
+HD-10945,Peterbilt mirror head,Lighting,3.0,4.33,Active,New,SAU04,2
+HD-10946,Peterbilt S-cam bushing kit,Brakes,3.14,5.08,Active,New,SAU06,10
+HD-10947,Kenworth relay valve,Air system,100.81,152.39,Active,New,SAU06,1
+HD-10948,Kenworth fan clutch,Cooling,9.19,14.93,Active,New,SAU03,5
+HD-10949,International tail lamp,Lighting,12.29,16.75,Active,New,SAU00,1
+HD-10950,Peterbilt governor,Air system,13.37,22.98,Active,New,SAU10,1
+HD-10951,International relay valve,Air system,254.42,441.33,Active,New,SAU01,1
+HD-10952,Volvo battery,Electrical,10.62,17.32,Active,New,SAU09,10
+HD-10953,Volvo marker lamp,Lighting,5.01,7.67,Active,New,SAU08,1
+HD-10954,Freightliner alternator,Electrical,4.26,6.33,Active,New,SAU03,1
+HD-10955,GM alternator,Electrical,60.94,91.24,Active,New,SAU08,25
+HD-10956,Kenworth tail lamp,Lighting,280.64,442.76,Active,New,SAU01,1
+HD-10957,Peterbilt slack adjuster,Brakes,201.23,338.27,Active,New,SAU06,1
+HD-10958,Peterbilt air spring,Suspension,511.89,802.61,Active,New,SAU09,1
+HD-10959,Freightliner fan clutch,Cooling,29.54,41.31,Active,New,SAU07,2
+HD-10960,Kenworth leaf spring,Suspension,12.25,19.99,Active,New,SAU05,2
+HD-10961,Freightliner brake shoe kit,Brakes,21.91,33.28,Active,New,SAU08,1
+HD-10962,Ford leaf spring,Suspension,64.03,108.73,Active,New,SAU00,1
+HD-10963,GM slack adjuster,Brakes,6.05,8.87,Active,New,SAU07,1
+HD-10964,Volvo brake drum,Brakes,3.0,5.13,Active,New,SAU07,1
+HD-10965,Kenworth coolant hose,Cooling,112.94,168.76,Active,New,SAU08,25
+HD-10966,Kenworth marker lamp,Lighting,3.7,5.37,Active,New,SAU05,1
+HD-10967,Freightliner tail lamp,Lighting,3.8,6.34,Active,New,SAU01,10
+HD-10968,Kenworth tail lamp,Lighting,22.64,39.44,Active,New,SAU11,1
+HD-10969,Freightliner radiator,Cooling,3.0,5.37,Active,New,SAU05,5
+HD-10970,Peterbilt LED headlamp,Lighting,348.31,586.81,Active,New,SAU06,1
+HD-10971,International trailer cord,Electrical,27.92,40.87,Active,New,SAU11,1
+HD-10972,Freightliner fan clutch,Cooling,25.35,42.63,Active,New,SAU00,1
+HD-10973,Ford glad hand seal,Air system,145.74,255.58,Active,New,SAU00,25
+HD-10974,Volvo alternator,Electrical,9.86,15.87,Active,New,SAU01,1
+HD-10975,Kenworth turn signal,Lighting,7.55,10.6,Active,New,SAU06,5
+HD-10976,International tail lamp,Lighting,4.44,7.24,Active,New,SAU03,10
+HD-10977,GM marker lamp,Lighting,88.97,135.2,Active,New,SAU08,1
+HD-10978,Freightliner torque rod,Suspension,28.24,49.57,Active,New,SAU00,1
+HD-10979,Kenworth slack adjuster,Brakes,3.0,4.07,Active,New,SAU06,25
+HD-10980,International fan clutch,Cooling,32.73,48.78,Active,New,SAU07,1
+HD-10981,Volvo tail lamp,Lighting,108.33,146.99,Active,New,SAU00,1
+HD-10982,Ford brake drum,Brakes,14.99,23.11,Active,New,SAU00,1
+HD-10983,Volvo kingpin kit,Suspension,70.54,122.74,Active,New,SAU05,2
+HD-10984,Ford switch,Electrical,216.94,348.22,Active,New,SAU11,1
+HD-10985,Freightliner relay valve,Air system,575.97,890.7,Active,New,SAU08,1
+HD-10986,Peterbilt air compressor,Air system,66.76,115.31,Active,New,SAU07,1
+HD-10987,Kenworth coolant hose,Cooling,142.89,194.2,Active,New,SAU11,1
+HD-10988,Freightliner alternator,Electrical,14.62,23.97,Active,New,SAU11,1
+HD-10989,Kenworth S-cam bushing kit,Brakes,114.89,193.64,Active,New,SAU08,25
+HD-10990,Peterbilt kingpin kit,Suspension,154.1,223.84,Active,New,SAU10,1
+HD-10991,International tail lamp,Lighting,138.34,217.1,Active,New,SAU00,1
+HD-10992,Freightliner air dryer cartridge,Air system,5.51,8.68,Active,New,SAU09,2
+HD-10993,Volvo brake drum,Brakes,3.0,5.37,Active,New,SAU11,10
+HD-10994,International mirror head,Lighting,56.4,100.32,Active,New,SAU04,2
+HD-10995,GM alternator,Electrical,467.83,824.02,Active,New,SAU11,1
+HD-10996,Kenworth glad hand seal,Air system,59.69,99.24,Active,New,SAU06,25
+HD-10997,Freightliner air compressor,Air system,507.97,720.25,Active,New,SAU06,1
+HD-10998,Ford LED headlamp,Lighting,66.26,109.45,Active,New,SAU11,10
+HD-10999,Volvo brake chamber,Brakes,53.69,87.99,Active,New,SAU11,25
+HD-11000,International fan clutch,Cooling,3.0,4.85,Active,New,SAU00,5
+HD-11001,Peterbilt slack adjuster,Brakes,42.44,75.31,Active,New,SAU11,1
+HD-11002,GM brake drum,Brakes,121.2,192.07,Active,New,SAU00,10
+HD-11003,Volvo tail lamp,Lighting,5.59,7.84,Active,New,SAU04,5
+HD-11004,International air compressor,Air system,222.25,385.07,Active,New,SAU01,1
+HD-11005,GM radiator,Cooling,3.0,5.09,Active,New,SAU10,1
+HD-11006,Ford radiator,Cooling,3.0,4.74,Active,New,SAU09,25
+HD-11007,GM governor,Air system,3.12,5.41,Active,New,SAU09,1
+HD-11008,Peterbilt air spring,Suspension,304.45,437.93,Active,New,SAU11,1
+HD-11009,GM shock absorber,Suspension,111.72,170.15,Active,New,SAU05,1
+HD-11010,Volvo slack adjuster,Brakes,56.72,98.28,Active,New,SAU02,25
+HD-11011,Kenworth brake chamber,Brakes,13.76,23.96,Active,New,SAU01,5
+HD-11012,Ford switch,Electrical,6.18,8.63,Active,New,SAU03,1
+HD-11013,Kenworth slack adjuster,Brakes,9.22,13.03,Active,New,SAU02,1
+HD-11014,Kenworth fan clutch,Cooling,21.84,34.36,Active,New,SAU11,1
+HD-11015,Ford switch,Electrical,40.26,67.21,Active,New,SAU08,1
+HD-11016,International mirror head,Lighting,29.36,50.79,Active,New,SAU11,1
+HD-11017,Ford starter,Electrical,3.33,4.53,Active,New,SAU01,2
+HD-11018,Ford air spring,Suspension,3.78,5.23,Active,New,SAU07,1
+HD-11019,GM kingpin kit,Suspension,18.22,29.02,Active,New,SAU00,1
+HD-11020,GM turn signal,Lighting,3.0,4.89,Active,New,SAU01,2
+HD-11021,Kenworth brake chamber,Brakes,3.0,4.96,Active,New,SAU03,25
+HD-11022,International air compressor,Air system,24.26,35.45,Active,New,SAU11,1
+HD-11023,Volvo slack adjuster,Brakes,49.72,76.79,Active,New,SAU03,1
+HD-11024,Ford air spring,Suspension,3.0,4.78,Active,New,SAU03,10
+HD-11025,Freightliner air compressor,Air system,188.78,256.29,Active,New,SAU07,1
+HD-11026,Peterbilt brake drum,Brakes,3.12,5.45,Active,New,SAU01,2
+HD-11027,International tail lamp,Lighting,4.9,8.01,Active,New,SAU06,5
+HD-11028,Freightliner relay valve,Air system,115.49,167.81,Active,New,SAU03,1
+HD-11029,Peterbilt brake chamber,Brakes,54.43,91.53,Active,New,SAU02,1
+HD-11030,Kenworth starter,Electrical,4.91,7.96,Active,New,SAU04,2
+HD-11031,Freightliner thermostat,Cooling,3.0,5.12,Active,New,SAU02,1
+HD-11032,Ford brake chamber,Brakes,18.58,28.34,Active,New,SAU07,10
+HD-11033,Volvo slack adjuster,Brakes,6.28,9.69,Active,New,SAU07,5
+HD-11034,Kenworth brake drum,Brakes,29.16,46.31,Active,New,SAU01,25
+HD-11035,Peterbilt glad hand seal,Air system,34.66,58.63,Active,New,SAU08,1
+HD-11036,International marker lamp,Lighting,3.0,4.8,Active,New,SAU06,2
+HD-11037,Kenworth thermostat,Cooling,4.35,5.9,Active,New,SAU04,25
+HD-11038,Peterbilt governor,Air system,58.46,91.74,Active,New,SAU02,1
+HD-11039,Ford battery,Electrical,5.81,8.67,Active,New,SAU03,1
+HD-11040,Peterbilt brake drum,Brakes,27.13,43.79,Active,New,SAU01,2
+HD-11041,Ford switch,Electrical,85.77,120.71,Active,New,SAU06,5
+HD-11042,Freightliner air compressor,Air system,3.0,5.09,Active,New,SAU07,25
+HD-11043,Kenworth slack adjuster,Brakes,300.57,483.51,Active,New,SAU08,1
+HD-11044,GM brake shoe kit,Brakes,14.07,19.44,Active,New,SAU10,5
+HD-11045,Freightliner fan clutch,Cooling,422.37,586.11,Active,New,SAU00,1
+HD-11046,International slack adjuster,Brakes,3.79,5.31,Active,New,SAU10,2
+HD-11047,Volvo turn signal,Lighting,6.83,11.04,Active,New,SAU11,2
+HD-11048,Kenworth battery,Electrical,56.43,97.29,Active,New,SAU11,25
+HD-11049,Kenworth kingpin kit,Suspension,586.02,863.9,Active,New,SAU11,1
+HD-11050,GM starter,Electrical,76.74,117.59,Active,New,SAU01,1
+HD-11051,Volvo battery,Electrical,3.0,4.93,Active,New,SAU05,10
+HD-11052,Peterbilt thermostat,Cooling,3.0,4.66,Active,New,SAU01,1
+HD-11053,Peterbilt air compressor,Air system,35.47,54.1,Active,New,SAU10,1
+HD-11054,Kenworth slack adjuster,Brakes,7.36,10.22,Active,New,SAU05,10
+HD-11055,GM brake shoe kit,Brakes,96.52,136.64,Active,New,SAU07,25
+HD-11056,Peterbilt air spring,Suspension,346.09,560.15,Active,New,SAU03,1
+HD-11057,Freightliner tail lamp,Lighting,46.49,82.63,Active,New,SAU04,1
+HD-11058,Peterbilt air spring,Suspension,5.28,7.92,Active,New,SAU10,1
+HD-11059,Volvo brake shoe kit,Brakes,275.45,380.86,Active,New,SAU10,1
+HD-11060,Peterbilt torque rod,Suspension,3.0,5.16,Active,New,SAU07,1
+HD-11061,GM marker lamp,Lighting,3.0,5.15,Active,New,SAU11,2
+HD-11062,Volvo tail lamp,Lighting,239.26,408.89,Active,New,SAU10,1
+HD-11063,Kenworth switch,Electrical,9.14,15.78,Active,New,SAU01,5
+HD-11064,Freightliner torque rod,Suspension,3.0,4.45,Active,New,SAU11,1
+HD-11065,Freightliner starter,Electrical,19.1,32.42,Active,New,SAU04,10
+HD-11066,Freightliner leaf spring,Suspension,3.0,5.29,Active,New,SAU08,1
+HD-11067,Volvo battery,Electrical,205.16,321.9,Active,New,SAU02,1
+HD-11068,Ford governor,Air system,4.09,7.01,Active,New,SAU11,25
+HD-11069,Peterbilt shock absorber,Suspension,3.0,4.89,Active,New,SAU09,1
+HD-11070,Peterbilt switch,Electrical,3.0,5.29,Active,New,SAU00,1
+HD-11071,Freightliner glad hand seal,Air system,8.68,14.6,Active,New,SAU07,10
+HD-11072,Kenworth leaf spring,Suspension,6.56,10.45,Active,New,SAU05,1
+HD-11073,Volvo switch,Electrical,3.99,7.11,Active,New,SAU02,1
+HD-11074,Freightliner kingpin kit,Suspension,15.93,26.43,Active,New,SAU10,10
+HD-11075,Kenworth brake chamber,Brakes,52.72,85.54,Active,New,SAU06,1
+HD-11076,Kenworth alternator,Electrical,3.57,5.9,Active,New,SAU10,1
+HD-11077,Ford relay valve,Air system,518.42,784.58,Active,New,SAU00,1
+HD-11078,Volvo radiator,Cooling,3.0,4.62,Active,New,SAU08,5
+HD-11079,Ford alternator,Electrical,43.07,60.71,Active,New,SAU06,1
+HD-11080,Volvo thermostat,Cooling,498.97,797.28,Active,New,SAU01,1
+HD-11081,Freightliner governor,Air system,4.89,7.42,Active,New,SAU02,5
+HD-11082,Peterbilt turn signal,Lighting,83.5,131.43,Active,New,SAU10,1
+HD-11083,Freightliner switch,Electrical,10.4,18.06,Active,New,SAU11,1
+HD-11084,Ford turn signal,Lighting,45.31,65.83,Active,New,SAU08,1
+HD-11085,Kenworth air spring,Suspension,33.47,54.83,Active,New,SAU09,10
+HD-11086,Peterbilt mirror head,Lighting,315.05,508.79,Active,New,SAU09,1
+HD-11087,Ford radiator,Cooling,14.64,26.24,Active,New,SAU08,1
+HD-11088,Ford air compressor,Air system,89.19,152.78,Active,New,SAU10,1
+HD-11089,Freightliner turn signal,Lighting,10.21,17.95,Active,New,SAU08,1
+HD-11090,Kenworth trailer cord,Electrical,12.24,19.37,Active,New,SAU11,1
+HD-11091,Freightliner governor,Air system,128.39,181.72,Active,New,SAU00,5
+HD-11092,Volvo slack adjuster,Brakes,3.02,4.49,Active,New,SAU05,5
+HD-11093,Peterbilt mirror head,Lighting,194.84,290.31,Active,New,SAU02,1
+HD-11094,GM air compressor,Air system,385.79,565.68,Active,New,SAU05,1
+HD-11095,Freightliner brake drum,Brakes,12.35,17.27,Active,New,SAU04,1
+HD-11096,Ford starter,Electrical,213.67,381.0,Active,New,SAU09,1
+HD-11097,GM brake chamber,Brakes,35.77,60.39,Active,New,SAU01,25
+HD-11098,GM glad hand seal,Air system,68.98,123.64,Active,New,SAU08,10
+HD-11099,International air compressor,Air system,15.81,22.35,Active,New,SAU07,1
+HD-11100,Ford slack adjuster,Brakes,3.0,5.13,Active,New,SAU08,1
+HD-11101,GM torque rod,Suspension,200.05,338.98,Active,New,SAU03,1
+HD-11102,GM leaf spring,Suspension,3.0,5.05,Active,New,SAU10,1
+HD-11103,GM fan clutch,Cooling,18.57,26.58,Active,New,SAU10,25
+HD-11104,Volvo trailer cord,Electrical,29.66,42.93,Active,New,SAU11,1
+HD-11105,Peterbilt starter,Electrical,120.26,203.29,Active,New,SAU09,1
+HD-11106,Volvo coolant hose,Cooling,98.11,135.39,Active,New,SAU09,1
+HD-11107,Freightliner brake drum,Brakes,253.75,399.83,Active,New,SAU06,1
+HD-11108,Freightliner governor,Air system,3.41,5.2,Active,New,SAU09,1
+HD-11109,International kingpin kit,Suspension,313.47,433.0,Active,New,SAU11,1
+HD-11110,Peterbilt LED headlamp,Lighting,6.31,8.77,Active,New,SAU05,25
+HD-11111,Volvo tail lamp,Lighting,28.49,45.94,Active,New,SAU04,1
+HD-11112,GM torque rod,Suspension,75.67,131.99,Active,New,SAU07,10
+HD-11113,International S-cam bushing kit,Brakes,9.97,17.48,Active,New,SAU09,10
+HD-11114,Peterbilt thermostat,Cooling,55.64,86.42,Active,New,SAU09,1
+HD-11115,International slack adjuster,Brakes,68.64,111.71,Active,New,SAU06,1
+HD-11116,Volvo slack adjuster,Brakes,120.02,172.37,Active,New,SAU05,10
+HD-11117,Peterbilt thermostat,Cooling,4.43,7.21,Active,New,SAU11,5
+HD-11118,Freightliner shock absorber,Suspension,89.3,138.75,Active,New,SAU02,1
+HD-11119,Ford mirror head,Lighting,168.97,280.09,Active,New,SAU01,1
+HD-11120,Peterbilt coolant hose,Cooling,16.8,25.69,Active,New,SAU06,1
+HD-11121,GM radiator,Cooling,531.64,845.95,Active,New,SAU06,1
+HD-11122,International S-cam bushing kit,Brakes,29.92,48.63,Active,New,SAU05,1
+HD-11123,International radiator,Cooling,11.17,16.98,Active,New,SAU06,25
+HD-11124,Kenworth relay valve,Air system,15.5,26.31,Active,New,SAU06,5
+HD-11125,Peterbilt S-cam bushing kit,Brakes,8.17,14.43,Active,New,SAU07,5
+HD-11126,Peterbilt marker lamp,Lighting,3.26,5.16,Active,New,SAU05,5
+HD-11127,Freightliner radiator,Cooling,3.0,5.36,Active,New,SAU07,1
+HD-11128,Volvo turn signal,Lighting,11.05,17.51,Active,New,SAU10,5
+HD-11129,International tail lamp,Lighting,59.02,83.45,Active,New,SAU03,1
+HD-11130,Ford slack adjuster,Brakes,307.72,431.2,Active,New,SAU04,1
+HD-11131,Kenworth leaf spring,Suspension,5.37,8.82,Active,New,SAU07,1
+HD-11132,Freightliner shock absorber,Suspension,38.4,56.7,Active,New,SAU07,10
+HD-11133,Kenworth relay valve,Air system,3.85,6.13,Active,New,SAU08,2
+HD-11134,Kenworth brake chamber,Brakes,101.59,156.43,Active,New,SAU02,1
+HD-11135,International alternator,Electrical,4.07,6.06,Active,New,SAU07,1
+HD-11136,International slack adjuster,Brakes,51.53,78.59,Active,New,SAU11,1
+HD-11137,GM air compressor,Air system,3.0,4.19,Active,New,SAU02,2
+HD-11138,Freightliner LED headlamp,Lighting,16.86,24.45,Active,New,SAU08,1
+HD-11139,Ford air dryer cartridge,Air system,64.26,95.96,Active,New,SAU03,5
+HD-11140,Peterbilt mirror head,Lighting,7.56,10.84,Active,New,SAU07,5
+HD-11141,GM air spring,Suspension,99.27,155.01,Active,New,SAU10,1
+HD-11142,Kenworth glad hand seal,Air system,86.42,150.89,Active,New,SAU08,10
+HD-11143,Freightliner glad hand seal,Air system,346.18,490.86,Active,New,SAU06,1
+HD-11144,Peterbilt brake drum,Brakes,7.02,11.28,Active,New,SAU08,25
+HD-11145,Peterbilt shock absorber,Suspension,28.18,48.78,Active,New,SAU07,5
+HD-11146,Volvo air compressor,Air system,67.45,106.21,Active,New,SAU02,1
+HD-11147,GM starter,Electrical,26.63,47.85,Active,New,SAU06,1
+HD-11148,GM shock absorber,Suspension,253.76,402.5,Active,New,SAU10,1
+HD-11149,Peterbilt governor,Air system,10.7,14.78,Active,New,SAU05,25
+HD-11150,GM leaf spring,Suspension,54.33,92.82,Active,New,SAU00,2
+HD-11151,Kenworth thermostat,Cooling,7.53,12.35,Active,New,SAU07,5
+HD-11152,Peterbilt trailer cord,Electrical,28.23,42.72,Active,New,SAU01,1
+HD-11153,Kenworth shock absorber,Suspension,111.16,174.57,Active,New,SAU03,1
+HD-11154,Peterbilt fan clutch,Cooling,9.65,13.05,Active,New,SAU10,2
+HD-11155,International thermostat,Cooling,9.65,13.29,Active,New,SAU06,2
+HD-11156,GM thermostat,Cooling,53.87,92.68,Active,New,SAU10,25
+HD-11157,GM switch,Electrical,67.16,114.85,Active,New,SAU08,10
+HD-11158,Freightliner thermostat,Cooling,262.66,449.38,Active,New,SAU02,1
+HD-11159,International shock absorber,Suspension,221.89,349.64,Active,New,SAU05,1
+HD-11160,GM relay valve,Air system,202.03,326.5,Active,New,SAU00,1
+HD-11161,Volvo brake chamber,Brakes,207.74,301.4,Active,New,SAU06,1
+HD-11162,Kenworth coolant hose,Cooling,3.0,4.31,Active,New,SAU07,25
+HD-11163,Freightliner torque rod,Suspension,29.12,42.92,Active,New,SAU05,2
+HD-11164,Peterbilt brake shoe kit,Brakes,9.39,12.76,Active,New,SAU01,1
+HD-11165,International LED headlamp,Lighting,299.77,483.07,Active,New,SAU00,1
+HD-11166,Peterbilt turn signal,Lighting,4.72,6.57,Active,New,SAU01,25
+HD-11167,Volvo radiator,Cooling,17.46,27.92,Active,New,SAU08,25
+HD-11168,Freightliner torque rod,Suspension,23.56,38.81,Active,New,SAU07,10
+HD-11169,Kenworth mirror head,Lighting,3.0,4.5,Active,New,SAU00,5
+HD-11170,Kenworth air dryer cartridge,Air system,260.56,454.86,Active,New,SAU02,1
+HD-11171,International tail lamp,Lighting,33.37,45.48,Active,New,SAU00,2
+HD-11172,Peterbilt torque rod,Suspension,73.05,126.53,Active,New,SAU07,25
+HD-11173,International kingpin kit,Suspension,84.75,120.18,Active,New,SAU01,1
+HD-11174,Kenworth governor,Air system,83.9,150.72,Active,New,SAU02,2
+HD-11175,GM fan clutch,Cooling,353.46,609.25,Active,New,SAU11,1
+HD-11176,International radiator,Cooling,5.54,8.86,Active,New,SAU02,2
+HD-11177,International marker lamp,Lighting,39.31,58.62,Active,New,SAU00,1
+HD-11178,Volvo battery,Electrical,167.26,276.21,Active,New,SAU02,1
+HD-11179,Freightliner governor,Air system,9.64,16.25,Active,New,SAU05,10
+HD-11180,Kenworth kingpin kit,Suspension,3.0,4.68,Active,New,SAU05,1
+HD-11181,Peterbilt torque rod,Suspension,21.84,30.65,Active,New,SAU03,1
+HD-11182,Peterbilt switch,Electrical,3.0,4.73,Active,New,SAU03,5
+HD-11183,Ford LED headlamp,Lighting,5.24,8.74,Active,New,SAU03,25
+HD-11184,Peterbilt tail lamp,Lighting,3.0,5.18,Active,New,SAU05,2
+HD-11185,Freightliner shock absorber,Suspension,79.0,140.6,Active,New,SAU08,1
+HD-11186,GM mirror head,Lighting,8.5,14.84,Active,New,SAU03,2
+HD-11187,Freightliner turn signal,Lighting,3.0,4.46,Active,New,SAU01,2
+HD-11188,GM battery,Electrical,3.0,5.18,Active,New,SAU11,1
+HD-11189,Kenworth S-cam bushing kit,Brakes,3.79,6.27,Active,New,SAU07,5
+HD-11190,International air compressor,Air system,59.39,82.46,Active,New,SAU10,10
+HD-11191,Peterbilt S-cam bushing kit,Brakes,3.43,5.53,Active,New,SAU09,2
+HD-11192,Ford turn signal,Lighting,3.64,5.44,Active,New,SAU07,5
+HD-11193,Peterbilt switch,Electrical,51.55,73.07,Active,New,SAU09,1
+HD-11194,International air spring,Suspension,15.2,26.74,Active,New,SAU06,1
+HD-11195,Peterbilt shock absorber,Suspension,21.07,37.52,Active,New,SAU07,25
+HD-11196,Freightliner turn signal,Lighting,4.48,6.91,Active,New,SAU03,25
+HD-11197,Volvo air compressor,Air system,179.22,306.6,Active,New,SAU11,1
+HD-11198,Peterbilt kingpin kit,Suspension,23.16,34.01,Active,New,SAU02,1
+HD-11199,Kenworth switch,Electrical,28.69,44.23,Active,New,SAU10,5
+HD-90000,International kingpin kit,Suspension,313.47,433.0,Superseded,New,SAU11,1
+HD-90001,Peterbilt governor,Air system,102.87,161.32,Superseded,New,SAU07,2
+HD-90002,Ford coolant hose,Cooling,4.5,7.57,Superseded,New,SAU04,5
+HD-90003,Freightliner governor,Air system,3.41,5.2,Superseded,New,SAU09,1
+HD-90004,International air compressor,Air system,67.52,104.7,Superseded,New,SAU05,5
+HD-90005,Freightliner alternator,Electrical,368.14,540.5,Superseded,New,SAU08,1
+HD-90006,Kenworth relay valve,Air system,100.81,152.39,Superseded,New,SAU06,1
+HD-90007,Peterbilt brake chamber,Brakes,3.0,5.17,Superseded,New,SAU07,1
+HD-90008,Volvo torque rod,Suspension,27.65,49.01,Superseded,New,SAU11,25
+HD-90009,Kenworth starter,Electrical,3.0,4.38,Superseded,New,SAU11,10
+HD-90010,International leaf spring,Suspension,94.29,161.29,Superseded,New,SAU03,1
+HD-90011,Volvo fan clutch,Cooling,3.0,4.07,Superseded,New,SAU03,25
+HD-90012,Ford fan clutch,Cooling,110.32,177.57,Superseded,New,SAU03,2
+HD-90013,Volvo brake shoe kit,Brakes,46.87,68.29,Superseded,New,SAU08,1
+HD-90014,Kenworth relay valve,Air system,395.47,660.03,Superseded,New,SAU01,1
+HD-90015,Kenworth marker lamp,Lighting,11.03,18.61,Superseded,New,SAU07,1
+HD-90016,Peterbilt alternator,Electrical,92.89,147.08,Superseded,New,SAU03,1
+HD-90017,GM switch,Electrical,161.71,223.61,Superseded,New,SAU01,1
+HD-90018,Kenworth turn signal,Lighting,19.83,35.04,Superseded,New,SAU01,5
+HD-90019,Freightliner leaf spring,Suspension,7.67,11.2,Superseded,New,SAU10,1
+HD-90020,Ford alternator,Electrical,180.23,309.27,Superseded,New,SAU00,1
+HD-90021,Peterbilt slack adjuster,Brakes,42.44,75.31,Superseded,New,SAU11,1
+HD-90022,Kenworth torque rod,Suspension,121.37,166.08,Superseded,New,SAU08,25
+HD-90023,Freightliner alternator,Electrical,14.73,25.35,Superseded,New,SAU06,25
+HD-90024,Freightliner LED headlamp,Lighting,16.86,24.45,Superseded,New,SAU08,1
+HD-90025,International air spring,Suspension,61.43,104.88,Superseded,New,SAU11,25
+HD-90026,Peterbilt water pump,Cooling,9.9,15.69,Superseded,New,SAU03,10
+HD-90027,International turn signal,Lighting,109.38,179.97,Superseded,New,SAU07,2
+HD-90028,GM brake drum,Brakes,24.69,41.06,Superseded,New,SAU01,2
+HD-90029,GM trailer cord,Electrical,3.07,4.69,Superseded,New,SAU05,2
+HD-90030,Peterbilt fan clutch,Cooling,536.06,927.03,Superseded,New,SAU10,1
+HD-90031,Ford kingpin kit,Suspension,16.83,28.74,Superseded,New,SAU08,1
+HD-90032,Kenworth glad hand seal,Air system,9.56,14.07,Superseded,New,SAU07,2
+HD-90033,Ford kingpin kit,Suspension,38.27,63.59,Superseded,New,SAU03,25
+HD-90034,Freightliner battery,Electrical,117.4,167.23,Superseded,New,SAU04,1
+HD-90035,Volvo governor,Air system,166.49,246.08,Superseded,New,SAU04,1

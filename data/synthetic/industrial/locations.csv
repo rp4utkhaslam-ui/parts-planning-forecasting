@@ -1,0 +1,5 @@
+location_id,name,location_type,parent_warehouse
+DET,Detroit,branch,
+FLT,Flint,branch,
+GRR,Grand Rapids,branch,
+TOL,Toledo,branch,

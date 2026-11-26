@@ -1,0 +1,15 @@
+# Mock ERP databases are rebuilt automatically by the app on first run
+data/mock_erp/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+# Never commit real partner data: put it here, outside git
+data/partner/
+*.env
+.streamlit/secrets.toml
+data/uploads/
+data/results/upload_*/
+data/scenarios/
+data/pl_actuals/

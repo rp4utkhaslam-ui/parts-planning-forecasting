@@ -1,0 +1,12 @@
+# Everything the dashboard needs, including the forecasting packages the
+# "Upload data" page uses to rerun the backtest on uploaded files.
+streamlit==1.67.0
+pandas==2.3.3
+numpy==2.5.3
+scipy==1.18.1
+plotly==7.1.0
+pyarrow==26.0.1
+statsforecast==2.1.1
+mlforecast==1.1.0
+lightgbm==4.7.0
+utilsforecast==0.2.17
