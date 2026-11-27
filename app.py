@@ -19,6 +19,7 @@ from src.connectors.mock_erp import seed
 from src.inventory import findings, recommended_levels, service_levels, stock_decision, suggestions
 from src import pnl as PNL
 from src import scenarios as SCN
+from src import assistant as ASST
 
 st.set_page_config(page_title="Parts demand planning: proof of concept", layout="wide")
 
@@ -108,7 +109,7 @@ def erp_conn(v: str) -> MockERPConnector:
     return MockERPConnector(db)
 
 
-PAGES = ["Summary", "Value impact", "Scenario planning", "Financial P&L", "KPI scorecard", "Forecast accuracy", "Inventory", "Part detail",
+PAGES = ["Summary", "Planning assistant", "Value impact", "Scenario planning", "Financial P&L", "KPI scorecard", "Forecast accuracy", "Inventory", "Part detail",
          "Approvals", "Mock ERP", "Upload data", "Settings and data"]
 
 # ---------------------------------------------------------------- sidebar
@@ -1238,7 +1239,377 @@ def page_pnl():
 """)
 
 
-{"Summary": page_summary, "Value impact": page_value, "Scenario planning": page_scenarios,
+# ---------------------------------------------------------------- planning assistant page
+def secret(name: str, default=None):
+    """Read a Streamlit secret or environment variable without failing when no secrets file exists."""
+    import os
+    try:
+        val = st.secrets.get(name)
+    except Exception:  # noqa: BLE001 - no secrets.toml
+        val = None
+    return val if val not in (None, "") else os.environ.get(name, default)
+
+
+def asst_table():
+    """One row per SKU-location with the live stock position and the recommended levels."""
+    inv = live_inventory()
+    t = s.copy()
+    t["on_hand"] = t["uid"].map(inv["on_hand"]).fillna(t["on_hand"])
+    t["on_order"] = t["uid"].map(inv["on_order"]).fillna(t["on_order"])
+    t["erp_min"] = t["uid"].map(inv["min_qty"])
+    t["erp_max"] = t["uid"].map(inv["max_qty"])
+    t["rec_reorder_point"] = f["rop"]
+    t["rec_order_up_to"] = f["out"]
+    t["position"] = t["on_hand"] + t["on_order"]
+    t["below_reorder_point"] = (t["position"] <= t["rec_reorder_point"]) & (t["rec_reorder_point"] > 0)
+    t["weeks_of_cover"] = np.where(t["mean_week"] > 0, t["position"] / t["mean_week"].clip(lower=1e-9), np.inf)
+    t["excess_value"] = f["excess_units"] * t["unit_cost"]
+    ann = 52 / f["weeks"]
+    t["lost_sales_erp_per_yr"] = f["lost_units_erp"] * t["price"] * ann
+    t["annual_value"] = value_of(f, assumptions())["per"]["annual"].to_numpy()
+    return t
+
+
+ASST_COLS = ["item_id", "location_id", "description", "category", "abc", "pattern", "supplier_id", "unit_cost",
+             "on_hand", "on_order", "erp_min", "erp_max", "rec_reorder_point", "rec_order_up_to", "weeks_of_cover",
+             "lead_time_weeks", "annual_usage_value", "excess_value", "lost_sales_erp_per_yr", "annual_value"]
+
+
+def asst_filter(t, location_id=None, abc=None, pattern=None, category=None, supplier_id=None, text=None):
+    if location_id: t = t[t["location_id"].str.upper() == str(location_id).upper()]
+    if abc: t = t[t["abc"] == abc]
+    if pattern: t = t[t["pattern"].str.lower() == str(pattern).lower()]
+    if category: t = t[t["category"].astype(str).str.lower().str.contains(str(category).lower(), regex=False)]
+    if supplier_id: t = t[t["supplier_id"].str.upper() == str(supplier_id).upper()]
+    if text:
+        q = str(text).lower()
+        t = t[t["item_id"].str.lower().str.contains(q, regex=False) |
+              t["description"].astype(str).str.lower().str.contains(q, regex=False)]
+    return t
+
+
+def asst_orders(location_id=None, supplier_id=None, abc=None):
+    t = s.copy()
+    inv = live_inventory()
+    t["on_hand"] = t["uid"].map(inv["on_hand"])
+    t["on_order"] = t["uid"].map(inv["on_order"])
+    po, _ = suggestions(t, f["rop"], f["out"], pd.Timestamp(meta["forecast_start"]))
+    return asst_filter(po, location_id=location_id, supplier_id=supplier_id, abc=abc)
+
+
+def asst_mode(mode):
+    m = {"keep_fill_rate": "fill", "keep_stock": "inv"}.get(mode or "sliders")
+    return f if m is None else operating_point(v, m, float(cycle), special)[1]
+
+
+def asst_handlers() -> dict:
+    A0 = assumptions()
+
+    def company_overview():
+        r = value_of(f, A0)
+        t = asst_table()
+        return {"company": meta["label"], "data": "uploaded" if UPLOADED else "mock",
+                "sku_locations": len(s), "locations": sorted(s["location_id"].unique().tolist()),
+                "inventory_value_now": f["inv_value_now"], "excess_value": f["excess_value"],
+                "dead_stock_value": f["dead_value"], "parts_below_reorder_point": int(t["below_reorder_point"].sum()),
+                "backtest_weeks": f["weeks"],
+                "fill_rate_erp": f["fill_val_erp"], "fill_rate_recommended": f["fill_val_rec"],
+                "avg_inventory_erp": f["avg_inv_erp"], "avg_inventory_recommended": f["avg_inv_rec"],
+                "lost_sales_erp_backtest": f["lost_erp"], "lost_sales_recommended_backtest": f["lost_rec"],
+                "value_at_sidebar_settings": {k: r[k] for k in ["cash", "carry", "margin", "annual", "fee", "roi",
+                                                                "payback"]},
+                "note": "cash = one-time inventory reduction (negative means more stock is held); annual = carrying "
+                        "savings + recovered margin per year."}
+
+    def find_parts(sort_by="stockout_risk", limit=10, **flt):
+        t = asst_filter(asst_table(), **flt)
+        if sort_by == "stockout_risk":
+            t = t[t["below_reorder_point"]].sort_values("annual_usage_value", ascending=False)
+        else:
+            key = {"excess_value": "excess_value", "annual_value": "annual_value",
+                   "lost_sales": "lost_sales_erp_per_yr", "usage_value": "annual_usage_value"}[sort_by]
+            t = t.sort_values(key, ascending=False)
+        return {"matches": int(len(t)), "parts": t[ASST_COLS].head(int(limit or 10))}
+
+    def part_detail(item_id, location_id=None):
+        t = asst_table()
+        t = t[t["item_id"].str.upper() == str(item_id).upper()]
+        if location_id:
+            t = t[t["location_id"].str.upper() == str(location_id).upper()]
+        if t.empty:
+            return {"error": f"No part {item_id}" + (f" at {location_id}" if location_id else "")}
+        idx = t.index.to_numpy()
+        act = a["actual"][idx]
+        out = t[ASST_COLS + ["price", "lead_time_sd_weeks", "pack_size", "seasonal", "mean_week",
+                             "weeks_with_demand_52"]].copy()
+        out["demand_last_13_weeks"] = act[:, -13:].sum(1)
+        out["demand_last_39_weeks"] = act.sum(1)
+        return out
+
+    def list_values():
+        sup = s.groupby(["supplier_id", "supplier_name"], as_index=False)["annual_usage_value"].sum()
+        return {"locations": s[["location_id", "location_name"]].drop_duplicates(),
+                "categories": sorted(s["category"].astype(str).unique().tolist()),
+                "abc": ["A", "B", "C"], "patterns": sorted(s["pattern"].unique().tolist()),
+                "suppliers": sup.sort_values("annual_usage_value", ascending=False)}
+
+    def forecast_accuracy(segment_by="none"):
+        ok = ~(np.isnan(a["cv_win"]).any(1) | np.isnan(a["cv_erp"]).any(1))
+        col = {"demand_group": "group", "abc": "abc", "location": "location_id"}.get(segment_by)
+        groups = [("All parts", ok)] if not col else [
+            (str(g), ok & (s[col].to_numpy() == g)) for g in sorted(s[col].unique())]
+        rows = []
+        for name, m in groups:
+            if not m.any():
+                continue
+            act, ours, erp = (bucket(x[m], 13) for x in (a["actual"], a["cv_win"], a["cv_erp"]))
+            ko, ke = fc_kpis(act, ours), fc_kpis(act, erp)
+            rows.append({"segment": name, "sku_locations": int(m.sum()),
+                         **{f"ours_{k}": v_ for k, v_ in ko.items()}, **{f"erp_{k}": v_ for k, v_ in ke.items()}})
+        return {"measured_at": "13-week totals, units", "rows": pd.DataFrame(rows)}
+
+    def value_impact(mode="keep_fill_rate"):
+        r = value_of(asst_mode(mode), A0)
+        return {"mode": mode, **{k: r[k] for k in r if k != "per"},
+                "assumptions": A0}
+
+    def run_scenarios_tool(futures=None, include_base_case=True):
+        if futures:
+            rows = [{"Scenario": x.get("name", f"Future {i + 1}"), "Probability %": x.get("probability_pct", 10),
+                     "Demand change %": x.get("demand_change_pct", 0), "Volatility x": x.get("volatility_x", 1.0),
+                     "Category hit": x.get("category") or "All categories",
+                     "Category change %": x.get("category_change_pct", 0),
+                     "Lead time +weeks": x.get("lead_time_plus_weeks", 0), "Suppliers hit %": x.get("suppliers_hit_pct", 0),
+                     "Lead-time variability x": x.get("lead_time_variability_x", 1.0),
+                     "Cost change %": x.get("cost_change_pct", 0), "Price change %": x.get("price_change_pct", 0)}
+                    for i, x in enumerate(futures)]
+            if include_base_case and not any(r["Scenario"].lower().startswith("base") for r in rows):
+                rows.insert(0, dict(SCN.PRESETS[0]))
+            table = SCN.clean(pd.DataFrame(rows))
+        else:
+            table = SCN.clean(scenario_table(v))
+        res = run_scenarios(v, table.to_json(orient="records"), targets, float(cycle), special, 0.03, 6,
+                            float(A0["carry"]), float(A0["recover"]))
+        rk = SCN.ranking(res)
+        keep = ["Scenario", "Strategy", "Fill rate", "Average inventory", "Lost sales / yr", "Cost of the policy / yr",
+                "Regret / yr"]
+        return {"futures": table, "ranking": rk.reset_index(),
+                "lowest_expected_cost": rk.index[0], "most_robust": rk["Worst-case regret / yr"].idxmin(),
+                "results": res[keep], "settings": "buffer +3 pts, re-plan after 6 weeks; costs use Value impact "
+                "assumptions. See the Scenario planning page to edit and save futures."}
+
+    def financial_pnl(mode="keep_fill_rate", year=1, overrides=None):
+        g = asst_mode(mode)
+        r = value_of(g, A0)
+        T = a["actual"].shape[1]
+        price, cost = s["price"].to_numpy(), s["unit_cost"].to_numpy()
+        drivers = {"base_revenue": float((a["erp_sold"] * price).sum()) * 52 / T,
+                   "base_margin": float((a["erp_sold"] * (price - cost)).sum()) * 52 / T,
+                   "rev_gain": r["revenue"], "margin_gain": r["margin"], "inv_erp": r["inv_erp"],
+                   "inv_new": r["inv_rec"], "excess": f["excess_value"]}
+        A = pnl_assumptions()
+        A["fee"] = st.session_state.get("pl_fee", A0["fee"])
+        for k, val in (overrides or {}).items():
+            if k in A and isinstance(val, (int, float)):
+                A[k] = val
+        df = PNL.monthly(drivers, A)
+        sm = PNL.summary(df, A)
+        stt = PNL.statement(drivers, A, df, int(year or 1))
+        return {"mode": mode, "summary": sm, "annual_pnl_year": int(year or 1), "annual_pnl": stt,
+                "assumptions_used": {k: A[k] for k in PNL.DEFAULTS} | {"carry": A["carry"], "recover": A["recover"]}}
+
+    def suggested_orders(limit=15, **flt):
+        po = asst_orders(**flt)
+        by = po.groupby(["supplier_id", "supplier_name", "min_order_value"], as_index=False).agg(
+            lines=("qty", "size"), value=("value", "sum"))
+        by["below_supplier_minimum"] = by["value"] < by["min_order_value"]
+        return {"lines": int(len(po)), "total_value": float(po["value"].sum()),
+                "by_supplier": by.sort_values("value", ascending=False),
+                "top_lines": po.head(int(limit or 15))}
+
+    def draft_purchase_orders(lines=None, **flt):
+        po = asst_orders(**flt)
+        if lines:
+            want = pd.DataFrame(lines)
+            want["_i"] = want.pop("item_id").astype(str).str.strip().str.upper()
+            want["_l"] = want.pop("location_id").astype(str).str.strip().str.upper()
+            base = s[["item_id", "location_id", "description", "supplier_id", "unit_cost", "lead_time_weeks"]]
+            base = base.assign(_i=base["item_id"].str.upper(), _l=base["location_id"].str.upper())
+            d = want.merge(base, on=["_i", "_l"], how="left")
+            d["item_id"] = d["item_id"].fillna(d["_i"])
+            d["location_id"] = d["location_id"].fillna(d["_l"])
+            d["qty"] = pd.to_numeric(d["qty"], errors="coerce").fillna(0).clip(lower=0)
+            missing = d[d["supplier_id"].isna()]
+            d = d.dropna(subset=["supplier_id"])
+            d = d[d["qty"] > 0]
+            today = pd.Timestamp(meta["forecast_start"])
+            d["expected_date"] = [(today + pd.DateOffset(weeks=int(x))).date() for x in d["lead_time_weeks"]]
+            d["value"] = d["qty"] * d["unit_cost"]
+        else:
+            d, missing = po, pd.DataFrame()
+        if d.empty:
+            return {"drafted": 0, "message": "Nothing to draft for those filters."}
+        d = d[["item_id", "location_id", "description", "supplier_id", "qty", "value", "expected_date"]].head(300)
+        st.session_state.setdefault("asst_pending", {})[v] = {"kind": "po", "lines": d}
+        return {"drafted": int(len(d)), "total_value": float(d["value"].sum()),
+                "capped": "Only the first 300 lines were drafted." if len(d) == 300 else None,
+                "not_found": missing[["item_id", "location_id"]] if len(missing) else [],
+                "status": "DRAFT awaiting the user's Confirm click below the chat; nothing written yet."}
+
+    def draft_min_max_changes(changes):
+        t = asst_table()
+        want = pd.DataFrame(changes)
+        want["_i"] = want.pop("item_id").astype(str).str.strip().str.upper()
+        want["_l"] = want.pop("location_id").astype(str).str.strip().str.upper()
+        t = t.assign(_i=t["item_id"].str.upper(), _l=t["location_id"].str.upper())
+        d = want.merge(t, on=["_i", "_l"], how="inner")
+        if d.empty:
+            return {"drafted": 0, "message": "None of those parts were found."}
+        if "new_min" not in d:
+            d["new_min"] = np.nan
+        if "new_max" not in d:
+            d["new_max"] = np.nan
+        d["new_min"] = d["new_min"].fillna(d["rec_reorder_point"])
+        d["new_max"] = d["new_max"].fillna(d["rec_order_up_to"]).clip(lower=d["new_min"])
+        d = d[["item_id", "location_id", "description", "erp_min", "erp_max", "new_min", "new_max"]]
+        st.session_state.setdefault("asst_pending", {})[v] = {"kind": "minmax", "lines": d}
+        return {"drafted": int(len(d)), "changes": d,
+                "status": "DRAFT awaiting the user's Confirm click below the chat; nothing written yet."}
+
+    return {"company_overview": company_overview, "find_parts": find_parts, "part_detail": part_detail,
+            "list_values": list_values, "forecast_accuracy": forecast_accuracy, "value_impact": value_impact,
+            "run_scenarios": run_scenarios_tool, "financial_pnl": financial_pnl,
+            "suggested_orders": suggested_orders, "draft_purchase_orders": draft_purchase_orders,
+            "draft_min_max_changes": draft_min_max_changes}
+
+
+ASST_EXAMPLES = [
+    "Give me a one-paragraph health check of this company's inventory.",
+    "Which A parts are most at risk of stocking out right now?",
+    "What happens to lost sales if lead times from the top 30% of suppliers rise 4 weeks?",
+    "Build the year-1 P&L assuming $200K of expedited freight a year. What's the payback?",
+    "Draft purchase orders for every A part below its reorder point.",
+]
+ASST_LIMIT = 30          # questions per browser session, to cap API cost
+
+
+def page_assistant():
+    st.title("Planning assistant")
+    st.markdown("Ask about this company's inventory, forecasts, scenarios or the P&L in plain English. The assistant "
+                "answers by running the app's own calculations, and shows its work. It can draft purchase orders and "
+                "min/max changes, but nothing is written to the ERP until you click **Confirm**.")
+    key = secret("ANTHROPIC_API_KEY")
+    if not key:
+        st.info("The assistant needs an Anthropic API key. Add `ANTHROPIC_API_KEY = \"sk-ant-...\"` to "
+                "`.streamlit/secrets.toml` in the codespace, or to the app's **Settings → Secrets** on Streamlit "
+                "Cloud, then reload. Optionally add `ASSISTANT_PASSWORD` to lock this page.")
+        return
+    pw = secret("ASSISTANT_PASSWORD")
+    if pw and not st.session_state.get("asst_ok"):
+        typed = st.text_input("Password for the assistant", type="password")
+        if typed:
+            if typed == pw:
+                st.session_state["asst_ok"] = True
+                st.rerun()
+            st.error("Wrong password.")
+        return
+    if not pw:
+        st.caption("No ASSISTANT_PASSWORD is set, so anyone with the app link can use this page and your API credit.")
+    try:
+        import anthropic
+    except ImportError:
+        st.error("The `anthropic` package is missing. Run `pip install -r requirements.txt`.")
+        return
+    model = secret("ANTHROPIC_MODEL", ASST.DEFAULT_MODEL)
+    hist = st.session_state.setdefault("asst_hist", {}).setdefault(v, [])     # API messages
+    view = st.session_state.setdefault("asst_view", {}).setdefault(v, [])     # what the page shows
+    used = st.session_state.setdefault("asst_used", 0)
+
+    c = st.columns([3, 1])
+    c[0].caption(f"Company: **{meta['label']}** · {'uploaded' if UPLOADED else 'mock'} data · model {model} · "
+                 f"{used}/{ASST_LIMIT} questions this session")
+    if c[1].button("Clear conversation"):
+        st.session_state["asst_hist"][v] = []
+        st.session_state["asst_view"][v] = []
+        st.session_state.get("asst_pending", {}).pop(v, None)
+        st.rerun()
+
+    for m in view:
+        with st.chat_message(m["role"]):
+            st.markdown(m["text"])
+            if m.get("calls"):
+                with st.expander(f"Show work ({len(m['calls'])} calculation{'s' if len(m['calls']) > 1 else ''})"):
+                    for cl in m["calls"]:
+                        st.markdown(f"**{cl['tool']}** `{json.dumps(cl['input'])}`")
+                        st.json(cl["output"], expanded=False)
+
+    if not view:
+        st.markdown("**Try one of these:**")
+        for i, ex in enumerate(ASST_EXAMPLES):
+            if st.button(ex, key=f"ex_{i}"):
+                st.session_state["asst_q"] = ex
+                st.rerun()
+
+    pend = st.session_state.get("asst_pending", {}).get(v)
+    if pend is not None:
+        kind = "purchase orders" if pend["kind"] == "po" else "min/max changes"
+        st.warning(f"Draft {kind} from the assistant: {len(pend['lines'])} lines. Review, then confirm or discard.")
+        st.dataframe(pend["lines"], hide_index=True, width="stretch", height=min(400, 40 + 35 * len(pend["lines"])))
+        b = st.columns([1, 1, 4])
+        if b[0].button("Confirm and write to the mock ERP", type="primary"):
+            conn = erp_conn(v)
+            L = pend["lines"]
+            if pend["kind"] == "po":
+                n = conn.create_po(L[["item_id", "location_id", "supplier_id", "qty", "expected_date"]])
+            else:
+                n = conn.update_min_max(L[["item_id", "location_id", "new_min", "new_max"]])
+            st.session_state["asst_pending"].pop(v, None)
+            view.append({"role": "assistant", "text": f"Confirmed: {n} line(s) of {kind} written to the mock ERP. "
+                                                      "See the change log on the Mock ERP page."})
+            hist.append({"role": "user", "content": f"[The user confirmed the draft: {n} {kind} were written.]"})
+            hist.append({"role": "assistant", "content": "Noted."})
+            st.rerun()
+        if b[1].button("Discard draft"):
+            st.session_state["asst_pending"].pop(v, None)
+            st.rerun()
+
+    q = st.chat_input("Ask about inventory, forecasts, scenarios or the P&L") or st.session_state.pop("asst_q", None)
+    if not q:
+        return
+    if used >= ASST_LIMIT:
+        st.error(f"This session has reached {ASST_LIMIT} questions. Reload the page to start a new session.")
+        return
+    st.session_state["asst_used"] = used + 1
+    view.append({"role": "user", "text": q})
+    with st.chat_message("user"):
+        st.markdown(q)
+    settings = (f"service levels A {sl_a:.3f}, B {sl_b:.2f}, C {sl_c:.2f}; {cycle} weeks per order; "
+                f"special-order slow C parts {'on' if special else 'off'}")
+    system = ASST.SYSTEM.format(company=meta["label"], data_kind="uploaded by the user" if UPLOADED else
+                                "mock data generated for a proof of concept", settings=settings)
+    with st.chat_message("assistant"):
+        status = st.status("Thinking...", expanded=False)
+        try:
+            client = anthropic.Anthropic(api_key=key)
+            text, new_hist, calls = ASST.run(
+                client, model, system, ASST.trim_history(hist + [{"role": "user", "content": q}]), asst_handlers(),
+                on_step=lambda name, inp, out: status.write(f"Ran **{name}**"))
+            status.update(label=f"Done ({len(calls)} calculations)", state="complete")
+        except anthropic.AuthenticationError:
+            status.update(label="Error", state="error")
+            text, new_hist, calls = "The API key was rejected. Check ANTHROPIC_API_KEY in Secrets.", hist, []
+        except anthropic.APIStatusError as e:
+            status.update(label="Error", state="error")
+            text, new_hist, calls = f"The Anthropic API returned an error ({e.status_code}): {e.message}", hist, []
+        except anthropic.APIConnectionError:
+            status.update(label="Error", state="error")
+            text, new_hist, calls = "Could not reach the Anthropic API. Check the internet connection and retry.", hist, []
+        st.session_state["asst_hist"][v] = new_hist
+        view.append({"role": "assistant", "text": text, "calls": calls})
+    st.rerun()
+
+
+{"Summary": page_summary, "Planning assistant": page_assistant, "Value impact": page_value, "Scenario planning": page_scenarios,
  "Financial P&L": page_pnl, "KPI scorecard": page_scorecard,
  "Forecast accuracy": page_accuracy, "Inventory": page_inventory, "Part detail": page_part,
  "Approvals": page_approvals, "Mock ERP": page_erp, "Upload data": page_upload,

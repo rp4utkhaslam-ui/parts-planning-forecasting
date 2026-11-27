@@ -37,6 +37,10 @@ What it does:
 11. **Shows the customer's P&L** (Financial P&L page): saved sales, recovered margin, carrying,
     expedite, write-off and planner-time savings against software cost, month by month and as an
     annual P&L with an operating-income bridge, NPV, payback, and a plan-vs-actual tracker.
+12. **Answers questions in plain English** (Planning assistant page): a Claude agent that calls the app's own
+    calculations (KPIs, part search, scenarios, P&L, suggested orders) and shows its work. It can draft POs and
+    min/max changes; nothing is written to the ERP until you click Confirm. Needs `ANTHROPIC_API_KEY` in
+    `.streamlit/secrets.toml` or the Streamlit Cloud app's Secrets (see `.streamlit/secrets.toml.example`).
 
 > **Security rule.** This repo holds mock data only and may be public. Never put an
 > employer's or partner's data in it. Real partner data goes in `data/partner/`, which
@@ -113,9 +117,10 @@ python -m src.pipeline                     # optional: re-run forecasts
 ## Project layout
 
 ```
-app.py                     Streamlit dashboard (12 pages)
+app.py                     Streamlit dashboard (13 pages)
 src/upload.py              CSV upload checks for the Upload data page
 src/scenarios.py           Scenario planning: futures, strategy replay, ranking, contingency plan
+src/assistant.py           Planning assistant: Claude tool definitions and the agent loop
 src/pnl.py                 Customer P&L model: monthly impact, annual statement, actuals tracker
 src/config.py              Settings and the four mock companies
 src/synthetic.py           Mock ERP data generator
